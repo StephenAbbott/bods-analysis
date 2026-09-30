@@ -1,0 +1,13 @@
+Unknown  headline      n=10,459 reaches_group 9,589 (91.7%)  reaches_head 7,244 (69.3%)
+Unknown  with aliases  n=10,459 reaches_group 9,597 (91.8%)  reaches_head 7,284 (69.6%)
+ALL      headline      n=12,534 reaches_group 11,403 (91.0%)  reaches_head 8,804 (70.2%)
+ALL      with aliases  n=12,534 reaches_group 11,413 (91.1%)  reaches_head 8,847 (70.6%)
+
+changed rows (group, outcome before->after, head before->after):
+24 ('Nippon Telegraph and Telephone Corp', 'reaches_group', 'reaches_group', False, True) ['NTT SECURITY (UK) LIMITED', 'DIMENSION DATA HOLDINGS LIMITED']
+7 ('Muenchener Rueckversicherungs-Gesellschaft in Muenchen AG', 'reaches_group', 'reaches_group', False, True) ['GLOBAL AEROSPACE UNDERWRITING MANAGERS LIMITED', 'ASSOCIATED AVIATION UNDERWRITERS LIMITED']
+6 ('Nippon Telegraph and Telephone Corp', 'unmatched_corporate', 'reaches_group', False, True) ['NTT LIMITED', 'NTT FINANCE UK LIMITED']
+2 ('Cigna Group', 'reaches_group', 'reaches_group', False, True) ['CIGNA GLOBAL WELLBEING SOLUTIONS LIMITED', 'CIGNA CHESTNUT HOLDINGS, LTD']
+2 ('Cigna Group', 'unmatched_corporate', 'reaches_group', False, True) ['CIGNA GLOBAL WELLBEING HOLDINGS LIMITED', 'CIGNA WALNUT HOLDINGS, LTD.']
+1 ('Arthur J. Gallagher & Co.', 'unmatched_corporate', 'reaches_group', False, True) ['Artex ILS Services UK Ltd']
+1 ('Industria de Diseno Textil SA', 'unmatched_corporate', 'reaches_group', False, True) ['ITX UK LIMITED']

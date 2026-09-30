@@ -1,0 +1,10 @@
+{
+  "_doc": "Sensitivity-check aliases: other names under which the SAME legal entity as a MEIP group head appears on UK PSC filings. Each entry is added to that group's head names only in the alias run (09); the headline figures never use them. Criterion: same legal entity (rename, legal-name word order, local-language vs trading name, or a filing typo) — never a parent, subsidiary or affiliate.",
+  "aliases": [
+    {"group": "Nippon Telegraph and Telephone Corp", "alias": "NTT, Inc.", "kind": "rename", "evidence": "Nippon Telegraph and Telephone Corporation renamed NTT, Inc. effective 1 July 2025 (NTT press release 9 May 2025)", "source": "https://group.ntt/en/newsrelease/2025/05/09/250509c.html"},
+    {"group": "Cigna Group", "alias": "Cigna Corporation", "kind": "rename (register not updated)", "evidence": "Cigna Corporation renamed The Cigna Group in February 2023 (SEC 8-K); UK PSC filings still carry the old name in 2026", "source": "https://www.sec.gov/Archives/edgar/data/1739940/000095015923000019/cigna8k.htm"},
+    {"group": "Industria de Diseno Textil SA", "alias": "Inditex S.A.", "kind": "short/trading name of the same company", "evidence": "Inditex is the contraction of Industria de Diseno Textil, S.A.", "source": "https://www.inditex.com/"},
+    {"group": "Arthur J. Gallagher & Co.", "alias": "Arthur J. Gallager & Co (Ajg)", "kind": "filing typo", "evidence": "Misspelling ('Gallager') of the group head's name in a UK PSC filing", "source": "UK PSC register (psc_graph snapshot 2026-09-23)"},
+    {"group": "Muenchener Rueckversicherungs-Gesellschaft in Muenchen AG", "alias": "Münchener Rückversicherungs-Gesellschaft Aktiengesellschaft in München", "kind": "legal-name word order", "evidence": "Full legal name of Munich Re; MEIP's label puts 'AG' last", "source": "https://www.munichre.com/en/company/about-munich-re/imprint.html"}
+  ]
+}

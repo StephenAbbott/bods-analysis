@@ -1,0 +1,79 @@
+{
+ "funnel": [
+  [
+   "UK subsidiaries in MEIP",
+   15678
+  ],
+  [
+   "marked \"Unknown\" by MEIP",
+   13098
+  ],
+  [
+   "...that existed on 31 Dec 2024",
+   10459
+  ],
+  [
+   "PSC chain reaches the MEIP group",
+   9589
+  ],
+  [
+   "PSC chain reaches the head MEIP records",
+   7244
+  ]
+ ],
+ "head_depth": {
+  "1": 1874,
+  "2": 1561,
+  "3": 1315,
+  "4": 891,
+  "5": 743,
+  "6": 371,
+  "7": 165,
+  "8": 192,
+  "9": 67,
+  "10": 46,
+  "11": 16,
+  "12": 3
+ },
+ "head_depth_4plus": 2494,
+ "outcomes_unknown_alive": {
+  "reaches_group": 9589,
+  "individuals_only": 166,
+  "no_psc_live": 437,
+  "unmatched_corporate": 212,
+  "reaches_other_group": 26,
+  "no_psc_dissolved": 29
+ },
+ "trail_end": {
+  "leaves the UK at a foreign parent that is not the head": 1414,
+  "stops at a UK company with no active PSC": 812,
+  "other": 29,
+  "ends at individuals": 90
+ },
+ "dissolved_before_vintage": 2547,
+ "dissolved_by_year": {
+  "2010": 4,
+  "2011": 6,
+  "2012": 3,
+  "2013": 4,
+  "2014": 1,
+  "2015": 6,
+  "2016": 10,
+  "2017": 132,
+  "2018": 276,
+  "2019": 370,
+  "2020": 294,
+  "2021": 320,
+  "2022": 305,
+  "2023": 363,
+  "2024": 453
+ },
+ "vintage_status_all": {
+  "live_now": 11423,
+  "dissolved_after_vintage": 1111,
+  "no_uk_number": 571,
+  "dissolved_before_vintage": 2547,
+  "closed_no_date": 19,
+  "not_found": 7
+ }
+}

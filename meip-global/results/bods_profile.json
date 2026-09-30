@@ -1,0 +1,8 @@
+{
+ "statements": 252816,
+ "by_record_type": {"entity": 126658, "relationship": 126158},
+ "interest_types": {"unknownInterest": 126158},
+ "directOrIndirect": {"unknown": 126158},
+ "relationships": 126158,
+ "relationships_whose_interested_party_is_the_group_head": 126158
+}

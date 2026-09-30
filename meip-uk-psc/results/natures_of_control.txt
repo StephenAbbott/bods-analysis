@@ -1,0 +1,7 @@
+subjects (existing at vintage, reaches_group) with a group-member PSC at depth 1: 11347 | first link is a non-group company: 56
+  majority   10,922 (96.3%)
+  25-50      268 (2.4%)
+  influence  129 (1.1%)
+  appoint    28 (0.2%)
+by hierarchy: {'Known': {'majority': 1436, 'appoint': 6, 'influence': 24, '25-50': 27}, 'Unknown': {'majority': 9191, '25-50': 232, 'appoint': 22, 'influence': 101}, 'Partial': {'majority': 295, '25-50': 9, 'influence': 4}}
+all depth-1 group-member PSC links: {'majority': 11016, 'influence': 211, 'appoint': 49, '25-50': 390}

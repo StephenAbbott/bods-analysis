@@ -1,0 +1,501 @@
+group,subsidiaries,unknown_pct
+Morgan Stanley,1057,7.9
+Citigroup Inc,857,13.7
+UniCredit SpA,415,14.0
+Bank of America Corp,859,14.9
+Sberbank Rossii PAO,16,18.8
+Bank of Nova Scotia,216,21.3
+Loblaw Companies Ltd,18,27.8
+Lloyds Banking Group PLC,865,30.8
+Wells Fargo & Co,77,31.2
+HSBC Holdings PLC,790,31.5
+Goldman Sachs Group Inc,850,32.9
+ING Groep NV,71,33.8
+Qatar National Bank QPSC,59,33.9
+NK Lukoil PAO,26,34.6
+Siemens AG,829,36.7
+PNC Financial Services Group Inc,61,37.7
+Oversea-Chinese Banking Corporation Ltd,33,39.4
+NatWest Group PLC,723,40.4
+Bank of Montreal,80,41.2
+JPMorgan Chase & Co,274,41.2
+Bajaj Finance Ltd,12,41.7
+Suncor Energy Inc,19,42.1
+Swiss Re AG,164,42.1
+AXA SA,593,44.4
+Royal Bank of Canada,136,46.3
+China Merchants Bank Co Ltd,36,47.2
+Interactive Brokers Group Inc,36,47.2
+Mahindra and Mahindra Ltd,387,48.1
+Diamondback Energy Inc,12,50.0
+Saudi National Bank SJSC,36,50.0
+Union Pacific Corp,2,50.0
+Bank of New York Mellon Corp,152,51.3
+Banco Bilbao Vizcaya Argentaria SA,337,52.2
+Intesa Sanpaolo SpA,291,53.6
+Kotak Mahindra Bank Ltd,24,54.2
+BNP Paribas SA,1249,54.8
+Midea Group Co Ltd,98,56.1
+Itau Unibanco Holding SA,39,56.4
+PayPal Holdings Inc,49,57.1
+UBS Group AG,247,57.5
+Toronto-Dominion Bank,102,57.8
+Life Insurance Corporation Of India,19,57.9
+Charles Schwab Corp,24,58.3
+General Motors Co,328,58.5
+Costco Wholesale Corp,46,58.7
+AIA Group Ltd,42,59.5
+Bank of China Ltd,104,59.6
+Vistra Corp,62,59.7
+ADNOC Gas PLC,25,60.0
+United Overseas Bank Ltd,30,60.0
+Sumitomo Mitsui Financial Group Inc,103,60.2
+ICICI Bank Ltd,26,61.5
+Mizuho Financial Group Inc,81,61.7
+Saudi Arabian Oil Co,68,61.8
+Danone SA,107,62.6
+Airbus SE,126,62.7
+State Bank of India,67,62.7
+Nike Inc,54,63.0
+Abb Ltd,193,63.2
+Sanofi SA,204,63.2
+Dassault Systemes SE,82,63.4
+Siemens Energy AG,295,63.4
+Synopsys Inc,22,63.6
+Naspers Ltd,81,64.2
+Canadian Imperial Bank of Commerce,56,64.3
+Bank of Communications Co Ltd,45,64.4
+TC Energy Corp,54,64.8
+HDFC Bank Ltd,20,65.0
+Investor AB,40,65.0
+Mitsubishi UFJ Financial Group Inc,155,65.2
+American Express Co,136,65.4
+BlackRock Inc,332,65.4
+Assicurazioni Generali SpA,711,65.5
+Tencent Holdings Ltd,152,65.8
+Booking Holdings Inc,41,65.9
+Holcim AG,182,65.9
+Intel Corp,91,65.9
+ANZ Group Holdings Ltd,62,66.1
+L'Air Liquide Societe Anonyme pour l'Etude et l'Exploitation des Procedes Georges Claude SA,275,66.2
+PG&E Corp,3,66.7
+Hitachi Ltd,208,66.8
+RTX Corp,370,67.0
+Kuwait Finance House KSCP,43,67.4
+Barclays PLC,410,67.6
+Brookfield Corp,882,67.7
+Muenchener Rueckversicherungs-Gesellschaft in Muenchen AG,1036,68.1
+Hong Kong Exchanges and Clearing Ltd,19,68.4
+Petroleo Brasileiro SA Petrobras,35,68.6
+Pfizer Inc,405,68.6
+Simon Property Group Inc,49,69.4
+Al Rajhi Banking and Investment Corporation SJSC,23,69.6
+Toyota Motor Corp,183,69.9
+Arista Networks Inc,10,70.0
+Apple Inc,64,70.3
+Credit Agricole SA,1501,70.4
+3i Group PLC,420,71.2
+Reliance Industries Ltd,434,71.2
+Capital One Financial Corp,21,71.4
+Deutsche Boerse AG,199,71.4
+Industrial Bank Co Ltd,14,71.4
+American Electric Power Company Inc,36,72.2
+Tokio Marine Holdings Inc,106,72.6
+Takeda Pharmaceutical Co Ltd,77,72.7
+Fast Retailing Co Ltd,30,73.3
+CITIC Securities Co Ltd,174,73.6
+Larsen and Toubro Ltd,65,73.8
+PetroChina Co Ltd,42,73.8
+Coca-Cola Co,88,73.9
+Maruti Suzuki India Ltd,46,73.9
+SoftBank Group Corp,226,73.9
+Starbucks Corp,27,74.1
+SK Hynix Inc,124,74.2
+Mitsubishi Corp,196,75.0
+Westpac Banking Corp,48,75.0
+L'Oreal SA,242,75.2
+Zurich Insurance Group AG,194,75.3
+China Construction Bank Corp,69,75.4
+Air Products and Chemicals Inc,304,75.7
+EssilorLuxottica SA,456,75.9
+LG Energy Solution Ltd,87,75.9
+Macquarie Group Ltd,404,76.0
+Merck KGaA,410,76.1
+Agricultural Bank of China Ltd,30,76.7
+Visa Inc,43,76.7
+Paccar Inc,56,76.8
+GE Vernova Inc,173,76.9
+US Bancorp,159,77.4
+Prologis Inc,422,77.5
+Adidas AG,116,77.6
+Allianz SE,1979,77.7
+Mitsui & Co Ltd,233,77.7
+Ameriprise Financial Inc,173,78.0
+Honda Motor Co Ltd,64,78.1
+Deere & Co,87,78.2
+Freeport-McMoRan Inc,23,78.3
+Commonwealth Bank of Australia,122,78.7
+3M Co,85,78.8
+CME Group Inc,99,78.8
+AbbVie Inc,345,79.1
+Banco Santander SA,1246,79.1
+Infosys Ltd,151,79.5
+Lonza Group AG,73,79.5
+Nestle SA,460,79.6
+British American Tobacco plc,494,79.8
+Southern Co,134,79.9
+Block Inc,30,80.0
+CNOOC Ltd,35,80.0
+Discover Financial Services,25,80.0
+Infineon Technologies AG,105,80.0
+Public Service Enterprise Group Inc,10,80.0
+Johnson & Johnson,493,80.3
+Travelers Companies Inc,123,80.5
+Manulife Financial Corp,83,80.7
+Verizon Communications Inc,83,80.7
+American International Group Inc,182,80.8
+Keurig Dr Pepper Inc,68,80.9
+Mercedes-Benz Group AG,349,81.1
+Elevance Health Inc,315,81.3
+Sempra,54,81.5
+Rolls-Royce Holdings PLC,256,82.0
+Recruit Holdings Co Ltd,67,82.1
+Truist Financial Corp,45,82.2
+Micron Technology Inc,17,82.4
+Mitsubishi Heavy Industries Ltd,97,82.5
+Japan Tobacco Inc,41,82.9
+Exxon Mobil Corp,191,83.2
+Givaudan SA,101,83.2
+Microsoft Corp,107,83.2
+ConocoPhillips,102,83.3
+Lowe's Companies Inc,6,83.3
+Neftyanaya Kompaniya Rosneft' PAO,6,83.3
+Prudential Financial Inc,616,83.3
+Target Corp,12,83.3
+Bayerische Motoren Werke AG,326,83.4
+Nippon Telegraph and Telephone Corp,200,83.5
+United Parcel Service Inc,91,83.5
+Berkshire Hathaway Inc,729,83.7
+Glencore PLC,135,83.7
+Eaton Corporation PLC,395,84.1
+Honeywell International Inc,298,84.2
+Bayan Resources Tbk PT,32,84.4
+Unilever PLC,672,84.4
+CrowdStrike Holdings Inc,13,84.6
+ITC Ltd,52,84.6
+Industrial and Commercial Bank of China Ltd,170,84.7
+ASML Holding NV,47,85.1
+Hon Hai Precision Industry Co Ltd,215,85.1
+Salesforce Inc,134,85.1
+Cheniere Energy Inc,54,85.2
+Vale SA,27,85.2
+Meta Platforms Inc,68,85.3
+Itochu Corp,158,85.4
+GSK plc,304,85.5
+TotalEnergies SE,1730,85.5
+Fubon Financial Holding Co Ltd,104,85.6
+Applovin Corp,7,85.7
+Kimberly-Clark Corp,196,85.7
+AT&T Inc,107,86.0
+ServiceNow Inc,50,86.0
+Alcon AG,36,86.1
+CVS Health Corp,534,86.1
+Chevron Corp,95,86.3
+Diageo PLC,343,86.3
+Iberdrola SA,875,86.4
+Spotify Technology SA,22,86.4
+Coinbase Global Inc,15,86.7
+Edwards Lifesciences Corp,15,86.7
+Analog Devices Inc,100,87.0
+L3Harris Technologies Inc,193,87.0
+Alimentation Couche-Tard Inc,39,87.2
+Baker Hughes Co,86,87.2
+China Petroleum & Chemical Corp,63,87.3
+NXP Semiconductors NV,55,87.3
+China Citic Bank Corp Ltd,8,87.5
+McDonald's Corp,56,87.5
+General Electric Co,145,87.6
+Aflac Inc,73,87.7
+Schlumberger NV,106,87.7
+General Dynamics Corp,278,87.8
+Hermes International SCA,116,87.9
+Carrier Global Corp,518,88.0
+Deutsche Telekom AG,532,88.0
+Rio Tinto PLC,150,88.0
+CRH PLC,411,88.1
+Marsh & McLennan Companies Inc,817,88.1
+London Stock Exchange Group PLC,339,88.2
+DSV AS,443,88.3
+Eni SpA,738,88.3
+Stryker Corp,224,88.4
+Fidelity National Information Services Inc,247,88.7
+Alphabet Inc,80,88.8
+Enel SpA,1693,88.8
+Reckitt Benckiser Group PLC,403,88.8
+Advanced Micro Devices Inc,90,88.9
+Samsung Electronics Co Ltd,341,88.9
+Volkswagen AG,1842,88.9
+RELX PLC,354,89.0
+Constellation Brands Inc,112,89.3
+International Business Machines Corp,225,89.3
+Moody's Corp,214,89.3
+Abbott Laboratories,595,89.6
+First Abu Dhabi Bank PJSC,39,89.7
+Phillips 66,156,89.7
+Trip.com Group Ltd,39,89.7
+Ping An Insurance Group Co of China Ltd,147,89.8
+Abu Dhabi National Energy Company PJSC,60,90.0
+Compagnie Financiere Richemont SA,140,90.0
+Delta Electronics Thailand PCL,50,90.0
+NVIDIA Corp,20,90.0
+Shin-Etsu Chemical Co Ltd,90,90.0
+Shopify Inc,10,90.0
+SAP SE,395,90.1
+Broadcom Inc,61,90.2
+Anheuser-Busch Inbev SA,279,90.3
+Nasdaq Inc,145,90.3
+Philip Morris International Inc,268,90.3
+Seven & i Holdings Co Ltd,63,90.5
+MercadoLibre Inc,75,90.7
+Shell PLC,1865,90.7
+Schneider Electric SE,604,90.9
+S&P Global Inc,346,91.0
+Chubb Ltd,314,91.1
+Heineken NV,347,91.1
+Tata Consultancy Services Ltd,56,91.1
+Caterpillar Inc,443,91.2
+Mastercard Inc,80,91.2
+Ferrari NV,23,91.3
+Volvo AB,104,91.3
+JD.Com Inc,59,91.5
+National Australia Bank Ltd,106,91.5
+DBS Group Holdings Ltd,83,91.6
+China Life Insurance Co Ltd,72,91.7
+Saudi Basic Industries Corporation SJSC,206,91.7
+Taiwan Semiconductor Manufacturing Co Ltd,24,91.7
+Walmart Inc,84,91.7
+Compagnie de Saint Gobain SA,377,91.8
+Novartis AG,170,91.8
+Parker-Hannifin Corp,186,91.9
+BYD Co Ltd,25,92.0
+Canon Inc,125,92.0
+PepsiCo Inc,616,92.0
+Trade Desk Inc,25,92.0
+MetLife Inc,642,92.1
+Newmont Corporation,227,92.1
+Shanghai Pudong Development Bank Co Ltd,38,92.1
+Adobe Inc,65,92.3
+Canadian Natural Resources Ltd,13,92.3
+Intercontinental Exchange Inc,117,92.3
+MSCI Inc,26,92.3
+America Movil SAB de CV,106,92.5
+KLA Corp,82,92.7
+CSL Ltd,125,92.8
+O'Reilly Automotive Inc,14,92.9
+Amazon.com Inc,129,93.0
+Enbridge Inc,503,93.0
+National Grid PLC,359,93.0
+Snowflake Inc,43,93.0
+Bharti Airtel Ltd,174,93.1
+Lam Research Corp,45,93.3
+Boston Scientific Corp,151,93.4
+Dominion Energy Inc,211,93.4
+Fair Isaac Corp,46,93.5
+Intuitive Surgical Inc,46,93.5
+KDDI Corp,46,93.5
+Constellation Energy Corp,218,93.6
+Linde PLC,671,93.6
+Fiserv Inc,95,93.7
+Boeing Co,65,93.8
+Equinor ASA,112,93.8
+Energy Transfer LP,428,93.9
+Cadence Design Systems Inc,84,94.0
+Cigna Group,134,94.0
+MediaTek Inc,83,94.0
+Progressive Corp,84,94.0
+Duke Energy Corp,188,94.1
+FedEx Corp,189,94.2
+Eli Lilly and Co,176,94.3
+Vertiv Holdings Co,35,94.3
+Netflix Inc,36,94.4
+Qualcomm Inc,36,94.4
+BHP Group Ltd,235,94.5
+Christian Dior SE,1659,94.5
+Denso Corp,218,94.5
+Johnson Controls International PLC,127,94.5
+China Pacific Insurance Group Co Ltd,56,94.6
+Lululemon Athletica Inc,37,94.6
+BAE Systems PLC,300,94.7
+Marathon Petroleum Corp,169,94.7
+NetEase Inc,19,94.7
+Safran SA,232,94.8
+Howmet Aerospace Inc,39,94.9
+Intuit Inc,79,94.9
+Thomson Reuters Corp,121,95.0
+United Rentals Inc,40,95.0
+Vinci SA,4357,95.0
+KKR & Co Inc,1583,95.1
+Wolters Kluwer NV,81,95.1
+Amgen Inc,63,95.2
+Dell Technologies Inc,294,95.2
+East Money Information Co Ltd,42,95.2
+Haleon PLC,146,95.2
+Mckesson Corp,42,95.2
+Motorola Solutions Inc,83,95.2
+BP PLC,1944,95.3
+Mondelez International Inc,360,95.3
+Bristol-Myers Squibb Co,238,95.4
+Cisco Systems Inc,389,95.4
+Emerson Electric Co,628,95.4
+Novo Nordisk AS,280,95.4
+Hilton Worldwide Holdings Inc,468,95.5
+Keyence Corp,22,95.5
+Walt Disney Co,312,95.5
+Uber Technologies Inc,45,95.6
+Apollo Global Management Inc,1550,95.7
+Automatic Data Processing Inc,117,95.7
+Sun Pharmaceutical Industries Ltd,118,95.8
+Applied Materials Inc,73,95.9
+CBRE Group Inc,222,95.9
+WW Grainger Inc,73,95.9
+AstraZeneca PLC,303,96.0
+Nextera Energy Inc,50,96.0
+Accenture PLC,869,96.2
+Lockheed Martin Corp,53,96.2
+Arthur J. Gallagher & Co.,520,96.3
+Becton Dickinson and Co,348,96.3
+Monster Beverage Corp,109,96.3
+Alibaba Group Holding Ltd,138,96.4
+Allstate Corp,221,96.4
+Autodesk Inc,110,96.4
+Equinix Inc,309,96.4
+Northrop Grumman Corp,28,96.4
+Procter & Gamble Co,276,96.4
+Blackstone Inc,1540,96.5
+Flutter Entertainment PLC,287,96.5
+Medtronic PLC,423,96.5
+Palo Alto Networks Inc,85,96.5
+Workday Inc,57,96.5
+Digital Realty Trust Inc,609,96.6
+Goodman Group,446,96.6
+China Yangtze Power Co Ltd,60,96.7
+Daiichi Sankyo Co Ltd,30,96.7
+Acwa Power Company SJSC,63,96.8
+Palantir Technologies Inc,31,96.8
+Regeneron Pharmaceuticals Inc,31,96.8
+Sony Group Corp,447,96.9
+Amphenol Corp,462,97.0
+Royal Caribbean Cruises Ltd,100,97.0
+Saudi Telecom Company SJSC,67,97.0
+TE Connectivity PLC,243,97.1
+Xiaomi Corp,35,97.1
+Cummins Inc,301,97.3
+Ecolab Inc,332,97.3
+Industria de Diseno Textil SA,226,97.3
+Merck & Co Inc,415,97.3
+Oracle Corp,112,97.3
+Roche Holding AG,296,97.3
+Danaher Corp,233,97.4
+Hess Corp,77,97.4
+Occidental Petroleum Corp,418,97.4
+TransDigm Group Inc,232,97.4
+Cencora Inc,80,97.5
+Colgate-Palmolive Co,246,97.6
+Thermo Fisher Scientific Inc,1348,97.7
+ONEOK Inc,140,97.9
+Nu Holdings Ltd,50,98.0
+Aon PLC,1061,98.1
+Atlas Copco AB,419,98.1
+Experian PLC,277,98.2
+Welltower Inc,1098,98.2
+Comcast Corp,1681,98.3
+Luxshare Precision Industry Co Ltd,183,98.4
+Copart Inc,70,98.6
+HCL Technologies Ltd,146,98.6
+Trane Technologies PLC,227,98.7
+Compass Group PLC,752,98.8
+Gilead Sciences Inc,84,98.8
+AMETEK Inc,264,98.9
+American Tower Corp,376,98.9
+China Mobile Ltd,93,98.9
+Constellation Software Inc,1062,98.9
+Williams Companies Inc,176,98.9
+Deutsche Post AG,906,99.0
+Wesfarmers Ltd,416,99.0
+International Holding Company PJSC,1361,99.2
+Ares Management Corp,143,99.3
+Kenvue Inc,139,99.3
+Sea Ltd,146,99.3
+Tesla Inc,419,99.3
+Charter Communications Inc,169,99.4
+Sherwin-Williams Co,162,99.4
+Universal Music Group NV,180,99.4
+Kroger Co,252,99.6
+Roper Technologies Inc,261,99.6
+UnitedHealth Group Inc,2450,99.6
+Waste Connections Inc,712,99.6
+Republic Services Inc,863,99.7
+Waste Management Inc,642,99.7
+DR Horton Inc,581,99.8
+Illinois Tool Works Inc,419,99.8
+Advantest Corp,11,100.0
+Adyen NV,29,100.0
+Airbnb Inc,15,100.0
+Altria Group Inc,7,100.0
+Atlassian Corp,46,100.0
+Autozone Inc,25,100.0
+Axon Enterprise Inc,7,100.0
+Bank Central Asia Tbk PT,10,100.0
+Barito Renewables Energy PT Tbk,5,100.0
+Beijing-Shanghai High Speed Railway Co Ltd,1,100.0
+CSX Corp,6,100.0
+Canadian National Railway Co,12,100.0
+Canadian Pacific Kansas City Ltd,26,100.0
+Carvana Co,15,100.0
+Chandra Asri Pacific PT Tbk,26,100.0
+China Shenhua Energy Co Ltd,55,100.0
+China Telecom Corp Ltd,48,100.0
+Chipotle Mexican Grill Inc,22,100.0
+Cintas Corp,36,100.0
+Contemporary Amperex Technology Co Ltd,15,100.0
+Datadog Inc,6,100.0
+DoorDash Inc,21,100.0
+EOG Resources Inc,45,100.0
+Enterprise Products Partners LP,197,100.0
+Fastenal Co,43,100.0
+Fortinet Inc,73,100.0
+Garmin Ltd,64,100.0
+HCA Healthcare Inc,2617,100.0
+Home Depot Inc,36,100.0
+Hoya Corp,61,100.0
+Hygon Information Technology Co Ltd,6,100.0
+Jiangsu Hengrui Pharmaceuticals Co Ltd,45,100.0
+Kinder Morgan Inc,309,100.0
+Kweichow Moutai Co Ltd,7,100.0
+Marriott International Inc,808,100.0
+Marvell Technology Inc,64,100.0
+Meituan,12,100.0
+Microstrategy Inc,44,100.0
+Nintendo Co Ltd,30,100.0
+Nongfu Spring Co Ltd,38,100.0
+Norfolk Southern Corp,51,100.0
+PDD Holdings Inc,16,100.0
+Paychex Inc,81,100.0
+People's Insurance Company Group of China Ltd,14,100.0
+Postal Savings Bank of China Co Ltd,33,100.0
+Public Storage,22,100.0
+Quanta Services Inc,324,100.0
+Realty Income Corp,1071,100.0
+Ross Stores Inc,5,100.0
+Samsung Biologics Co Ltd,15,100.0
+Saudi Arabian Mining Company SJSC,47,100.0
+Semiconductor Manufacturing International Corp,28,100.0
+Shenzhen Mindray Bio-Medical Electronics Co Ltd,54,100.0
+Southern Copper Corp,6,100.0
+TJX Companies Inc,99,100.0
+Texas Instruments Inc,79,100.0
+Tokyo Electron Ltd,18,100.0
+Vertex Pharmaceuticals Inc,47,100.0
+Wuliangye Yibin Co Ltd,41,100.0
+Zijin Mining Group Co Ltd,65,100.0
+Zoetis Inc,133,100.0

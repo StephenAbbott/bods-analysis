@@ -1,0 +1,30 @@
+AT&T Inc                     | AMSUK LIMITED                            08746458 | d1 strict At&T Inc [HEAD]
+Universal Music Group NV     | TURNFIRST LIMITED                        04745700 | d1 number Universal Music Operations Limited ; d2 number Universal Music Leisure Limited ; d3 number Universal Music  (Uk) Holdings Limi
+Reckitt Benckiser Group PLC  | Lloyds Pharmaceuticals                   00377277 | d1 number Reckitt Benckiser Limited ; d2 number Reckitt Benckiser Group Plc [HEAD]
+Thermo Fisher Scientific Inc | ABII 2 LIMITED                           12208987 | d1 number Thermo Fisher Scientific Odyssey Ho ; d2 strict Thermo Fisher Scientific Inc. [HEAD]
+Welltower Inc                | WT NICOL LIMITED                         09349619 | d1 number Wt Uk Opco 4 Limited ; d2 strict Welltower Inc. [HEAD]
+Bayerische Motoren Werke AG  | BAVARIAN SKY UK 1 PLC                    10840785 | d1 strict Bavarian Sky Uk Holdings Limited
+Roper Technologies Inc       | ROPER NL1 UK LIMITED                     11726311 | d1 number Roper Uk, Ltd ; d2 strict Roper Technologies Inc. [HEAD]
+Salesforce Inc               | ClickSoftware Europe Limited             03033615 | d1 strict Salesforce, Inc. [HEAD]
+Aon PLC                      | NFP HR SOLUTIONS LIMITED                 03590731 | d1 number Nfp Uk Holdings Limited
+Lloyds Banking Group PLC     | LANGBOURN PROPERTIES (HL32SCW) LIMITED   07471748 | d1 number Langbourn Properties Limited ; d2 number Langbourn Holdings Limited
+Cummins Inc                  | NEWAGE MACHINE TOOLS LIMITED             00305042 | d1 strict Cummins Generator Technologies Ltd
+Hilton Worldwide Holdings In | HLT OWNED MEZZ V-C LIMITED               06400448 | d1 number Hlt Owned Mezz V-D Limited ; d2 number Hlt Owned Mezz V-E Limited ; d3 number Hlt Owned Mezz V-F Limited
+UBS Group AG                 | UBS UK HOLDING LIMITED                   01931397 | d1 strict Ubs Group Ag [HEAD]
+Macquarie Group Ltd          | BILBAO OFFSHORE HOLDING LIMITED          12099853 | d1 number Bilbao Offshore Investment Limited
+Realty Income Corp           | RI MDC UK153 LIMITED                     13481555 | d1 strict Realty Income Corporation [HEAD]
+GE Vernova Inc               | GE GRID SOLUTIONS (UK) LIMITED           NI027892 | d1 strict Ge Vernova Inc. [HEAD]
+Goldman Sachs Group Inc      | GOLDMAN SACHS ASSET MANAGEMENT UK HOLDIN 13746208 | d1 strict The Goldman Sachs Group, Inc. [HEAD]
+Macquarie Group Ltd          | MATRIX NETWORKS GROUP LIMITED            11227977 | d1 number Taranis Bidco Limited ; d2 number Taranis Parentco Limited ; d3 number Taranis Midco Limited
+Realty Income Corp           | MILTON KEYNES SUPERSTORE (NOMINEE 1) LIM 12852289 | d1 strict Realty Income Corporation [HEAD]
+Compagnie de Saint Gobain SA | SAINT-GOBAIN PERFORMANCE PLASTICS TYGAFL 01265396 | d1 number Saint-Gobain High Performance Solut ; d2 number Saint-Gobain Limited ; d3 strict Compagnie De Saint-Gobain [HEAD]
+Aon PLC                      | COSEC 2000 LIMITED                       03127178 | d1 number Aon Uk Holdings Intermediaries Limi ; d2 number Aon Uk Group Limited ; d3 number Aon Global Holdings Intermediaries 
+Constellation Software Inc   | TARANTO SYSTEMS LIMITED                  12920661 | d1 number Modaxo Group Uk Limited
+CRH PLC                      | TARMAC AGGREGATES LIMITED                00297905 | d1 number Tarmac Holdings Limited ; d2 number Cities Group Holdings Limited ; d3 number Crh (Uk) Limited
+Constellation Software Inc   | KEY CHOICE INSURANCE MARKETING LIMITED   04402189 | d1 number Ssp Limited ; d2 number Ssp Holdings Limited ; d3 number Ssp Bidco Limited
+Allianz SE                   | 101 Moorgate GP Limited                  13605170 | d1 strict Allianz Finance Ix Luxembourg S.A.
+Autodesk Inc                 | WITHIN TECHNOLOGIES LIMITED              06655820 | d1 strict Autodesk, Inc. [HEAD]
+Shell PLC                    | SHELL MEX AND B.P. LIMITED               00260320 | d1 number The Shell Petroleum Company Limited ; d1 number The Anglo-Saxon Petroleum Company L ; d2 number Shell Group Holding Limited
+Hilton Worldwide Holdings In | HILTON UK PENSION TRUSTEE LIMITED        05647335 | d1 number Hilton Hhc Limited ; d2 number Hilton Hih Limited ; d3 strict Hilton Worldwide Holdings Inc. [HEAD]
+Mitsubishi Corp              | TOMORI E&P LIMITED                       07075945 | d1 strict Mitsubishi Corporation [HEAD]
+Fair Isaac Corp              | FAIR ISAAC (ADEPTRA) LIMITED             03295455 | d1 number Fair Isaac Software Holdings Limite ; d2 number Fair Isaac Uk International Holding ; d3 number Fair Isaac Uk Group Limited

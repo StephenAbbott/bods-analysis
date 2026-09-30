@@ -1,0 +1,40 @@
+vintage status (all 15,678): [('live_now', 11423), ('dissolved_before_vintage', 2547), ('dissolved_after_vintage', 1111), ('no_uk_number', 571), ('closed_no_date', 19), ('not_found', 7)]
+by hierarchy: {'Unknown': {'dissolved_after_vintage': 1005, 'live_now': 9454, 'no_uk_number': 516, 'dissolved_before_vintage': 2098, 'closed_no_date': 18, 'not_found': 7}, 'Known': {'live_now': 1614, 'dissolved_before_vintage': 382, 'dissolved_after_vintage': 91, 'no_uk_number': 50, 'closed_no_date': 1}, 'Partial': {'live_now': 355, 'dissolved_after_vintage': 15, 'dissolved_before_vintage': 67, 'no_uk_number': 5}}
+dissolved before vintage, by year of dissolution: [('2010', 4), ('2011', 6), ('2012', 3), ('2013', 4), ('2014', 1), ('2015', 6), ('2016', 10), ('2017', 132), ('2018', 276), ('2019', 370), ('2020', 294), ('2021', 320), ('2022', 305), ('2023', 363), ('2024', 453)]
+status words: Counter({'Dissolved': 3608, 'Converted / Closed': 50})
+
+existing at vintage, Unknown: 10,459
+  reaches_group          9,589 (91.7%)
+  no_psc_live            437 (4.2%)
+  unmatched_corporate    212 (2.0%)
+  individuals_only       166 (1.6%)
+  no_psc_dissolved       29 (0.3%)
+  reaches_other_group    26 (0.2%)
+  reaches head: 7,244 (69.3% of all, 75.5% of reaches_group)
+
+existing at vintage, Known: 1,705
+  reaches_group          1,504 (88.2%)
+  no_psc_live            131 (7.7%)
+  unmatched_corporate    46 (2.7%)
+  individuals_only       13 (0.8%)
+  no_psc_dissolved       7 (0.4%)
+  reaches_other_group    4 (0.2%)
+  reaches head: 1,322 (77.5% of all, 87.9% of reaches_group)
+
+existing at vintage, Partial: 370
+  reaches_group          310 (83.8%)
+  no_psc_live            29 (7.8%)
+  unmatched_corporate    17 (4.6%)
+  individuals_only       8 (2.2%)
+  no_psc_dissolved       4 (1.1%)
+  reaches_other_group    2 (0.5%)
+  reaches head: 238 (64.3% of all, 76.8% of reaches_group)
+
+existing at vintage, ALL: 12,534
+  reaches_group          11,403 (91.0%)
+  no_psc_live            597 (4.8%)
+  unmatched_corporate    275 (2.2%)
+  individuals_only       187 (1.5%)
+  no_psc_dissolved       40 (0.3%)
+  reaches_other_group    32 (0.3%)
+  reaches head: 8,804 (70.2% of all, 77.2% of reaches_group)

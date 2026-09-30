@@ -1,0 +1,531 @@
+{
+ "rows": 126658,
+ "subsidiaries": 126157,
+ "head_rows": 501,
+ "groups": 500,
+ "hierarchy_all_rows": {
+  "MNE Head": 501,
+  "Known": 15113,
+  "Unknown": 106404,
+  "Partial": 4640
+ },
+ "unknown_share_all_rows_pct": 84.0,
+ "unknown_share_subsidiaries_pct": 84.3,
+ "groups_over_95pct_unknown": 165,
+ "groups_fully_known": 0,
+ "groups_median_unknown_pct": 90.0,
+ "best_known_groups_100plus": [
+  [
+   "Morgan Stanley",
+   1057,
+   7.9
+  ],
+  [
+   "Citigroup Inc",
+   857,
+   13.7
+  ],
+  [
+   "UniCredit SpA",
+   415,
+   14.0
+  ],
+  [
+   "Bank of America Corp",
+   859,
+   14.9
+  ],
+  [
+   "Bank of Nova Scotia",
+   216,
+   21.3
+  ],
+  [
+   "Lloyds Banking Group PLC",
+   865,
+   30.8
+  ],
+  [
+   "HSBC Holdings PLC",
+   790,
+   31.5
+  ],
+  [
+   "Goldman Sachs Group Inc",
+   850,
+   32.9
+  ]
+ ],
+ "host_jurisdictions": 216,
+ "top_hosts": [
+  [
+   "United States",
+   41020,
+   32.5
+  ],
+  [
+   "United Kingdom",
+   15678,
+   12.4
+  ],
+  [
+   "France",
+   7141,
+   5.7
+  ],
+  [
+   "Germany",
+   4083,
+   3.2
+  ],
+  [
+   "China",
+   4081,
+   3.2
+  ],
+  [
+   "Netherlands",
+   3044,
+   2.4
+  ],
+  [
+   "Canada",
+   3018,
+   2.4
+  ],
+  [
+   "Australia",
+   2707,
+   2.1
+  ],
+  [
+   "Mexico",
+   2566,
+   2.0
+  ],
+  [
+   "Spain",
+   2462,
+   2.0
+  ]
+ ],
+ "subsidiaries_no_identifier_pct": 24.6,
+ "hosts_500plus": 33,
+ "hq_top": [
+  [
+   "United States",
+   223
+  ],
+  [
+   "United Kingdom",
+   49
+  ],
+  [
+   "China",
+   29
+  ],
+  [
+   "Japan",
+   28
+  ],
+  [
+   "France",
+   17
+  ],
+  [
+   "Switzerland",
+   15
+  ],
+  [
+   "Canada",
+   15
+  ],
+  [
+   "Germany",
+   14
+  ],
+  [
+   "Australia",
+   10
+  ],
+  [
+   "Cayman Islands",
+   10
+  ],
+  [
+   "India",
+   10
+  ],
+  [
+   "Netherlands",
+   9
+  ]
+ ],
+ "uk_hq_groups": 49,
+ "heads_in_sinks": [
+  "AIA Group Ltd",
+  "Alibaba Group Holding Ltd",
+  "CNOOC Ltd",
+  "China Mobile Ltd",
+  "Fubon Financial Holding Co Ltd",
+  "Glencore PLC",
+  "HDFC Bank Ltd",
+  "Hon Hai Precision Industry Co Ltd",
+  "Hong Kong Exchanges and Clearing Ltd",
+  "JD.Com Inc",
+  "Meituan",
+  "NetEase Inc",
+  "Nu Holdings Ltd",
+  "PDD Holdings Inc",
+  "Royal Caribbean Cruises Ltd",
+  "Schlumberger NV",
+  "Sea Ltd",
+  "Semiconductor Manufacturing International Corp",
+  "Spotify Technology SA",
+  "Taiwan Semiconductor Manufacturing Co Ltd",
+  "Tencent Holdings Ltd",
+  "Trip.com Group Ltd",
+  "Xiaomi Corp"
+ ],
+ "heads_in_conduits_excl_uk": [
+  "ASML Holding NV",
+  "Abb Ltd",
+  "Airbus SE",
+  "Alcon AG",
+  "Aon PLC",
+  "CRH PLC",
+  "Chubb Ltd",
+  "Compagnie Financiere Richemont SA",
+  "DBS Group Holdings Ltd",
+  "Eaton Corporation PLC",
+  "Ferrari NV",
+  "Flutter Entertainment PLC",
+  "Garmin Ltd",
+  "Givaudan SA",
+  "Heineken NV",
+  "Holcim AG",
+  "ING Groep NV",
+  "Johnson Controls International PLC",
+  "Linde PLC",
+  "Lonza Group AG",
+  "Marriott International Inc",
+  "NXP Semiconductors NV",
+  "Nestle SA",
+  "Novartis AG",
+  "Roche Holding AG",
+  "Siemens Energy AG",
+  "Swiss Re AG",
+  "TE Connectivity PLC",
+  "Trane Technologies PLC",
+  "UBS Group AG",
+  "Universal Music Group NV",
+  "Wolters Kluwer NV",
+  "Zurich Insurance Group AG"
+ ],
+ "jurisdictions_per_group_median": 19.0,
+ "jurisdictions_per_group_top": [
+  [
+   "Deutsche Post AG",
+   157
+  ],
+  [
+   "Vinci SA",
+   135
+  ],
+  [
+   "British American Tobacco plc",
+   118
+  ],
+  [
+   "Nestle SA",
+   116
+  ],
+  [
+   "Unilever PLC",
+   111
+  ],
+  [
+   "TotalEnergies SE",
+   99
+  ],
+  [
+   "Marriott International Inc",
+   98
+  ],
+  [
+   "DSV AS",
+   97
+  ]
+ ],
+ "home_share_median_pct": 29.4,
+ "sink_subsidiaries": 7526,
+ "sink_share_pct": 6.0,
+ "conduit_subsidiaries": 22620,
+ "conduit_share_pct": 17.9,
+ "conduit_excl_uk_subsidiaries": 6942,
+ "conduit_excl_uk_share_pct": 5.5,
+ "sinks_by_jurisdiction_top": [
+  [
+   "Cayman Islands",
+   2087
+  ],
+  [
+   "Luxembourg",
+   1897
+  ],
+  [
+   "Hong Kong",
+   1185
+  ],
+  [
+   "Bermuda",
+   534
+  ],
+  [
+   "Jersey",
+   424
+  ],
+  [
+   "Taiwan",
+   355
+  ],
+  [
+   "British Virgin Islands",
+   285
+  ],
+  [
+   "Mauritius",
+   175
+  ],
+  [
+   "Malta",
+   150
+  ],
+  [
+   "Cyprus",
+   88
+  ]
+ ],
+ "sink_jurisdictions_present": 23,
+ "groups_with_any_sink": 394,
+ "groups_with_any_sink_pct": 78.8,
+ "top_groups_by_sink_count": [
+  [
+   "Apollo Global Management Inc",
+   1550,
+   483,
+   31.2
+  ],
+  [
+   "KKR & Co Inc",
+   1583,
+   448,
+   28.3
+  ],
+  [
+   "Blackstone Inc",
+   1540,
+   444,
+   28.8
+  ],
+  [
+   "Allianz SE",
+   1979,
+   244,
+   12.3
+  ],
+  [
+   "Morgan Stanley",
+   1057,
+   211,
+   20.0
+  ],
+  [
+   "HSBC Holdings PLC",
+   790,
+   201,
+   25.4
+  ],
+  [
+   "Goldman Sachs Group Inc",
+   850,
+   185,
+   21.8
+  ],
+  [
+   "Thermo Fisher Scientific Inc",
+   1348,
+   138,
+   10.2
+  ],
+  [
+   "Credit Agricole SA",
+   1501,
+   137,
+   9.1
+  ],
+  [
+   "Citigroup Inc",
+   857,
+   125,
+   14.6
+  ]
+ ],
+ "top_groups_by_sink_share_50plus": [
+  [
+   "Royal Caribbean Cruises Ltd",
+   100,
+   71,
+   71.0
+  ],
+  [
+   "JD.Com Inc",
+   59,
+   24,
+   40.7
+  ],
+  [
+   "CITIC Securities Co Ltd",
+   174,
+   64,
+   36.8
+  ],
+  [
+   "Fubon Financial Holding Co Ltd",
+   104,
+   36,
+   34.6
+  ],
+  [
+   "Apollo Global Management Inc",
+   1550,
+   483,
+   31.2
+  ],
+  [
+   "Tencent Holdings Ltd",
+   152,
+   45,
+   29.6
+  ],
+  [
+   "Blackstone Inc",
+   1540,
+   444,
+   28.8
+  ],
+  [
+   "Canadian Imperial Bank of Commerce",
+   56,
+   16,
+   28.6
+  ],
+  [
+   "Hess Corp",
+   77,
+   22,
+   28.6
+  ],
+  [
+   "KKR & Co Inc",
+   1583,
+   448,
+   28.3
+  ]
+ ],
+ "cayman_vs_italy": [
+  2087,
+  1862
+ ],
+ "rows_with_parent": 18808,
+ "rows_parent_resolved": 18722,
+ "rows_with_parent_pct_of_subs": 14.9,
+ "depth_to_head": {
+  "1": 7608,
+  "2": 3996,
+  "3": 1568,
+  "4": 1336,
+  "5": 363,
+  "6": 149,
+  "7": 47,
+  "8": 38,
+  "9": 8
+ },
+ "placed_under_head": 15113,
+ "deepest_groups": [
+  [
+   "Citigroup Inc",
+   9
+  ],
+  [
+   "Morgan Stanley",
+   8
+  ],
+  [
+   "RELX PLC",
+   8
+  ],
+  [
+   "AXA SA",
+   7
+  ],
+  [
+   "American Express Co",
+   7
+  ],
+  [
+   "HSBC Holdings PLC",
+   7
+  ],
+  [
+   "JPMorgan Chase & Co",
+   7
+  ],
+  [
+   "BNP Paribas SA",
+   6
+  ]
+ ],
+ "intermediate_holding_jurisdictions": [
+  [
+   "United States",
+   766
+  ],
+  [
+   "United Kingdom",
+   437
+  ],
+  [
+   "France",
+   198
+  ],
+  [
+   "Netherlands",
+   180
+  ],
+  [
+   "Germany",
+   107
+  ],
+  [
+   "India",
+   100
+  ],
+  [
+   "Luxembourg",
+   97
+  ],
+  [
+   "Canada",
+   78
+  ],
+  [
+   "Cayman Islands",
+   73
+  ],
+  [
+   "Spain",
+   66
+  ]
+ ]
+}

@@ -1,0 +1,12 @@
+*.xlsx
+*.zip
+*.sqlite
+*.sqlite.gz
+meip_bods.jsonl
+meip_rows.jsonl.gz
+subjects.jsonl
+results.jsonl
+results_*.jsonl
+group_index*.json
+dissolution.jsonl
+__pycache__/

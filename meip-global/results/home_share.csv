@@ -1,0 +1,500 @@
+group,hq_as_published,subsidiaries,home_share_pct
+Advantest Corp,Japan,11,0.0
+CNOOC Ltd,Hong Kong,35,0.0
+China Citic Bank Corp Ltd,United Kingdom,8,0.0
+China Merchants Bank Co Ltd,United Kingdom,36,0.0
+Datadog Inc,United States,6,0.0
+Ferrari NV,Netherlands,23,0.0
+HDFC Bank Ltd,Hong Kong,20,0.0
+Intesa Sanpaolo SpA,France,291,0.0
+Johnson Controls International PLC,Ireland,127,0.0
+MediaTek Inc,Finland,83,0.0
+Meituan,Cayman Islands,12,0.0
+NetEase Inc,Cayman Islands,19,0.0
+Nu Holdings Ltd,Cayman Islands,50,0.0
+Progressive Corp,BGD,84,0.0
+Shopify Inc,Canada,10,0.0
+Spotify Technology SA,Luxembourg,22,0.0
+State Bank of India,Australia,67,0.0
+Takeda Pharmaceutical Co Ltd,Japan,77,0.0
+United Overseas Bank Ltd,United Kingdom,30,0.0
+Xiaomi Corp,Cayman Islands,35,0.0
+UniCredit SpA,United Kingdom,415,0.5
+Chubb Ltd,Switzerland,314,0.6
+Universal Music Group NV,Netherlands,180,0.6
+Abbott Laboratories,Belgium,595,0.7
+Schlumberger NV,Curaçao,106,0.9
+Bank of China Ltd,Australia,104,1.0
+Pfizer Inc,France,405,1.0
+Siemens Energy AG,Switzerland,295,1.0
+Accenture PLC,Spain,869,1.5
+Airbus SE,Netherlands,126,1.6
+Hoya Corp,Japan,61,1.6
+Linde PLC,Ireland,671,1.6
+Qatar National Bank QPSC,United Kingdom,59,1.7
+Canadian Imperial Bank of Commerce,United Kingdom,56,1.8
+Danone SA,Spain,107,1.9
+Marriott International Inc,Netherlands,808,1.9
+Becton Dickinson and Co,Germany,348,2.0
+Delta Electronics Thailand PCL,Thailand,50,2.0
+GSK plc,Spain,304,2.0
+TE Connectivity PLC,Ireland,243,2.1
+Anheuser-Busch Inbev SA,Belgium,279,2.2
+Maruti Suzuki India Ltd,Japan,46,2.2
+Texas Instruments Inc,United Kingdom,79,2.5
+Thomson Reuters Corp,Canada,121,2.5
+Adidas AG,Germany,116,2.6
+CRH PLC,Ireland,411,2.7
+Medtronic PLC,United Kingdom,423,2.8
+Atlas Copco AB,Sweden,419,2.9
+Assicurazioni Generali SpA,United Kingdom,711,3.0
+Oversea-Chinese Banking Corporation Ltd,United Kingdom,33,3.0
+Garmin Ltd,Switzerland,64,3.1
+Trane Technologies PLC,Ireland,227,3.1
+General Dynamics Corp,United Kingdom,278,3.2
+Aon PLC,Ireland,1061,3.3
+Industrial and Commercial Bank of China Ltd,United Kingdom,170,3.5
+DSV AS,Denmark,443,3.6
+Tata Consultancy Services Ltd,United Kingdom,56,3.6
+Glencore PLC,Jersey,135,3.7
+Eaton Corporation PLC,Ireland,395,4.1
+Taiwan Semiconductor Manufacturing Co Ltd,Taiwan,24,4.2
+Keyence Corp,Japan,22,4.5
+EssilorLuxottica SA,France,456,4.6
+Constellation Software Inc,Canada,1062,4.8
+Hon Hai Precision Industry Co Ltd,Taiwan,215,5.1
+Trip.com Group Ltd,Cayman Islands,39,5.1
+Life Insurance Corporation Of India,United Kingdom,19,5.3
+China Mobile Ltd,Hong Kong,93,5.4
+NXP Semiconductors NV,Netherlands,55,5.5
+Compagnie Financiere Richemont SA,Switzerland,140,5.7
+Nestle SA,Switzerland,460,5.7
+UBS Group AG,Switzerland,247,5.7
+Zurich Insurance Group AG,Switzerland,194,5.7
+Alibaba Group Holding Ltd,Cayman Islands,138,5.8
+Infosys Ltd,United Kingdom,151,6.0
+PDD Holdings Inc,Cayman Islands,16,6.2
+Tokio Marine Holdings Inc,Japan,106,6.6
+Abb Ltd,Switzerland,193,6.7
+Enel SpA,Italy,1693,6.8
+HCL Technologies Ltd,India,146,6.8
+Adyen NV,United Kingdom,29,6.9
+Givaudan SA,Switzerland,101,6.9
+Toronto-Dominion Bank,United Kingdom,102,6.9
+Semiconductor Manufacturing International Corp,Cayman Islands,28,7.1
+Flutter Entertainment PLC,Ireland,287,7.3
+Roche Holding AG,Switzerland,296,7.4
+NK Lukoil PAO,Russia,26,7.7
+Brookfield Corp,Canada,882,7.8
+Holcim AG,Switzerland,182,8.2
+ASML Holding NV,Netherlands,47,8.5
+Prologis Inc,United States,422,8.5
+Mitsui & Co Ltd,United Kingdom,233,8.6
+Naspers Ltd,South Africa,81,8.6
+Wolters Kluwer NV,Netherlands,81,8.6
+Sony Group Corp,Japan,447,8.7
+Paccar Inc,United States,56,8.9
+SAP SE,Germany,395,8.9
+Synopsys Inc,United States,22,9.1
+Tencent Holdings Ltd,Hong Kong,152,9.2
+Citigroup Inc,United Kingdom,857,9.3
+Sanofi SA,France,204,9.3
+Honda Motor Co Ltd,Japan,64,9.4
+Macquarie Group Ltd,Australia,404,9.4
+Japan Tobacco Inc,Japan,41,9.8
+ServiceNow Inc,United States,50,10.0
+Heineken NV,Netherlands,347,10.1
+Schneider Electric SE,France,604,10.1
+Deutsche Post AG,Germany,906,10.3
+CSL Ltd,Australia,125,10.4
+Boston Scientific Corp,United Kingdom,151,10.6
+Toyota Motor Corp,Japan,183,10.9
+Fortinet Inc,United States,73,11.0
+Bharti Airtel Ltd,India,174,11.5
+Philip Morris International Inc,United States,268,11.6
+Siemens AG,Germany,829,11.7
+Mondelez International Inc,United States,360,11.9
+Bayerische Motoren Werke AG,Germany,326,12.0
+Samsung Electronics Co Ltd,South Korea,341,12.0
+Trade Desk Inc,United States,25,12.0
+Lonza Group AG,Switzerland,73,12.3
+Alimentation Couche-Tard Inc,Canada,39,12.8
+Palantir Technologies Inc,United States,31,12.9
+AstraZeneca PLC,United Kingdom,303,13.2
+Fast Retailing Co Ltd,Japan,30,13.3
+MercadoLibre Inc,United States,75,13.3
+Lululemon Athletica Inc,United States,37,13.5
+Shell PLC,United Kingdom,1865,13.5
+Unilever PLC,United Kingdom,672,13.5
+Alcon AG,Switzerland,36,13.9
+AIA Group Ltd,Hong Kong,42,14.3
+Equinor ASA,Norway,112,14.3
+Ecolab Inc,United States,332,14.5
+Travelers Companies Inc,United Kingdom,123,14.6
+Novartis AG,Switzerland,170,14.7
+Air Products and Chemicals Inc,United States,304,14.8
+Marsh & McLennan Companies Inc,United Kingdom,817,14.8
+Starbucks Corp,United States,27,14.8
+Carrier Global Corp,United States,518,14.9
+Intuitive Surgical Inc,United States,46,15.2
+AXA SA,France,593,15.3
+JD.Com Inc,Cayman Islands,59,15.3
+Allianz SE,Germany,1979,15.4
+Merck KGaA,Germany,410,15.9
+Swiss Re AG,Switzerland,164,15.9
+Ameriprise Financial Inc,United States,173,16.2
+Aflac Inc,Japan,73,16.4
+Autodesk Inc,United States,110,16.4
+Sempra,United States,54,16.7
+Southern Copper Corp,United States,6,16.7
+Hitachi Ltd,Japan,208,16.8
+Manulife Financial Corp,Canada,83,16.9
+Mitsubishi Corp,United Kingdom,196,17.3
+L'Oreal SA,France,242,17.4
+Honeywell International Inc,United States,298,17.8
+Recruit Holdings Co Ltd,Japan,67,17.9
+Parker-Hannifin Corp,United States,186,18.3
+Kimberly-Clark Corp,United States,196,18.4
+Cisco Systems Inc,United States,389,18.5
+HSBC Holdings PLC,United Kingdom,790,18.7
+International Business Machines Corp,United States,225,18.7
+Volkswagen AG,Germany,1842,18.7
+3M Co,United States,85,18.8
+Apple Inc,United States,64,18.8
+Sherwin-Williams Co,United States,162,19.1
+Canon Inc,Japan,125,19.2
+MSCI Inc,United States,26,19.2
+ANZ Group Holdings Ltd,Australia,62,19.4
+Booking Holdings Inc,United States,41,19.5
+Merck & Co Inc,United States,415,19.5
+Deutsche Boerse AG,Germany,199,19.6
+Microsoft Corp,United States,107,19.6
+Baker Hughes Co,United States,86,19.8
+Compagnie de Saint Gobain SA,France,377,19.9
+Saudi Basic Industries Corporation SJSC,Saudi Arabia,206,19.9
+Mastercard Inc,United States,80,20.0
+Samsung Biologics Co Ltd,South Korea,15,20.0
+Christian Dior SE,France,1659,20.1
+Zoetis Inc,United States,133,20.3
+Nike Inc,United States,54,20.4
+Coca-Cola Co,United States,88,20.5
+Haleon PLC,United Kingdom,146,20.5
+Arthur J. Gallagher & Co.,United States,520,20.8
+Fastenal Co,United States,43,20.9
+Kenvue Inc,United States,139,20.9
+Kuwait Finance House KSCP,KWT,43,20.9
+Moody's Corp,United States,214,21.0
+Workday Inc,United States,57,21.1
+Sea Ltd,Cayman Islands,146,21.2
+Cadence Design Systems Inc,United States,84,21.4
+McDonald's Corp,United States,56,21.4
+Illinois Tool Works Inc,United States,419,21.5
+Mitsubishi UFJ Financial Group Inc,Japan,155,21.9
+Fubon Financial Holding Co Ltd,Taiwan,104,22.1
+Lam Research Corp,United States,45,22.2
+Netflix Inc,United States,36,22.2
+Tokyo Electron Ltd,United States,18,22.2
+Danaher Corp,United States,233,22.3
+Equinix Inc,United States,309,22.3
+Mitsubishi Heavy Industries Ltd,Japan,97,22.7
+Sun Pharmaceutical Industries Ltd,India,118,22.9
+Industria de Diseno Textil SA,Spain,226,23.0
+CrowdStrike Holdings Inc,United States,13,23.1
+Procter & Gamble Co,United States,276,23.2
+Visa Inc,United States,43,23.3
+National Grid PLC,United Kingdom,359,23.4
+LG Energy Solution Ltd,South Korea,87,24.1
+Diageo PLC,United Kingdom,343,24.2
+FedEx Corp,United States,189,24.3
+Sumitomo Mitsui Financial Group Inc,Japan,103,24.3
+Caterpillar Inc,United States,443,24.4
+Dassault Systemes SE,France,82,24.4
+Emerson Electric Co,United States,628,24.4
+Uber Technologies Inc,United Kingdom,45,24.4
+Iberdrola SA,Spain,875,24.6
+Amphenol Corp,United States,462,24.9
+British American Tobacco plc,United Kingdom,494,24.9
+Analog Devices Inc,United States,100,25.0
+Banco Santander SA,Spain,1246,25.0
+Gilead Sciences Inc,United States,84,25.0
+Qualcomm Inc,United States,36,25.0
+Volvo AB,Sweden,104,25.0
+GE Vernova Inc,United States,173,25.4
+ING Groep NV,Netherlands,71,25.4
+Newmont Corporation,United States,227,25.6
+Infineon Technologies AG,Germany,105,25.7
+Vertiv Holdings Co,United States,35,25.7
+BP PLC,United Kingdom,1944,25.8
+L'Air Liquide Societe Anonyme pour l'Etude et l'Exploitation des Procedes Georges Claude SA,France,275,25.8
+Oracle Corp,United States,112,25.9
+TC Energy Corp,Canada,54,25.9
+CBRE Group Inc,United States,222,26.1
+RELX PLC,United Kingdom,354,26.3
+Eni SpA,Italy,738,26.4
+PayPal Holdings Inc,United States,49,26.5
+JPMorgan Chase & Co,United States,274,26.6
+Reckitt Benckiser Group PLC,United Kingdom,403,26.6
+Daiichi Sankyo Co Ltd,Japan,30,26.7
+Edwards Lifesciences Corp,United States,15,26.7
+Canadian Pacific Kansas City Ltd,Canada,26,26.9
+Colgate-Palmolive Co,United States,246,27.6
+Deere & Co,United States,87,27.6
+Deutsche Telekom AG,Germany,532,27.6
+Adobe Inc,United States,65,27.7
+Cummins Inc,United States,301,27.9
+KLA Corp,United States,82,28.0
+Mercedes-Benz Group AG,Germany,349,28.1
+Atlassian Corp,United States,46,28.3
+TotalEnergies SE,France,1730,28.5
+Applied Materials Inc,United States,73,28.8
+S&P Global Inc,United Kingdom,346,28.9
+Royal Bank of Canada,United Kingdom,136,29.4
+Exxon Mobil Corp,United States,191,29.8
+Advanced Micro Devices Inc,United States,90,30.0
+Alphabet Inc,United States,80,30.0
+Arista Networks Inc,United States,10,30.0
+Block Inc,United States,30,30.0
+NVIDIA Corp,United States,20,30.0
+American Express Co,United States,136,30.1
+SoftBank Group Corp,Japan,226,30.1
+Snowflake Inc,United States,43,30.2
+Bank of New York Mellon Corp,United States,152,30.3
+Costco Wholesale Corp,United States,46,30.4
+Banco Bilbao Vizcaya Argentaria SA,Spain,337,30.6
+London Stock Exchange Group PLC,United Kingdom,339,30.7
+Intel Corp,United States,91,30.8
+Walmart Inc,United States,84,31.0
+BNP Paribas SA,France,1249,31.2
+Cencora Inc,United States,80,31.2
+SK Hynix Inc,South Korea,124,31.5
+Dell Technologies Inc,United States,294,31.6
+Novo Nordisk AS,Denmark,280,31.8
+Safran SA,France,232,31.9
+Vertex Pharmaceuticals Inc,United States,47,31.9
+Fidelity National Information Services Inc,United States,247,32.0
+Saudi Arabian Oil Co,Saudi Arabia,68,32.4
+Marvell Technology Inc,United States,64,32.8
+Salesforce Inc,United States,134,32.8
+Denso Corp,Japan,218,33.0
+Eli Lilly and Co,United States,176,33.0
+Johnson & Johnson,United States,493,33.1
+Airbnb Inc,United States,15,33.3
+Amgen Inc,United States,63,33.3
+Capital One Financial Corp,United States,21,33.3
+EOG Resources Inc,United States,45,33.3
+Mckesson Corp,United States,42,33.3
+Shin-Etsu Chemical Co Ltd,Japan,90,33.3
+Muenchener Rueckversicherungs-Gesellschaft in Muenchen AG,Germany,1036,33.4
+Stryker Corp,United States,224,33.5
+Midea Group Co Ltd,China,98,33.7
+BlackRock Inc,United States,332,34.0
+Microstrategy Inc,United States,44,34.1
+Thermo Fisher Scientific Inc,United States,1348,34.1
+Experian PLC,United Kingdom,277,34.3
+Walt Disney Co,United States,312,34.6
+Compass Group PLC,United Kingdom,752,34.8
+Itochu Corp,Japan,158,35.4
+Mizuho Financial Group Inc,Japan,81,35.8
+Howmet Aerospace Inc,United States,39,35.9
+Nasdaq Inc,United States,145,35.9
+PepsiCo Inc,United States,616,35.9
+Broadcom Inc,United States,61,36.1
+Interactive Brokers Group Inc,United States,36,36.1
+DBS Group Holdings Ltd,Singapore,83,37.3
+Sberbank Rossii PAO,Russia,16,37.5
+AbbVie Inc,United States,345,38.0
+Enbridge Inc,Canada,503,38.2
+CITIC Securities Co Ltd,China,174,38.5
+Itau Unibanco Holding SA,Brazil,39,38.5
+Nippon Telegraph and Telephone Corp,Japan,200,38.5
+Motorola Solutions Inc,United States,83,38.6
+Bristol-Myers Squibb Co,United States,238,39.1
+Fair Isaac Corp,United States,46,39.1
+BAE Systems PLC,United Kingdom,300,39.3
+Hilton Worldwide Holdings Inc,United States,468,39.5
+Acwa Power Company SJSC,Saudi Arabia,63,39.7
+Palo Alto Networks Inc,United States,85,40.0
+RTX Corp,United States,370,40.0
+Monster Beverage Corp,United States,109,40.4
+Vale SA,Brazil,27,40.7
+Goldman Sachs Group Inc,United States,850,40.9
+Chevron Corp,United States,95,41.1
+Micron Technology Inc,United States,17,41.2
+Rio Tinto PLC,United Kingdom,150,41.3
+CME Group Inc,United Kingdom,99,41.4
+Canadian National Railway Co,Canada,12,41.7
+United Parcel Service Inc,United States,91,41.8
+Suncor Energy Inc,Canada,19,42.1
+United Rentals Inc,United States,40,42.5
+WW Grainger Inc,United States,73,42.5
+Rolls-Royce Holdings PLC,United Kingdom,256,42.6
+Saudi Arabian Mining Company SJSC,Saudi Arabia,47,42.6
+General Electric Co,United Kingdom,145,42.8
+Applovin Corp,United States,7,42.9
+Copart Inc,United States,70,42.9
+Nintendo Co Ltd,Japan,30,43.3
+China Construction Bank Corp,China,69,43.5
+KKR & Co Inc,United States,1583,43.8
+Vinci SA,France,4357,44.0
+Ares Management Corp,United States,143,44.1
+L3Harris Technologies Inc,United States,193,44.6
+Regeneron Pharmaceuticals Inc,United States,31,45.2
+Canadian Natural Resources Ltd,Canada,13,46.2
+BHP Group Ltd,Australia,235,47.2
+Intercontinental Exchange Inc,United States,117,47.9
+NatWest Group PLC,United Kingdom,723,47.9
+BYD Co Ltd,China,25,48.0
+Boeing Co,United States,65,49.2
+AMETEK Inc,United States,264,50.0
+ITC Ltd,India,52,50.0
+PetroChina Co Ltd,China,42,50.0
+Saudi National Bank SJSC,Saudi Arabia,36,50.0
+Westpac Banking Corp,Australia,48,50.0
+Bank of Nova Scotia,Canada,216,50.5
+Saudi Telecom Company SJSC,Saudi Arabia,67,50.7
+Hermes International SCA,France,116,50.9
+American International Group Inc,United States,182,51.6
+National Australia Bank Ltd,Australia,106,51.9
+ADNOC Gas PLC,United Arab Emirates,25,52.0
+ConocoPhillips,United States,102,52.0
+Roper Technologies Inc,United States,261,52.1
+Larsen and Toubro Ltd,India,65,52.3
+DoorDash Inc,United States,21,52.4
+Investor AB,Sweden,40,52.5
+Morgan Stanley,United States,1057,52.6
+Barclays PLC,United Kingdom,410,52.9
+Meta Platforms Inc,United States,68,52.9
+Abu Dhabi National Energy Company PJSC,United Arab Emirates,60,53.3
+Bank of Communications Co Ltd,China,45,53.3
+America Movil SAB de CV,Mexico,106,53.8
+Jiangsu Hengrui Pharmaceuticals Co Ltd,China,45,55.6
+Shenzhen Mindray Bio-Medical Electronics Co Ltd,China,54,55.6
+Fiserv Inc,United States,95,55.8
+Hess Corp,United States,77,55.8
+Apollo Global Management Inc,United States,1550,56.1
+Constellation Brands Inc,United States,112,57.1
+TransDigm Group Inc,United States,232,57.3
+Mahindra and Mahindra Ltd,India,387,57.9
+Amazon.com Inc,United States,129,58.1
+Bank of Montreal,Canada,80,58.8
+Keurig Dr Pepper Inc,United States,68,58.8
+AT&T Inc,United States,107,58.9
+Berkshire Hathaway Inc,United States,729,59.1
+Prudential Financial Inc,United States,616,59.4
+Coinbase Global Inc,United States,15,60.0
+Contemporary Amperex Technology Co Ltd,China,15,60.0
+Blackstone Inc,United States,1540,60.7
+First Abu Dhabi Bank PJSC,United Arab Emirates,39,61.5
+TJX Companies Inc,United States,99,61.6
+Seven & i Holdings Co Ltd,Japan,63,61.9
+Digital Realty Trust Inc,United States,609,62.2
+Luxshare Precision Industry Co Ltd,China,183,62.8
+Cintas Corp,United States,36,63.9
+Royal Caribbean Cruises Ltd,Liberia,100,64.0
+Credit Agricole SA,France,1501,64.1
+Petroleo Brasileiro SA Petrobras,Brazil,35,65.7
+Quanta Services Inc,United States,324,66.0
+General Motors Co,United States,328,66.5
+China Yangtze Power Co Ltd,China,60,66.7
+East Money Information Co Ltd,China,42,66.7
+Home Depot Inc,United States,36,66.7
+Tesla Inc,United States,419,67.3
+Northrop Grumman Corp,United States,28,67.9
+Autozone Inc,United States,25,68.0
+Hong Kong Exchanges and Clearing Ltd,Hong Kong,19,68.4
+Occidental Petroleum Corp,United States,418,69.4
+Freeport-McMoRan Inc,United States,23,69.6
+Agricultural Bank of China Ltd,China,30,70.0
+3i Group PLC,United Kingdom,420,70.7
+Wells Fargo & Co,United States,77,71.4
+KDDI Corp,Japan,46,71.7
+International Holding Company PJSC,United Arab Emirates,1361,71.9
+Discover Financial Services,United States,25,72.0
+Verizon Communications Inc,United States,83,72.3
+Chipotle Mexican Grill Inc,United States,22,72.7
+China Petroleum & Chemical Corp,China,63,73.0
+Comcast Corp,United States,1681,73.2
+American Tower Corp,United States,376,73.7
+Al Rajhi Banking and Investment Corporation SJSC,Saudi Arabia,23,73.9
+Ping An Insurance Group Co of China Ltd,China,147,74.1
+Commonwealth Bank of Australia,Australia,122,74.6
+China Life Insurance Co Ltd,China,72,75.0
+Intuit Inc,United States,79,75.9
+Realty Income Corp,United States,1071,75.9
+Automatic Data Processing Inc,United States,117,76.9
+ICICI Bank Ltd,India,26,76.9
+Reliance Industries Ltd,India,434,78.3
+Cigna Group,United States,134,78.4
+Zijin Mining Group Co Ltd,China,65,78.5
+O'Reilly Automotive Inc,United States,14,78.6
+Kotak Mahindra Bank Ltd,India,24,79.2
+Lockheed Martin Corp,United States,53,79.2
+Lloyds Banking Group PLC,United Kingdom,865,79.3
+Simon Property Group Inc,United States,49,79.6
+MetLife Inc,United States,642,79.9
+Phillips 66,United States,156,80.1
+US Bancorp,United States,159,82.4
+Neftyanaya Kompaniya Rosneft' PAO,Russia,6,83.3
+Target Corp,United States,12,83.3
+Welltower Inc,United States,1098,84.2
+Chandra Asri Pacific PT Tbk,Indonesia,26,84.6
+Bank of America Corp,United States,859,85.0
+Allstate Corp,United States,221,85.5
+Kweichow Moutai Co Ltd,China,7,85.7
+Charles Schwab Corp,United States,24,87.5
+Elevance Health Inc,United States,315,87.6
+Loblaw Companies Ltd,Canada,18,88.9
+China Pacific Insurance Group Co Ltd,China,56,89.3
+Bank Central Asia Tbk PT,Indonesia,10,90.0
+Nextera Energy Inc,United States,50,90.0
+PNC Financial Services Group Inc,United States,61,90.2
+China Shenhua Energy Co Ltd,China,55,90.9
+Wesfarmers Ltd,Australia,416,90.9
+Paychex Inc,United States,81,91.4
+China Telecom Corp Ltd,China,48,91.7
+Shanghai Pudong Development Bank Co Ltd,China,38,92.1
+UnitedHealth Group Inc,United States,2450,92.2
+Cheniere Energy Inc,United States,54,92.6
+Duke Energy Corp,United States,188,92.6
+Industrial Bank Co Ltd,China,14,92.9
+People's Insurance Company Group of China Ltd,China,14,92.9
+Waste Management Inc,United States,642,93.3
+Energy Transfer LP,United States,428,93.5
+Marathon Petroleum Corp,United States,169,93.5
+Williams Companies Inc,United States,176,94.3
+CVS Health Corp,United States,534,95.5
+Truist Financial Corp,United States,45,95.6
+Waste Connections Inc,United States,712,96.1
+Republic Services Inc,United States,863,96.3
+HCA Healthcare Inc,United States,2617,96.8
+Bayan Resources Tbk PT,Indonesia,32,96.9
+Constellation Energy Corp,United States,218,97.2
+Kinder Morgan Inc,United States,309,97.7
+Norfolk Southern Corp,United States,51,98.0
+Enterprise Products Partners LP,United States,197,98.5
+Dominion Energy Inc,United States,211,99.5
+Kroger Co,United States,252,99.6
+DR Horton Inc,United States,581,99.8
+Altria Group Inc,United States,7,100.0
+American Electric Power Company Inc,United States,36,100.0
+Axon Enterprise Inc,United States,7,100.0
+Bajaj Finance Ltd,India,12,100.0
+Barito Renewables Energy PT Tbk,Indonesia,5,100.0
+Beijing-Shanghai High Speed Railway Co Ltd,China,1,100.0
+CSX Corp,United States,6,100.0
+Carvana Co,United States,15,100.0
+Charter Communications Inc,United States,169,100.0
+Diamondback Energy Inc,United States,12,100.0
+Hygon Information Technology Co Ltd,China,6,100.0
+Lowe's Companies Inc,United States,6,100.0
+Nongfu Spring Co Ltd,China,38,100.0
+ONEOK Inc,United States,140,100.0
+PG&E Corp,United States,3,100.0
+Postal Savings Bank of China Co Ltd,China,33,100.0
+Public Service Enterprise Group Inc,United States,10,100.0
+Public Storage,United States,22,100.0
+Ross Stores Inc,United States,5,100.0
+Southern Co,United States,134,100.0
+Union Pacific Corp,United States,2,100.0
+Vistra Corp,United States,62,100.0
+Wuliangye Yibin Co Ltd,China,41,100.0
