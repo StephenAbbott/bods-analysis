@@ -8,7 +8,7 @@ Reproducible analysis of beneficial ownership and corporate group data published
 | Folder | What it does | Post |
 |---|---|---|
 | [`meip-global/`](meip-global) | The OECD-UNSD Multinational Enterprise Information Platform (MEIP) Global Register of the 500 largest multinational groups, vintage 31 Dec 2024: hierarchy status, where subsidiaries sit, offshore and conduit jurisdictions, headquarters, chain depth | *[What the OECD’s register of the world’s 500 largest corporate groups tells us about who owns what](https://stephenabbottpugh.medium.com/what-the-oecds-register-of-the-world-s-500-largest-corporate-groups-tells-us-about-who-owns-what-659397545db5?postPublishedType=initial)* |
-| [`meip-uk-psc/`](meip-uk-psc) | MEIP's 15,678 UK subsidiaries tested against the UK register of people with significant control (PSC): how many the register links to their group and to its head | *Post 2 (link when published)* |
+| [`meip-uk-psc/`](meip-uk-psc) | MEIP's 15,678 UK subsidiaries tested against the UK register of people with significant control (PSC): how many the register links to their group and to its head | *[What an open ownership register adds: testing the UK’s PSC register against the OECD’s map of the world’s largest groups](https://stephenabbottpugh.medium.com/what-an-open-ownership-register-adds-testing-the-uk-psc-register-against-the-oecds-global-register-b3e7374e3bbe)* |
 | [`charts/`](charts) | Draws every chart in both posts from the CSVs in `*/results/` | |
 
 Every number quoted in the posts is in a `results/` file produced by a script here.
