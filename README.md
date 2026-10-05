@@ -9,7 +9,7 @@ By Stephen Abbott Pugh. The code is MIT-licensed; each dataset keeps its own lic
 
 | Folder | What it does | Post |
 |---|---|---|
-| [`meip-global/`](meip-global) | The OECD-UNSD Multinational Enterprise Information Platform (MEIP) Global Register of the 500 largest multinational groups, vintage 31 Dec 2024: hierarchy status, where subsidiaries sit, offshore and conduit jurisdictions, headquarters, chain depth | *Post 1 (link when published)* |
+| [`meip-global/`](meip-global) | The OECD-UNSD Multinational Enterprise Information Platform (MEIP) Global Register of the 500 largest multinational groups, vintage 31 Dec 2024: hierarchy status, where subsidiaries sit, offshore and conduit jurisdictions, headquarters, chain depth | *[What the OECD’s register of the world’s 500 largest corporate groups tells us about who owns what](https://stephenabbottpugh.medium.com/what-the-oecds-register-of-the-world-s-500-largest-corporate-groups-tells-us-about-who-owns-what-659397545db5?postPublishedType=initial)* |
 | [`meip-uk-psc/`](meip-uk-psc) | MEIP's 15,678 UK subsidiaries tested against the UK register of people with significant control (PSC): how many the register links to their group and to its head | *Post 2 (link when published)* |
 | [`charts/`](charts) | Draws every chart in both posts from the CSVs in `*/results/` | |
 
