@@ -1,9 +1,7 @@
 # bods-analysis
 
-Reproducible analysis of beneficial ownership and corporate group data published in the
-[Beneficial Ownership Data Standard (BODS)](https://standard.openownership.org).
-
-By Stephen Abbott Pugh. The code is MIT-licensed; each dataset keeps its own licence (below).
+Reproducible analysis of beneficial ownership and corporate group data published in line with the
+[Beneficial Ownership Data Standard (BODS)](https://standard.openownership.org). The code is MIT-licensed; each dataset keeps its own licence (below).
 
 ## Analyses
 
