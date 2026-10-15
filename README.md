@@ -22,8 +22,9 @@ Every number quoted in the posts is in a `results/` file produced by a script he
 | `psc_graph.sqlite.gz` — the Companies House PSC snapshot as a SQLite graph (active PSCs only) | [OpenCheck release asset `psc-graph-latest`](https://github.com/StephenAbbott/opencheck/releases/tag/psc-graph-latest) (rebuilt daily; the posts used the 23 Sep 2026 snapshot) | OGL v3.0 |
 | `BasicCompanyDataAsOneFile-2026-09-01.zip` | [Companies House bulk data](https://download.companieshouse.gov.uk/en_output.html) | OGL v3.0 |
 | Dissolution dates | public Companies House company pages (step 6 of `meip-uk-psc`) | OGL v3.0 |
+| `estonia-2026-07-04.jsonl.gz` — OpenCheck's Estonia BODS dataset: 209,529 BODS v0.4 statements covering every Estonian LEI holder, joined on the registry code to the e-Business Register's open data of 4 July 2026 (shareholders with percentages, officers, declared beneficial owners) | [OpenCheck release `dataset-estonia-2026-07-04`](https://github.com/StephenAbbott/opencheck/releases/tag/dataset-estonia-2026-07-04) | CC BY 4.0 (e-Business Register layer CC BY 4.0, GLEIF layer CC0) |
 
-The SHA-256 hashes of the files used are in `meip-uk-psc/results/inputs.sha256`.
+The SHA-256 hashes of the files used are in `meip-uk-psc/results/inputs.sha256` and `estonia-register-comparison/results/inputs.json`.
 
 ## Running
 
@@ -36,8 +37,12 @@ python3 00_bods_profile.py /path/to/meip_bods.jsonl > results/bods_profile.json
 python3 02_global_analysis.py
 # UK (see meip-uk-psc/README.md for the full run order)
 cd ../meip-uk-psc && cp ../meip-global/meip_rows.jsonl.gz . && ...
+# Estonia (see estonia-register-comparison/README.md)
+cd ../estonia-register-comparison
+python3 01_load.py /path/to/estonia-2026-07-04.jsonl.gz
+python3 02_compare.py && python3 03_summarise.py && python3 04_family_surnames.py
 # charts
-cd .. && python3 charts/make_charts.py
+cd .. && python3 charts/make_charts.py && python3 charts/make_estonia_charts.py
 ```
 
 ## Offshore classification
