@@ -1,0 +1,44 @@
+{
+ "companies_in_dataset": 22563,
+ "companies_with_shareholder_list": 21838,
+ "outcomes": {
+  "integrated_over_25": {
+   "same_people": 19166,
+   "incomplete": 1130,
+   "register_adds_someone": 732,
+   "no_declared_bo": 322,
+   "shares_over_100": 231,
+   "both_ways": 132,
+   "register_misses_someone": 125
+  },
+  "integrated_over_25_hash_only": {
+   "same_people": 18822,
+   "incomplete": 1130,
+   "register_adds_someone": 723,
+   "both_ways": 489,
+   "no_declared_bo": 322,
+   "shares_over_100": 231,
+   "register_misses_someone": 121
+  },
+  "amlr_25_or_more": {
+   "same_people": 19263,
+   "incomplete": 1144,
+   "register_adds_someone": 596,
+   "no_declared_bo": 322,
+   "shares_over_100": 231,
+   "register_misses_someone": 152,
+   "both_ways": 130
+  },
+  "majority_control": {
+   "same_people": 19115,
+   "incomplete": 1127,
+   "register_adds_someone": 792,
+   "no_declared_bo": 322,
+   "shares_over_100": 231,
+   "both_ways": 129,
+   "register_misses_someone": 122
+  }
+ },
+ "companies_with_company_shareholder_over_25": 1605,
+ "share_total_not_100": 235
+}

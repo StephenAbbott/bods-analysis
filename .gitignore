@@ -10,3 +10,4 @@ results_*.jsonl
 group_index*.json
 dissolution.jsonl
 __pycache__/
+tables.json.gz

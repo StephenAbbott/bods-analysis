@@ -1,0 +1,110 @@
+{
+ "dataset": {
+  "file": "estonia-2026-07-04.jsonl.gz",
+  "sha256": "e8d098bd4c4c80a5bdebdcdd77735c8ac545331c2507356dea7fa0056d1c4d72",
+  "statements": 209529
+ },
+ "funnel": {
+  "Estonian LEI holders with a registry code": 23308,
+  "found in the e-Business Register": 22563,
+  "with a shareholder list giving percentages": 21838,
+  "with at least one declared beneficial owner": 21516,
+  "whose shareholdings add up to no more than 100%": 21285,
+  "whose ownership chains stay inside the dataset": 20155
+ },
+ "comparable": 20155,
+ "classes": {
+  "same_people": {
+   "companies": 19166,
+   "pct": 95.1
+  },
+  "register_adds_someone": {
+   "companies": 732,
+   "pct": 3.6
+  },
+  "register_misses_someone": {
+   "companies": 125,
+   "pct": 0.6
+  },
+  "both_ways": {
+   "companies": 132,
+   "pct": 0.7
+  }
+ },
+ "not_comparable": {
+  "no_declared_bo": 322,
+  "no_declared_bo_with_a_qualifying_shareholder": 309,
+  "shares_over_100": 231,
+  "incomplete_chain": 1130,
+  "incomplete_by_kind": {
+   "estonian_no_lei": 867,
+   "foreign": 253,
+   "estonian_no_lei+foreign": 10
+  }
+ },
+ "declared_only_people": {
+  "total": 1296,
+  "holds less than 25%": 510,
+  "neither a shareholder nor on the board": 193,
+  "board member, holds no shares": 313,
+  "holds exactly 25%": 280
+ },
+ "calculated_only_people": {
+  "total": 270,
+  "holds more than 25% directly": 253,
+  "holds more than 25% through companies": 17,
+  "of_whom_board_members": 112
+ },
+ "nobody_over_25_but_register_names_someone": 99,
+ "amlr": {
+  "same_people": 19263,
+  "comparable": 20141,
+  "same_people_pct": 95.6,
+  "companies_whose_calculated_owners_change": 171,
+  "companies_newly_missing_someone": 27
+ },
+ "majority_reading": {
+  "same_people": 19115,
+  "register_adds_someone": 792,
+  "register_misses_someone": 122,
+  "both_ways": 129
+ },
+ "hash_only": {
+  "same_people": 18822,
+  "both_ways": 489,
+  "same_people_pct": 93.4
+ },
+ "chains": {
+  "companies_with_a_company_shareholder_over_25": 1605,
+  "comparable": 451,
+  "same_people_pct": 82.3,
+  "direct_only_same_people_pct": 95.4
+ },
+ "by_shape": {
+  "one shareholder": {
+   "comparable": 16577,
+   "same_people": 16217,
+   "pct_same": 97.8,
+   "register_adds_someone": 271,
+   "register_misses_someone": 0,
+   "both_ways": 89
+  },
+  "several shareholders": {
+   "comparable": 3127,
+   "same_people": 2578,
+   "pct_same": 82.4,
+   "register_adds_someone": 399,
+   "register_misses_someone": 116,
+   "both_ways": 34
+  },
+  "a company holds more than 25%": {
+   "comparable": 451,
+   "same_people": 371,
+   "pct_same": 82.3,
+   "register_adds_someone": 62,
+   "register_misses_someone": 9,
+   "both_ways": 9
+  }
+ },
+ "share_total_not_100": 235
+}

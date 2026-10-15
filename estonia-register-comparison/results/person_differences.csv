@@ -1,0 +1,1567 @@
+registry_code,outcome,side,integrated_stake,direct_stake,is_board,declared_type,nobody_over_threshold,stake_band
+10003643,register_adds_someone,declared_only,10.0,10.0,1,Direct participation,0,under 25%
+10021782,register_adds_someone,declared_only,20.0,20.0,0,Direct participation,0,under 25%
+10026609,register_adds_someone,declared_only,0.0,0.0,0,(control type not stated),0,none
+10027891,both_ways,calculated_only,26.02,26.02,0,,0,over 25%
+10027891,both_ways,declared_only,0.0,0.0,1,Direct participation,0,none
+10031987,register_adds_someone,declared_only,10.0,10.0,0,Direct participation,1,under 25%
+10031987,register_adds_someone,declared_only,11.4977,0.0,0,Indirect participation,1,under 25%
+10031987,register_adds_someone,declared_only,11.5023,0.0,1,Indirect participation,1,under 25%
+10031987,register_adds_someone,declared_only,12.0,12.0,0,Direct participation,1,under 25%
+10031987,register_adds_someone,declared_only,15.0,15.0,0,Direct participation,1,under 25%
+10031987,register_adds_someone,declared_only,17.0,17.0,0,Direct participation,1,under 25%
+10031987,register_adds_someone,declared_only,23.0,0.0,1,Indirect participation,1,under 25%
+10049651,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+10049651,register_adds_someone,declared_only,4.5,4.5,1,Direct participation,0,under 25%
+10057277,register_misses_someone,calculated_only,49.96,49.96,1,,0,over 25%
+10061988,register_adds_someone,declared_only,16.66,16.66,0,Direct participation,0,under 25%
+10061988,register_adds_someone,declared_only,16.68,16.68,1,Direct participation,0,under 25%
+10077185,register_adds_someone,declared_only,12.5,12.5,0,Direct participation,0,under 25%
+10081169,register_adds_someone,declared_only,25.0,25.0,0,Direct participation,0,exactly 25%
+10098336,register_adds_someone,declared_only,12.5,12.5,1,(control type not stated),0,under 25%
+10099896,register_adds_someone,declared_only,0.0,0.0,1,Other means of control or influence,0,none
+10102894,register_adds_someone,declared_only,18.67,18.67,0,Direct participation,0,under 25%
+10112705,register_adds_someone,declared_only,25.0,25.0,0,Direct participation,0,exactly 25%
+10117708,register_adds_someone,declared_only,25.0,25.0,0,Direct participation,0,exactly 25%
+10125174,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+10136746,register_adds_someone,declared_only,5.19,5.19,0,Direct participation,0,under 25%
+10145389,register_adds_someone,declared_only,20.01,20.01,0,Direct participation,0,under 25%
+10147425,register_adds_someone,declared_only,0.0,0.0,0,Indirect participation,0,none
+10147425,register_adds_someone,declared_only,25.0,0.0,1,Indirect participation,0,exactly 25%
+10169958,register_adds_someone,declared_only,20.0,20.0,0,Direct participation,1,under 25%
+10169958,register_adds_someone,declared_only,20.0,20.0,1,Direct participation,1,under 25%
+10169958,register_adds_someone,declared_only,20.0,20.0,1,Direct participation,1,under 25%
+10169958,register_adds_someone,declared_only,20.0,20.0,1,Direct participation,1,under 25%
+10169958,register_adds_someone,declared_only,20.0,20.0,1,Direct participation,1,under 25%
+10173049,register_adds_someone,declared_only,0.0,0.0,1,Direct participation,0,none
+10175367,register_adds_someone,declared_only,25.0,25.0,0,Direct participation,0,exactly 25%
+10178696,both_ways,calculated_only,100.0,100.0,0,,0,over 25%
+10178696,both_ways,declared_only,0.0,0.0,1,Direct participation,0,none
+10186796,register_adds_someone,declared_only,13.0,13.0,0,Direct participation,0,under 25%
+10186796,register_adds_someone,declared_only,13.0,13.0,0,Direct participation,0,under 25%
+10186796,register_adds_someone,declared_only,15.0,15.0,0,Direct participation,0,under 25%
+10188708,register_adds_someone,declared_only,15.8511,12.86,1,(control type not stated),1,under 25%
+10188708,register_adds_someone,declared_only,22.9015,18.58,1,(control type not stated),1,under 25%
+10188708,register_adds_someone,declared_only,9.3554,7.59,1,(control type not stated),1,under 25%
+10201202,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+10201202,register_adds_someone,declared_only,6.0,6.0,1,Direct participation,0,under 25%
+10201874,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,0,exactly 25%
+10214877,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+10222090,register_adds_someone,declared_only,24.0,24.0,0,Direct participation,0,under 25%
+10222090,register_adds_someone,declared_only,24.0,24.0,0,Direct participation,0,under 25%
+10224752,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+10228551,register_adds_someone,declared_only,0.0,0.0,0,(control type not stated),0,none
+10228551,register_adds_someone,declared_only,0.0,0.0,0,(control type not stated),0,none
+10228551,register_adds_someone,declared_only,3.51,3.51,0,(control type not stated),0,under 25%
+10235359,both_ways,calculated_only,50.0,50.0,1,,0,over 25%
+10235359,both_ways,declared_only,0.0,0.0,0,Direct participation,0,none
+10235359,both_ways,declared_only,0.0,0.0,1,Direct participation,0,none
+10236933,register_adds_someone,declared_only,23.98,23.98,0,Direct participation,0,under 25%
+10236933,register_adds_someone,declared_only,6.25,6.25,0,Direct participation,0,under 25%
+10236933,register_adds_someone,declared_only,7.28,7.28,0,Direct participation,0,under 25%
+10252263,register_adds_someone,declared_only,12.5,12.5,1,Direct participation,0,under 25%
+10253825,both_ways,calculated_only,40.01,40.01,0,,0,over 25%
+10253825,both_ways,declared_only,0.0,0.0,0,Direct participation,0,none
+10262528,register_adds_someone,declared_only,0.0,0.0,0,Direct participation,0,none
+10265900,register_adds_someone,declared_only,14.0,14.0,0,Direct participation,0,under 25%
+10265900,register_adds_someone,declared_only,14.0,14.0,1,Direct participation,0,under 25%
+10265900,register_adds_someone,declared_only,16.0,16.0,0,Direct participation,0,under 25%
+10265900,register_adds_someone,declared_only,2.0,2.0,0,Direct participation,0,under 25%
+10265900,register_adds_someone,declared_only,20.0,20.0,1,Direct participation,0,under 25%
+10271378,register_adds_someone,declared_only,8.23,8.23,1,Direct participation,0,under 25%
+10274218,register_misses_someone,calculated_only,50.0,50.0,0,,0,over 25%
+10280182,register_adds_someone,declared_only,25.0,25.0,0,Direct participation,0,exactly 25%
+10283068,register_adds_someone,declared_only,3.64,3.64,0,Direct participation,0,under 25%
+10287868,both_ways,calculated_only,50.0,50.0,0,,0,over 25%
+10287868,both_ways,declared_only,0.0,0.0,0,Direct participation,0,none
+10287907,register_adds_someone,declared_only,24.99,24.99,1,Direct participation,0,under 25%
+10289823,register_adds_someone,declared_only,20.0,20.0,1,Direct participation,0,under 25%
+10289823,register_adds_someone,declared_only,20.0,20.0,1,Direct participation,0,under 25%
+10291168,register_adds_someone,declared_only,23.0,23.0,0,Direct participation,0,under 25%
+10291429,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+10294020,register_adds_someone,declared_only,1.75,1.75,0,Direct participation,0,under 25%
+10294020,register_adds_someone,declared_only,1.75,1.75,0,Direct participation,0,under 25%
+10294020,register_adds_someone,declared_only,10.0,10.0,0,Direct participation,0,under 25%
+10294020,register_adds_someone,declared_only,8.5,8.5,0,Direct participation,0,under 25%
+10303569,register_adds_someone,declared_only,20.0,20.0,1,Direct participation,0,under 25%
+10305338,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+10305976,register_adds_someone,declared_only,25.0,25.0,0,Direct participation,1,exactly 25%
+10305976,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,1,exactly 25%
+10305976,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,1,exactly 25%
+10305976,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,1,exactly 25%
+10307231,register_misses_someone,calculated_only,28.48,0.0,1,,0,over 25%
+10309000,register_adds_someone,declared_only,25.0,25.0,0,Direct participation,0,exactly 25%
+10309000,register_adds_someone,declared_only,25.0,25.0,0,Direct participation,0,exactly 25%
+10310523,register_adds_someone,declared_only,25.0,25.0,1,(control type not stated),1,exactly 25%
+10312261,register_adds_someone,declared_only,20.51,20.51,1,Direct participation,0,under 25%
+10313384,register_adds_someone,declared_only,12.08,12.08,0,Direct participation,0,under 25%
+10325565,register_adds_someone,declared_only,20.0,20.0,1,Direct participation,0,under 25%
+10325849,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,0,exactly 25%
+10329221,register_adds_someone,declared_only,25.0,25.0,0,Direct participation,0,exactly 25%
+10332163,register_adds_someone,declared_only,20.0,20.0,0,Direct participation,0,under 25%
+10333435,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+10349643,register_adds_someone,declared_only,15.76,15.76,0,Direct participation,0,under 25%
+10349643,register_adds_someone,declared_only,2.1733,0.0,0,Indirect participation,0,under 25%
+10356005,register_adds_someone,declared_only,0.0,0.0,0,Other means of control or influence,0,none
+10360610,register_adds_someone,declared_only,25.0,25.0,0,Direct participation,0,exactly 25%
+10360610,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,0,exactly 25%
+10372270,register_adds_someone,declared_only,25.0,25.0,0,Direct participation,0,exactly 25%
+10382577,register_adds_someone,declared_only,0.0,0.0,1,Direct participation,0,none
+10383025,both_ways,calculated_only,45.0,0.0,0,,0,over 25%
+10383025,both_ways,calculated_only,45.0,0.0,0,,0,over 25%
+10383025,both_ways,declared_only,10.0,0.0,1,Indirect participation,0,under 25%
+10383964,register_adds_someone,declared_only,0.0,0.0,0,Direct participation,0,none
+10406074,register_adds_someone,declared_only,0.0,0.0,1,Direct participation,0,none
+10406393,register_adds_someone,declared_only,0.0,0.0,1,Other means of control or influence,0,none
+10409687,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,0,exactly 25%
+10418077,register_adds_someone,declared_only,25.0,25.0,0,(control type not stated),1,exactly 25%
+10418077,register_adds_someone,declared_only,25.0,25.0,1,(control type not stated),1,exactly 25%
+10418077,register_adds_someone,declared_only,25.0,25.0,1,(control type not stated),1,exactly 25%
+10418077,register_adds_someone,declared_only,25.0,25.0,1,(control type not stated),1,exactly 25%
+10421642,both_ways,calculated_only,100.0,100.0,0,,0,over 25%
+10421642,both_ways,declared_only,0.0,0.0,1,Direct participation,0,none
+10422722,register_adds_someone,declared_only,0.0,0.0,0,Direct participation,0,none
+10431037,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,0,exactly 25%
+10440579,register_adds_someone,declared_only,16.78,16.78,1,Direct participation,0,under 25%
+10440579,register_adds_someone,declared_only,8.34,8.34,1,(control type not stated),0,under 25%
+10440579,register_adds_someone,declared_only,8.34,8.34,1,(control type not stated),0,under 25%
+10446659,register_adds_someone,declared_only,2.5,2.5,0,Direct participation,0,under 25%
+10452387,register_adds_someone,declared_only,20.0,20.0,0,Direct participation,0,under 25%
+10452387,register_adds_someone,declared_only,20.0,20.0,0,Direct participation,0,under 25%
+10452387,register_adds_someone,declared_only,20.0,20.0,1,Direct participation,0,under 25%
+10452393,register_adds_someone,declared_only,0.0,0.0,0,Other means of control or influence,0,none
+10463014,both_ways,calculated_only,100.0,100.0,1,,0,over 25%
+10463014,both_ways,declared_only,0.0,0.0,0,Direct participation,0,none
+10463617,both_ways,calculated_only,83.71,0.0,1,,0,over 25%
+10463617,both_ways,declared_only,7.29,7.29,0,Direct participation,0,under 25%
+10464232,register_misses_someone,calculated_only,35.02,35.02,0,,0,over 25%
+10472119,register_adds_someone,declared_only,5.0,5.0,0,Direct participation,0,under 25%
+10472119,register_adds_someone,declared_only,5.0,5.0,0,Direct participation,0,under 25%
+10472728,register_misses_someone,calculated_only,50.0,50.0,1,,0,over 25%
+10475856,register_misses_someone,calculated_only,25.0525,4.14,1,,0,over 25%
+10477499,register_adds_someone,declared_only,0.0,0.0,1,Direct participation,0,none
+10478398,register_adds_someone,declared_only,20.0,20.0,0,Direct participation,1,under 25%
+10478398,register_adds_someone,declared_only,20.0,20.0,0,Direct participation,1,under 25%
+10478398,register_adds_someone,declared_only,20.0,20.0,0,Direct participation,1,under 25%
+10478398,register_adds_someone,declared_only,20.0,20.0,0,Direct participation,1,under 25%
+10478398,register_adds_someone,declared_only,20.0,20.0,1,Direct participation,1,under 25%
+10480194,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+10483583,register_adds_someone,declared_only,25.0,25.0,0,Direct participation,0,exactly 25%
+10483583,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,0,exactly 25%
+10490399,both_ways,calculated_only,50.0,50.0,0,,0,over 25%
+10490399,both_ways,calculated_only,50.0,50.0,0,,0,over 25%
+10490399,both_ways,declared_only,0.0,0.0,1,(control type not stated),0,none
+10490502,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+10496211,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+10506798,register_adds_someone,declared_only,5.01,5.01,1,Direct participation,0,under 25%
+10506798,register_adds_someone,declared_only,5.01,5.01,1,Direct participation,0,under 25%
+10506798,register_adds_someone,declared_only,8.1,8.1,0,Direct participation,0,under 25%
+10514198,register_adds_someone,declared_only,10.0,10.0,0,Direct participation,0,under 25%
+10520427,register_adds_someone,declared_only,1.0,1.0,0,Direct participation,0,under 25%
+10520427,register_adds_someone,declared_only,17.63,17.63,0,Direct participation,0,under 25%
+10520798,register_adds_someone,declared_only,25.0,25.0,0,Direct participation,0,exactly 25%
+10520798,register_adds_someone,declared_only,25.0,25.0,0,Direct participation,0,exactly 25%
+10524187,register_adds_someone,declared_only,24.0016,0.0,0,Indirect participation,0,under 25%
+10529546,register_adds_someone,declared_only,1.68,1.68,0,Direct participation,0,under 25%
+10530319,register_adds_someone,declared_only,0.0,0.0,0,Direct participation,0,none
+10539310,register_misses_someone,calculated_only,30.0,30.0,0,,0,over 25%
+10542363,register_adds_someone,declared_only,3.75,3.75,1,Direct participation,0,under 25%
+10543428,register_adds_someone,declared_only,25.0,25.0,0,Direct participation,0,exactly 25%
+10545278,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+10559272,register_adds_someone,declared_only,24.49,24.49,0,Direct participation,0,under 25%
+10559272,register_adds_someone,declared_only,24.49,24.49,0,Direct participation,0,under 25%
+10560025,register_adds_someone,declared_only,9.93,9.93,0,Direct participation,0,under 25%
+10577114,register_adds_someone,declared_only,0.0,0.0,1,Direct participation,0,none
+10577114,register_adds_someone,declared_only,0.0,0.0,1,Direct participation,0,none
+10584829,register_misses_someone,calculated_only,50.0,50.0,0,,0,over 25%
+10585303,register_adds_someone,declared_only,0.0,0.0,1,Direct participation,0,none
+10585303,register_adds_someone,declared_only,25.0,25.0,0,Direct participation,0,exactly 25%
+10585303,register_adds_someone,declared_only,25.0,25.0,0,Direct participation,0,exactly 25%
+10590209,both_ways,calculated_only,50.0,50.0,0,,0,over 25%
+10590209,both_ways,declared_only,0.0,0.0,0,Direct participation,0,none
+10590209,both_ways,declared_only,0.0,0.0,0,Indirect participation,0,none
+10590209,both_ways,declared_only,0.0,0.0,1,Indirect participation,0,none
+10606206,register_adds_someone,declared_only,19.99,19.99,1,Direct participation,0,under 25%
+10610490,register_adds_someone,declared_only,10.0,10.0,0,Direct participation,0,under 25%
+10610923,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,1,exactly 25%
+10610923,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,1,exactly 25%
+10610923,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,1,exactly 25%
+10610923,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,1,exactly 25%
+10622665,register_adds_someone,declared_only,20.97,20.97,1,Direct participation,0,under 25%
+10624003,register_adds_someone,declared_only,0.0,0.0,1,Direct participation,0,none
+10631316,register_adds_someone,declared_only,25.0,25.0,0,Direct participation,0,exactly 25%
+10631316,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,0,exactly 25%
+10655707,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),1,none
+10655707,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),1,none
+10655707,register_adds_someone,declared_only,18.0,0.0,1,(control type not stated),1,under 25%
+10666473,both_ways,calculated_only,33.33,33.33,0,,0,over 25%
+10666473,both_ways,declared_only,0.0,0.0,0,Direct participation,0,none
+10672508,register_adds_someone,declared_only,25.0,25.0,0,Direct participation,1,exactly 25%
+10672508,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,1,exactly 25%
+10672508,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,1,exactly 25%
+10672508,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,1,exactly 25%
+10676554,register_adds_someone,declared_only,0.0,0.0,1,Direct participation,0,none
+10683419,both_ways,calculated_only,100.0,100.0,0,,0,over 25%
+10683419,both_ways,declared_only,0.0,0.0,1,Direct participation,0,none
+10687593,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+10695084,register_adds_someone,declared_only,25.0,25.0,0,Direct participation,1,exactly 25%
+10695084,register_adds_someone,declared_only,25.0,25.0,0,Direct participation,1,exactly 25%
+10695084,register_adds_someone,declared_only,25.0,25.0,0,Direct participation,1,exactly 25%
+10695084,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,1,exactly 25%
+10697315,register_adds_someone,declared_only,1.0,1.0,1,Direct participation,0,under 25%
+10700365,register_adds_someone,declared_only,12.5,12.5,1,Direct participation,0,under 25%
+10702430,register_adds_someone,declared_only,10.0,10.0,0,Direct participation,0,under 25%
+10702476,register_adds_someone,declared_only,25.0,25.0,0,Direct participation,1,exactly 25%
+10702476,register_adds_someone,declared_only,25.0,25.0,0,Direct participation,1,exactly 25%
+10702476,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,1,exactly 25%
+10702476,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,1,exactly 25%
+10703783,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+10705285,register_adds_someone,declared_only,16.5,16.5,1,Direct participation,1,under 25%
+10705285,register_adds_someone,declared_only,16.5,16.5,1,Direct participation,1,under 25%
+10705285,register_adds_someone,declared_only,17.5,17.5,1,Direct participation,1,under 25%
+10705865,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,0,exactly 25%
+10722496,register_adds_someone,declared_only,0.0,0.0,0,Indirect participation,0,none
+10722740,register_adds_someone,declared_only,9.99,9.99,0,Direct participation,0,under 25%
+10722740,register_adds_someone,declared_only,9.99,9.99,0,Direct participation,0,under 25%
+10722740,register_adds_someone,declared_only,9.99,9.99,0,Direct participation,0,under 25%
+10736446,register_adds_someone,declared_only,0.0,0.0,1,Direct participation,0,none
+10743222,register_adds_someone,declared_only,12.0,12.0,0,Direct participation,0,under 25%
+10757589,register_adds_someone,declared_only,20.0,20.0,1,Direct participation,0,under 25%
+10757783,register_adds_someone,declared_only,0.48,0.48,0,Direct participation,0,under 25%
+10772873,register_misses_someone,calculated_only,50.0,50.0,1,,0,over 25%
+10788294,register_adds_someone,declared_only,10.0,10.0,0,Direct participation,0,under 25%
+10789632,both_ways,calculated_only,50.0,50.0,0,,0,over 25%
+10789632,both_ways,declared_only,0.0,0.0,0,Direct participation,0,none
+10791971,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+10793438,register_adds_someone,declared_only,0.0,0.0,1,Direct participation,0,none
+10800902,register_adds_someone,declared_only,10.2987,0.0,1,(control type not stated),1,under 25%
+10800902,register_adds_someone,declared_only,19.0525,0.0,1,(control type not stated),1,under 25%
+10800902,register_adds_someone,declared_only,2.0597,2.0,1,(control type not stated),1,under 25%
+10800902,register_adds_someone,declared_only,22.1421,0.0,1,(control type not stated),1,under 25%
+10800902,register_adds_someone,declared_only,22.1421,0.0,1,(control type not stated),1,under 25%
+10800902,register_adds_someone,declared_only,7.2091,7.0,1,(control type not stated),1,under 25%
+10804403,register_adds_someone,declared_only,12.5,0.0,1,Direct participation,0,under 25%
+10807229,register_adds_someone,declared_only,12.0,12.0,1,Direct participation,0,under 25%
+10807229,register_adds_someone,declared_only,12.0,12.0,1,Direct participation,0,under 25%
+10811354,register_adds_someone,declared_only,20.0,20.0,1,Direct participation,0,under 25%
+10824825,register_adds_someone,declared_only,20.0,20.0,0,Direct participation,0,under 25%
+10825813,register_misses_someone,calculated_only,50.0,50.0,0,,0,over 25%
+10840706,register_adds_someone,declared_only,24.0,24.0,1,Direct participation,0,under 25%
+10840706,register_adds_someone,declared_only,24.0,24.0,1,Direct participation,0,under 25%
+10847306,register_adds_someone,declared_only,14.06,14.06,1,Direct participation,0,under 25%
+10848725,register_misses_someone,calculated_only,50.0,50.0,0,,0,over 25%
+10848889,register_adds_someone,declared_only,20.0,20.0,1,Direct participation,0,under 25%
+10848889,register_adds_someone,declared_only,20.0,20.0,1,Direct participation,0,under 25%
+10852603,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,0,exactly 25%
+10852603,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,0,exactly 25%
+10861921,register_adds_someone,declared_only,0.0,0.0,1,Indirect participation,0,none
+10869325,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+10869934,register_adds_someone,declared_only,20.0,20.0,0,Direct participation,0,under 25%
+10875123,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+10877448,register_adds_someone,declared_only,25.0,25.0,0,Direct participation,1,exactly 25%
+10877448,register_adds_someone,declared_only,25.0,25.0,0,Direct participation,1,exactly 25%
+10877448,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,1,exactly 25%
+10877448,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,1,exactly 25%
+10878264,register_adds_someone,declared_only,25.0,25.0,0,Direct participation,0,exactly 25%
+10878264,register_adds_someone,declared_only,25.0,25.0,0,Direct participation,0,exactly 25%
+10881303,both_ways,calculated_only,100.0,100.0,0,,0,over 25%
+10881303,both_ways,declared_only,0.0,0.0,1,Direct participation,0,none
+10885488,both_ways,calculated_only,100.0,100.0,0,,0,over 25%
+10885488,both_ways,declared_only,0.0,0.0,0,Direct participation,0,none
+10891626,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+10894719,register_adds_someone,declared_only,15.0,15.0,0,Direct participation,0,under 25%
+10894719,register_adds_someone,declared_only,15.0,15.0,0,Direct participation,0,under 25%
+10894719,register_adds_someone,declared_only,15.0,15.0,0,Direct participation,0,under 25%
+10894719,register_adds_someone,declared_only,15.0,15.0,0,Direct participation,0,under 25%
+10899579,register_adds_someone,declared_only,0.0,0.0,1,Direct participation,0,none
+10902442,register_adds_someone,declared_only,20.0,20.0,0,Direct participation,1,under 25%
+10902442,register_adds_someone,declared_only,20.0,20.0,1,Direct participation,1,under 25%
+10902442,register_adds_someone,declared_only,20.0,20.0,1,Direct participation,1,under 25%
+10902442,register_adds_someone,declared_only,20.0,20.0,1,Direct participation,1,under 25%
+10902442,register_adds_someone,declared_only,20.0,20.0,1,Direct participation,1,under 25%
+10903217,register_misses_someone,calculated_only,50.0,50.0,0,,0,over 25%
+10903312,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+10907907,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+10920629,register_adds_someone,declared_only,0.0,0.0,1,Direct participation,0,none
+10923007,register_adds_someone,declared_only,25.0,25.0,0,Direct participation,0,exactly 25%
+10923007,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,0,exactly 25%
+10935909,register_adds_someone,declared_only,18.13,18.13,1,Direct participation,0,under 25%
+10938664,both_ways,calculated_only,58.33,58.33,0,,0,over 25%
+10938664,both_ways,declared_only,0.0,0.0,1,Direct participation,0,none
+10958721,register_adds_someone,declared_only,12.1327,11.85,0,Direct participation,1,under 25%
+10958721,register_adds_someone,declared_only,12.1327,11.85,0,Direct participation,1,under 25%
+10958721,register_adds_someone,declared_only,17.4363,17.03,0,Direct participation,1,under 25%
+10958721,register_adds_someone,declared_only,2.273,2.22,0,Direct participation,1,under 25%
+10958721,register_adds_someone,declared_only,2.273,2.22,0,Direct participation,1,under 25%
+10958721,register_adds_someone,declared_only,2.273,2.22,0,Direct participation,1,under 25%
+10958721,register_adds_someone,declared_only,24.2654,23.7,0,Direct participation,1,under 25%
+10958721,register_adds_someone,declared_only,24.2654,23.7,0,Direct participation,1,under 25%
+10967699,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+10983682,register_adds_someone,declared_only,0.0,0.0,1,Indirect participation,0,none
+10983819,register_adds_someone,declared_only,18.99,18.99,1,Direct participation,0,under 25%
+10987935,both_ways,calculated_only,75.0,75.0,1,,0,over 25%
+10987935,both_ways,declared_only,25.0,25.0,0,Direct participation,0,exactly 25%
+10988099,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,0,exactly 25%
+10991687,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+10995277,register_misses_someone,calculated_only,50.0,50.0,0,,0,over 25%
+10996437,register_adds_someone,declared_only,0.0,0.0,1,Direct participation,0,none
+11004194,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+11006655,register_adds_someone,declared_only,0.0,0.0,0,Direct participation,0,none
+11008565,both_ways,calculated_only,100.0,100.0,0,,0,over 25%
+11008565,both_ways,declared_only,0.0,0.0,0,Direct participation,0,none
+11010237,register_adds_someone,declared_only,5.59,5.59,1,Direct participation,0,under 25%
+11010510,register_adds_someone,declared_only,0.0,0.0,1,Other means of control or influence,0,none
+11010510,register_adds_someone,declared_only,0.0,0.0,1,Other means of control or influence,0,none
+11011165,register_adds_someone,declared_only,25.0,25.0,0,Direct participation,0,exactly 25%
+11011521,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,0,exactly 25%
+11026959,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,0,exactly 25%
+11031156,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+11032486,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+11034077,register_adds_someone,declared_only,0.0,0.0,1,Direct participation,0,none
+11034893,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+11039933,register_adds_someone,declared_only,11.52,11.52,0,Direct participation,0,under 25%
+11048085,register_adds_someone,declared_only,10.0,0.0,0,Indirect participation,0,under 25%
+11052833,register_adds_someone,declared_only,25.0,25.0,0,Direct participation,0,exactly 25%
+11052833,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,0,exactly 25%
+11063084,register_misses_someone,calculated_only,33.33,33.33,0,,0,over 25%
+11063084,register_misses_someone,calculated_only,33.33,33.33,0,,0,over 25%
+11066539,register_adds_someone,declared_only,16.0,16.0,0,Direct participation,0,under 25%
+11066628,register_adds_someone,declared_only,0.0,0.0,1,Direct participation,0,none
+11072764,register_adds_someone,declared_only,10.0,0.0,1,Direct participation,0,under 25%
+11079177,both_ways,calculated_only,100.0,100.0,0,,0,over 25%
+11079177,both_ways,declared_only,0.0,0.0,0,Direct participation,0,none
+11085353,register_adds_someone,declared_only,15.0,15.0,0,Direct participation,0,under 25%
+11086750,register_adds_someone,declared_only,20.03,20.03,1,Direct participation,0,under 25%
+11093453,register_adds_someone,declared_only,4.07,4.07,1,Direct participation,0,under 25%
+11096368,both_ways,calculated_only,100.0,100.0,1,,0,over 25%
+11096368,both_ways,declared_only,0.0,0.0,0,Direct participation,0,none
+11105208,register_adds_someone,declared_only,0.0,0.0,0,Direct participation,0,none
+11106888,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,0,exactly 25%
+11106888,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,0,exactly 25%
+11106983,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+11107899,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+11107899,register_adds_someone,declared_only,21.92,0.0,1,(control type not stated),0,under 25%
+11107899,register_adds_someone,declared_only,21.92,21.92,0,Direct participation,0,under 25%
+11107899,register_adds_someone,declared_only,21.92,21.92,1,Direct participation,0,under 25%
+11115433,register_adds_someone,declared_only,6.76,6.76,1,Direct participation,0,under 25%
+11116119,register_adds_someone,declared_only,25.0,25.0,0,Direct participation,0,exactly 25%
+11118839,register_adds_someone,declared_only,0.0,0.0,1,Direct participation,0,none
+11119224,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+11119508,register_adds_someone,declared_only,5.01,5.01,1,(control type not stated),0,under 25%
+11119508,register_adds_someone,declared_only,5.01,5.01,1,(control type not stated),0,under 25%
+11120049,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,0,exactly 25%
+11120049,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,0,exactly 25%
+11122249,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+11122539,register_adds_someone,declared_only,0.0,0.0,1,Direct participation,0,none
+11125466,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+11136777,register_adds_someone,declared_only,0.0,0.0,1,Direct participation,0,none
+11136777,register_adds_someone,declared_only,0.0,0.0,1,Direct participation,0,none
+11140282,register_adds_someone,declared_only,0.0,0.0,0,Direct participation,0,none
+11140282,register_adds_someone,declared_only,0.0,0.0,0,Direct participation,0,none
+11151601,register_misses_someone,calculated_only,25.03,25.03,0,,0,over 25%
+11152871,register_adds_someone,declared_only,20.0,20.0,1,(control type not stated),1,under 25%
+11153706,both_ways,calculated_only,100.0,100.0,0,,0,over 25%
+11153706,both_ways,declared_only,0.0,0.0,1,Direct participation,0,none
+11165201,both_ways,calculated_only,100.0,100.0,0,,0,over 25%
+11165201,both_ways,declared_only,0.0,0.0,1,Direct participation,0,none
+11165589,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,0,exactly 25%
+11168665,register_misses_someone,calculated_only,50.0,50.0,0,,0,over 25%
+11168866,register_adds_someone,declared_only,20.0,20.0,0,Indirect participation,0,under 25%
+11168866,register_adds_someone,declared_only,20.0,20.0,1,(control type not stated),0,under 25%
+11170886,register_adds_someone,declared_only,0.0,0.0,0,Direct participation,0,none
+11171466,register_misses_someone,calculated_only,26.25,26.25,0,,0,over 25%
+11178741,register_adds_someone,declared_only,0.0,0.0,1,Direct participation,0,none
+11179574,register_adds_someone,declared_only,0.0,0.0,0,(control type not stated),0,none
+11181950,register_adds_someone,declared_only,25.0,25.0,0,Direct participation,0,exactly 25%
+11182180,register_adds_someone,declared_only,0.0,0.0,0,Indirect participation,0,none
+11185652,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+11189590,register_misses_someone,calculated_only,50.0,50.0,1,,0,over 25%
+11193752,register_adds_someone,declared_only,0.0,0.0,0,Other means of control or influence,0,none
+11195745,register_adds_someone,declared_only,20.0,20.0,0,Direct participation,0,under 25%
+11196934,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,0,exactly 25%
+11198028,both_ways,calculated_only,50.0,50.0,0,,0,over 25%
+11198028,both_ways,calculated_only,50.0,50.0,0,,0,over 25%
+11198028,both_ways,declared_only,0.0,0.0,1,Direct participation,0,none
+11199039,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+11202497,register_adds_someone,declared_only,0.0,0.0,1,Indirect participation,0,none
+11206880,register_misses_someone,calculated_only,33.33,33.33,0,,0,over 25%
+11210456,both_ways,calculated_only,100.0,100.0,1,,0,over 25%
+11210456,both_ways,declared_only,0.0,0.0,0,Direct participation,0,none
+11214425,register_adds_someone,declared_only,22.75,22.75,1,Direct participation,0,under 25%
+11229622,register_adds_someone,declared_only,16.0,16.0,0,Direct participation,0,under 25%
+11232498,register_misses_someone,calculated_only,50.0,50.0,1,,0,over 25%
+11233747,both_ways,calculated_only,55.0,55.0,1,,0,over 25%
+11233747,both_ways,declared_only,0.0,0.0,0,Direct participation,0,none
+11239253,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,0,exactly 25%
+11247270,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+11249530,both_ways,calculated_only,57.42,57.42,1,,0,over 25%
+11249530,both_ways,declared_only,0.0,0.0,0,Direct participation,0,none
+11249530,both_ways,declared_only,14.15,14.15,0,Direct participation,0,under 25%
+11250757,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+11252006,both_ways,calculated_only,100.0,100.0,0,,0,over 25%
+11252006,both_ways,declared_only,0.0,0.0,0,Direct participation,0,none
+11254962,register_adds_someone,declared_only,10.0,10.0,0,Direct participation,0,under 25%
+11259675,register_adds_someone,declared_only,0.0,0.0,1,Direct participation,0,none
+11263234,register_adds_someone,declared_only,25.0,0.0,1,Indirect participation,0,exactly 25%
+11266155,register_adds_someone,declared_only,0.0,0.0,0,Other means of control or influence,0,none
+11269685,register_adds_someone,declared_only,12.5,12.5,1,Direct participation,0,under 25%
+11274226,register_adds_someone,declared_only,25.0,25.0,0,Direct participation,1,exactly 25%
+11274226,register_adds_someone,declared_only,25.0,25.0,0,Direct participation,1,exactly 25%
+11274226,register_adds_someone,declared_only,25.0,25.0,0,Direct participation,1,exactly 25%
+11274226,register_adds_someone,declared_only,25.0,25.0,1,(control type not stated),1,exactly 25%
+11277130,register_adds_someone,declared_only,20.74,20.74,1,Direct participation,0,under 25%
+11282088,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+11283886,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,0,exactly 25%
+11285081,register_adds_someone,declared_only,0.25,0.25,0,Direct participation,0,under 25%
+11293867,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,0,exactly 25%
+11293867,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,0,exactly 25%
+11294080,both_ways,calculated_only,50.0,50.0,0,,0,over 25%
+11294080,both_ways,calculated_only,50.0,50.0,0,,0,over 25%
+11294080,both_ways,declared_only,0.0,0.0,1,Direct participation,0,none
+11295010,register_adds_someone,declared_only,0.0,0.0,0,Direct participation,0,none
+11296089,register_adds_someone,declared_only,23.53,23.53,0,Indirect participation,0,under 25%
+11296765,register_adds_someone,declared_only,20.0,20.0,1,Direct participation,0,under 25%
+11300892,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+11316226,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+11318225,register_adds_someone,declared_only,10.0,10.0,0,Direct participation,0,under 25%
+11318225,register_adds_someone,declared_only,25.0,25.0,1,(control type not stated),0,exactly 25%
+11318225,register_adds_someone,declared_only,25.0,25.0,1,(control type not stated),0,exactly 25%
+11318900,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,1,exactly 25%
+11318900,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,1,exactly 25%
+11318900,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,1,exactly 25%
+11318900,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,1,exactly 25%
+11342293,both_ways,calculated_only,100.0,100.0,1,,0,over 25%
+11342293,both_ways,declared_only,0.0,0.0,0,Direct participation,0,none
+11343766,register_adds_someone,declared_only,25.0,25.0,0,Direct participation,0,exactly 25%
+11343921,register_adds_someone,declared_only,15.38,15.38,0,Direct participation,0,under 25%
+11355172,both_ways,calculated_only,100.0,100.0,1,,0,over 25%
+11355172,both_ways,declared_only,0.0,0.0,0,Direct participation,0,none
+11362568,register_misses_someone,calculated_only,50.0,50.0,1,,0,over 25%
+11368985,register_adds_someone,declared_only,0.0,0.0,0,(control type not stated),0,none
+11368985,register_adds_someone,declared_only,25.0,25.0,0,(control type not stated),0,exactly 25%
+11368985,register_adds_someone,declared_only,25.0,25.0,0,(control type not stated),0,exactly 25%
+11388668,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,0,exactly 25%
+11388668,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,0,exactly 25%
+11388728,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,0,exactly 25%
+11389828,register_adds_someone,declared_only,0.0,0.0,0,Indirect participation,0,none
+11390435,register_adds_someone,declared_only,0.0,0.0,1,Direct participation,0,none
+11394114,register_adds_someone,declared_only,25.0,25.0,0,Direct participation,0,exactly 25%
+11394462,register_misses_someone,calculated_only,50.0,50.0,1,,0,over 25%
+11401707,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+11404580,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+11409711,register_adds_someone,declared_only,0.0,0.0,1,Indirect participation,1,none
+11409711,register_adds_someone,declared_only,0.0,0.0,1,Indirect participation,1,none
+11409711,register_adds_someone,declared_only,2.5,2.5,0,Direct participation,1,under 25%
+11409711,register_adds_someone,declared_only,23.13,0.0,1,Indirect participation,1,under 25%
+11409711,register_adds_someone,declared_only,23.13,0.0,1,Indirect participation,1,under 25%
+11409711,register_adds_someone,declared_only,5.0,5.0,1,Direct participation,1,under 25%
+11419386,register_misses_someone,calculated_only,43.0,43.0,0,,0,over 25%
+11420745,register_adds_someone,declared_only,0.0,0.0,0,Indirect participation,0,none
+11420745,register_adds_someone,declared_only,21.8707,0.0,1,Indirect participation,0,under 25%
+11422023,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,0,exactly 25%
+11425375,register_adds_someone,declared_only,0.0,0.0,1,Other means of control or influence,0,none
+11428652,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+11429947,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+11430710,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+11432889,register_adds_someone,declared_only,10.0,10.0,1,Direct participation,0,under 25%
+11434015,register_adds_someone,declared_only,18.43,0.0,1,(control type not stated),0,under 25%
+11434015,register_adds_someone,declared_only,21.2,21.2,1,(control type not stated),0,under 25%
+11439710,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,0,exactly 25%
+11451409,register_adds_someone,declared_only,20.0,20.0,1,Direct participation,0,under 25%
+11454230,register_adds_someone,declared_only,10.0,10.0,0,Direct participation,0,under 25%
+11456523,register_misses_someone,calculated_only,50.0,50.0,1,,0,over 25%
+11458297,register_adds_someone,declared_only,0.0,0.0,1,Direct participation,0,none
+11459931,both_ways,calculated_only,75.0,75.0,0,,0,over 25%
+11459931,both_ways,declared_only,0.0,0.0,1,Direct participation,0,none
+11459931,both_ways,declared_only,25.0,25.0,1,Direct participation,0,exactly 25%
+11462614,register_adds_someone,declared_only,25.0,25.0,0,Direct participation,1,exactly 25%
+11462614,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,1,exactly 25%
+11462614,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,1,exactly 25%
+11462614,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,1,exactly 25%
+11462784,register_adds_someone,declared_only,25.0,25.0,0,Direct participation,1,exactly 25%
+11462784,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,1,exactly 25%
+11462784,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,1,exactly 25%
+11462784,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,1,exactly 25%
+11465908,register_misses_someone,calculated_only,45.0,45.0,0,,0,over 25%
+11486000,both_ways,calculated_only,52.5,52.5,0,,0,over 25%
+11486000,both_ways,declared_only,23.75,23.75,1,(control type not stated),0,under 25%
+11486313,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+11486325,register_adds_someone,declared_only,25.0,25.0,0,Direct participation,1,exactly 25%
+11486325,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,1,exactly 25%
+11486325,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,1,exactly 25%
+11486325,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,1,exactly 25%
+11495080,register_misses_someone,calculated_only,50.0,50.0,0,,0,over 25%
+11495170,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,0,exactly 25%
+11497937,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+11499281,register_misses_someone,calculated_only,50.0,50.0,0,,0,over 25%
+11516712,register_adds_someone,declared_only,0.0,0.0,0,Direct participation,0,none
+11518987,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,0,exactly 25%
+11519604,both_ways,calculated_only,100.0,100.0,1,,0,over 25%
+11519604,both_ways,declared_only,0.0,0.0,0,(control type not stated),0,none
+11534466,register_adds_someone,declared_only,0.0,0.0,0,Other means of control or influence,0,none
+11534466,register_adds_someone,declared_only,0.0,0.0,0,Other means of control or influence,0,none
+11535885,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+11537358,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+11545056,register_adds_someone,declared_only,10.0,10.0,0,Other means of control or influence,0,under 25%
+11548379,register_adds_someone,declared_only,0.0,0.0,1,Direct participation,0,none
+11553966,register_adds_someone,declared_only,0.48,0.0,0,Indirect participation,0,under 25%
+11554479,register_adds_someone,declared_only,10.0,10.0,0,Direct participation,0,under 25%
+11554479,register_adds_someone,declared_only,10.0,10.0,0,Direct participation,0,under 25%
+11554492,register_adds_someone,declared_only,20.0,20.0,1,Direct participation,0,under 25%
+11554492,register_adds_someone,declared_only,20.0,20.0,1,Direct participation,0,under 25%
+11554581,register_adds_someone,declared_only,25.0,25.0,0,Direct participation,1,exactly 25%
+11554581,register_adds_someone,declared_only,25.0,25.0,0,Direct participation,1,exactly 25%
+11554581,register_adds_someone,declared_only,25.0,25.0,0,Direct participation,1,exactly 25%
+11554581,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,1,exactly 25%
+11573006,register_adds_someone,declared_only,2.5,2.5,1,Direct participation,0,under 25%
+11574661,register_adds_someone,declared_only,24.0,24.0,1,Direct participation,0,under 25%
+11607567,register_adds_someone,declared_only,12.5,12.5,0,Direct participation,1,under 25%
+11607567,register_adds_someone,declared_only,12.5,12.5,0,Direct participation,1,under 25%
+11607567,register_adds_someone,declared_only,12.5,12.5,0,Direct participation,1,under 25%
+11607567,register_adds_someone,declared_only,12.5,12.5,0,Direct participation,1,under 25%
+11607567,register_adds_someone,declared_only,12.5,12.5,0,Direct participation,1,under 25%
+11607567,register_adds_someone,declared_only,12.5,12.5,0,Direct participation,1,under 25%
+11607567,register_adds_someone,declared_only,12.5,12.5,1,Direct participation,1,under 25%
+11607567,register_adds_someone,declared_only,12.5,12.5,1,Direct participation,1,under 25%
+11638183,register_adds_someone,declared_only,6.54,6.54,0,Direct participation,0,under 25%
+11638183,register_adds_someone,declared_only,6.54,6.54,0,Direct participation,0,under 25%
+11638183,register_adds_someone,declared_only,6.54,6.54,0,Direct participation,0,under 25%
+11638183,register_adds_someone,declared_only,6.54,6.54,0,Direct participation,0,under 25%
+11638183,register_adds_someone,declared_only,6.54,6.54,0,Direct participation,0,under 25%
+11641050,both_ways,calculated_only,100.0,100.0,0,,0,over 25%
+11641050,both_ways,declared_only,0.0,0.0,1,Direct participation,0,none
+11663442,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+11673392,register_adds_someone,declared_only,25.0,25.0,0,Direct participation,1,exactly 25%
+11673392,register_adds_someone,declared_only,25.0,25.0,0,Direct participation,1,exactly 25%
+11673392,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,1,exactly 25%
+11673392,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,1,exactly 25%
+11677579,register_adds_someone,declared_only,1.99,1.99,0,Direct participation,0,under 25%
+11677579,register_adds_someone,declared_only,2.99,2.99,0,Direct participation,0,under 25%
+11677579,register_adds_someone,declared_only,23.76,23.76,0,Direct participation,0,under 25%
+11677579,register_adds_someone,declared_only,3.72,3.72,0,Direct participation,0,under 25%
+11678917,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,0,exactly 25%
+11690189,register_misses_someone,calculated_only,50.0,50.0,1,,0,over 25%
+11707949,register_adds_someone,declared_only,0.0,0.0,1,Direct participation,0,none
+11710093,both_ways,calculated_only,30.0,30.0,0,,0,over 25%
+11710093,both_ways,declared_only,0.0,0.0,0,Direct participation,0,none
+11725781,register_adds_someone,declared_only,25.0,25.0,0,Direct participation,0,exactly 25%
+11726705,register_adds_someone,declared_only,0.0,0.0,1,Other means of control or influence,0,none
+11730724,register_adds_someone,declared_only,20.0,20.0,0,Direct participation,0,under 25%
+11730730,register_adds_someone,declared_only,0.0,0.0,1,Other means of control or influence,0,none
+11732835,register_adds_someone,declared_only,0.0,0.0,1,Direct participation,0,none
+11762612,register_adds_someone,declared_only,0.0,0.0,1,Direct participation,0,none
+11768572,register_adds_someone,declared_only,0.0,0.0,0,Direct participation,0,none
+11773337,register_adds_someone,declared_only,0.0,0.0,1,Direct participation,0,none
+11789054,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,0,exactly 25%
+11828587,register_adds_someone,declared_only,0.0,0.0,1,Direct participation,0,none
+11833074,register_adds_someone,declared_only,2.0,2.0,1,Direct participation,0,under 25%
+11837284,register_adds_someone,declared_only,22.75,0.0,0,Indirect participation,0,under 25%
+11880562,both_ways,calculated_only,100.0,0.0,1,,0,over 25%
+11880562,both_ways,declared_only,0.0,0.0,0,Other means of control or influence,0,none
+11881363,register_adds_someone,declared_only,19.99,19.99,1,Direct participation,0,under 25%
+11882977,both_ways,calculated_only,100.0,100.0,0,,0,over 25%
+11882977,both_ways,declared_only,0.0,0.0,1,Direct participation,0,none
+11908257,both_ways,calculated_only,100.0,100.0,1,,0,over 25%
+11908257,both_ways,declared_only,0.0,0.0,0,Direct participation,0,none
+11910656,register_adds_someone,declared_only,20.0,20.0,1,Direct participation,0,under 25%
+11914051,register_adds_someone,declared_only,24.5,0.0,0,Indirect participation,0,under 25%
+11917316,register_adds_someone,declared_only,15.0,0.0,0,Indirect participation,0,under 25%
+11920749,register_adds_someone,declared_only,20.03,20.03,1,(control type not stated),1,under 25%
+11920749,register_adds_someone,declared_only,20.03,20.03,1,(control type not stated),1,under 25%
+11927013,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,1,exactly 25%
+11927013,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,1,exactly 25%
+11929874,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+11933947,register_adds_someone,declared_only,0.0,0.0,0,Other means of control or influence,0,none
+11936710,both_ways,calculated_only,100.0,100.0,0,,0,over 25%
+11936710,both_ways,declared_only,0.0,0.0,1,Direct participation,0,none
+11943319,register_adds_someone,declared_only,20.0,20.0,1,Direct participation,0,under 25%
+11943621,register_adds_someone,declared_only,0.0,0.0,1,Indirect participation,0,none
+11950584,register_adds_someone,declared_only,0.0,0.0,1,Direct participation,0,none
+11951046,register_misses_someone,calculated_only,50.0,50.0,1,,0,over 25%
+11952376,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,0,exactly 25%
+11959438,both_ways,calculated_only,100.0,100.0,1,,0,over 25%
+11959438,both_ways,declared_only,0.0,0.0,0,Direct participation,0,none
+11960594,register_misses_someone,calculated_only,50.0,50.0,0,,0,over 25%
+11963457,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,0,exactly 25%
+11963457,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,0,exactly 25%
+11964190,register_adds_someone,declared_only,10.0,10.0,1,Direct participation,0,under 25%
+11967662,register_adds_someone,declared_only,10.0,10.0,0,Direct participation,0,under 25%
+11968974,register_misses_someone,calculated_only,50.0,50.0,1,,0,over 25%
+11969490,register_adds_someone,declared_only,0.0,0.0,1,Other means of control or influence,0,none
+11978430,register_adds_someone,declared_only,24.58,24.58,0,Direct participation,0,under 25%
+11981314,register_adds_someone,declared_only,25.0,0.0,0,Indirect participation,0,exactly 25%
+11981314,register_adds_someone,declared_only,25.0,0.0,0,Indirect participation,0,exactly 25%
+11982153,register_misses_someone,calculated_only,49.75,49.75,0,,0,over 25%
+11991264,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+11996818,register_adds_someone,declared_only,0.0,0.0,1,Direct participation,0,none
+11999076,both_ways,calculated_only,100.0,100.0,0,,0,over 25%
+11999076,both_ways,declared_only,0.0,0.0,1,(control type not stated),0,none
+12013025,both_ways,calculated_only,100.0,100.0,0,,0,over 25%
+12013025,both_ways,declared_only,0.0,0.0,1,(control type not stated),0,none
+12026051,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+12035067,register_adds_someone,declared_only,25.0,0.0,1,(control type not stated),0,exactly 25%
+12039823,register_adds_someone,declared_only,21.978,20.0,1,Direct participation,0,under 25%
+12055727,register_adds_someone,declared_only,0.0,0.0,0,Indirect participation,0,none
+12057293,register_misses_someone,calculated_only,32.43,32.43,0,,0,over 25%
+12062058,register_misses_someone,calculated_only,50.0,50.0,0,,0,over 25%
+12063789,register_adds_someone,declared_only,0.0,0.0,0,Direct participation,0,none
+12064169,register_adds_someone,declared_only,6.0,6.0,0,Direct participation,0,under 25%
+12066458,register_misses_someone,calculated_only,49.0,49.0,0,,0,over 25%
+12073665,register_adds_someone,declared_only,0.0,0.0,1,Direct participation,0,none
+12073665,register_adds_someone,declared_only,0.0,0.0,1,Direct participation,0,none
+12078823,both_ways,calculated_only,100.0,100.0,1,,0,over 25%
+12078823,both_ways,declared_only,0.0,0.0,0,Direct participation,0,none
+12089927,both_ways,calculated_only,100.0,100.0,0,,0,over 25%
+12089927,both_ways,declared_only,0.0,0.0,0,Direct participation,0,none
+12091114,both_ways,calculated_only,100.0,0.0,0,,0,over 25%
+12091114,both_ways,declared_only,0.0,0.0,1,Indirect participation,0,none
+12093053,both_ways,calculated_only,100.0,100.0,0,,0,over 25%
+12093053,both_ways,declared_only,0.0,0.0,0,Direct participation,0,none
+12097803,register_adds_someone,declared_only,25.0,20.0,1,(control type not stated),1,exactly 25%
+12097803,register_adds_someone,declared_only,25.0,20.0,1,(control type not stated),1,exactly 25%
+12097803,register_adds_someone,declared_only,25.0,20.0,1,(control type not stated),1,exactly 25%
+12100669,register_adds_someone,declared_only,15.0,15.0,1,Direct participation,0,under 25%
+12100876,register_adds_someone,declared_only,15.0,15.0,0,Direct participation,0,under 25%
+12100876,register_adds_someone,declared_only,15.0,15.0,0,Direct participation,0,under 25%
+12105342,register_adds_someone,declared_only,0.0,0.0,0,Direct participation,0,none
+12107559,register_adds_someone,declared_only,25.0,25.0,0,Direct participation,1,exactly 25%
+12107559,register_adds_someone,declared_only,25.0,25.0,0,Direct participation,1,exactly 25%
+12107559,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,1,exactly 25%
+12107559,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,1,exactly 25%
+12124799,register_adds_someone,declared_only,15.0,15.0,0,Direct participation,0,under 25%
+12128248,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+12134734,register_adds_someone,declared_only,22.18,0.0,1,Indirect participation,1,under 25%
+12140108,both_ways,calculated_only,100.0,100.0,0,,0,over 25%
+12140108,both_ways,declared_only,0.0,0.0,1,Direct participation,0,none
+12142113,both_ways,calculated_only,50.0,50.0,1,,0,over 25%
+12142113,both_ways,declared_only,0.0,0.0,0,Direct participation,0,none
+12156492,register_adds_someone,declared_only,0.0,0.0,0,Indirect participation,0,none
+12156517,register_misses_someone,calculated_only,50.0,50.0,1,,0,over 25%
+12167478,register_misses_someone,calculated_only,50.0,50.0,0,,0,over 25%
+12173728,register_adds_someone,declared_only,0.0,0.0,1,Direct participation,0,none
+12175874,register_adds_someone,declared_only,4.96,4.96,0,Direct participation,0,under 25%
+12181952,register_misses_someone,calculated_only,35.0,35.0,1,,0,over 25%
+12188405,register_misses_someone,calculated_only,50.0,50.0,0,,0,over 25%
+12189014,register_adds_someone,declared_only,0.0,0.0,0,Direct participation,0,none
+12206014,register_adds_someone,declared_only,0.0,0.0,1,Other means of control or influence,0,none
+12210004,both_ways,calculated_only,100.0,100.0,1,,0,over 25%
+12210004,both_ways,declared_only,0.0,0.0,0,Direct participation,0,none
+12210725,register_adds_someone,declared_only,0.0,0.0,0,Direct participation,0,none
+12210866,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+12210984,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+12213505,register_adds_someone,declared_only,20.0,20.0,1,Direct participation,0,under 25%
+12214350,register_adds_someone,declared_only,20.0,20.0,0,Direct participation,0,under 25%
+12214350,register_adds_someone,declared_only,20.0,20.0,0,Direct participation,0,under 25%
+12214350,register_adds_someone,declared_only,20.0,20.0,1,Direct participation,0,under 25%
+12216805,register_adds_someone,declared_only,0.0,0.0,0,Indirect participation,0,none
+12216805,register_adds_someone,declared_only,0.0,0.0,0,Indirect participation,0,none
+12216805,register_adds_someone,declared_only,0.0,0.0,0,Indirect participation,0,none
+12216805,register_adds_someone,declared_only,0.0,0.0,0,Indirect participation,0,none
+12227803,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+12238907,register_adds_someone,declared_only,0.0,0.0,1,Direct participation,0,none
+12251078,register_adds_someone,declared_only,0.0,0.0,1,Direct participation,0,none
+12251440,register_adds_someone,declared_only,14.0,14.0,0,(control type not stated),0,under 25%
+12251440,register_adds_someone,declared_only,6.0,6.0,0,(control type not stated),0,under 25%
+12252072,register_adds_someone,declared_only,0.0,0.0,0,Direct participation,0,none
+12254823,both_ways,calculated_only,100.0,100.0,1,,0,over 25%
+12254823,both_ways,declared_only,0.0,0.0,0,Direct participation,0,none
+12258318,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+12262076,register_misses_someone,calculated_only,50.0,50.0,0,,0,over 25%
+12269760,register_adds_someone,declared_only,25.0,0.0,1,Direct participation,0,exactly 25%
+12271342,register_adds_someone,declared_only,0.0,0.0,1,Other means of control or influence,0,none
+12272778,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+12281731,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+12287254,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,0,exactly 25%
+12288905,register_adds_someone,declared_only,25.0,25.0,0,Direct participation,0,exactly 25%
+12308192,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,0,exactly 25%
+12308757,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+12314347,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+12316228,register_adds_someone,declared_only,20.0,20.0,0,Direct participation,1,under 25%
+12316228,register_adds_someone,declared_only,20.0,20.0,0,Direct participation,1,under 25%
+12316228,register_adds_someone,declared_only,20.0,20.0,0,Direct participation,1,under 25%
+12316228,register_adds_someone,declared_only,20.0,20.0,0,Direct participation,1,under 25%
+12316228,register_adds_someone,declared_only,20.0,20.0,1,Direct participation,1,under 25%
+12321079,register_misses_someone,calculated_only,50.0,50.0,1,,0,over 25%
+12327551,register_adds_someone,declared_only,0.0,0.0,1,Direct participation,0,none
+12331624,register_misses_someone,calculated_only,50.0,50.0,1,,0,over 25%
+12331953,both_ways,calculated_only,50.0,50.0,0,,0,over 25%
+12331953,both_ways,declared_only,0.0,0.0,0,Direct participation,0,none
+12335591,register_misses_someone,calculated_only,50.0,50.0,0,,0,over 25%
+12344070,register_misses_someone,calculated_only,49.0,49.0,1,,0,over 25%
+12344472,both_ways,calculated_only,100.0,100.0,0,,0,over 25%
+12344472,both_ways,declared_only,0.0,0.0,1,Direct participation,0,none
+12349038,register_adds_someone,declared_only,0.0,0.0,1,Direct participation,0,none
+12358830,both_ways,calculated_only,100.0,100.0,0,,0,over 25%
+12358830,both_ways,declared_only,0.0,0.0,1,Direct participation,0,none
+12370630,register_adds_someone,declared_only,0.0,0.0,0,Other means of control or influence,0,none
+12387240,register_adds_someone,declared_only,20.0,20.0,0,Direct participation,0,under 25%
+12389641,register_misses_someone,calculated_only,42.86,42.86,1,,0,over 25%
+12391833,both_ways,calculated_only,100.0,100.0,0,,0,over 25%
+12391833,both_ways,declared_only,0.0,0.0,1,Indirect participation,0,none
+12392726,register_misses_someone,calculated_only,50.0,50.0,0,,0,over 25%
+12393039,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+12395104,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+12415887,register_adds_someone,declared_only,25.0,25.0,0,Indirect participation,0,exactly 25%
+12415887,register_adds_someone,declared_only,25.0,25.0,1,Indirect participation,0,exactly 25%
+12420285,register_adds_someone,declared_only,0.0,0.0,0,Other means of control or influence,0,none
+12439592,register_misses_someone,calculated_only,35.0,35.0,0,,0,over 25%
+12440649,register_adds_someone,declared_only,0.0,0.0,1,Direct participation,0,none
+12448556,register_adds_someone,declared_only,4.98,4.98,0,Direct participation,0,under 25%
+12461893,both_ways,calculated_only,50.0,50.0,0,,0,over 25%
+12461893,both_ways,declared_only,0.0,0.0,0,Direct participation,0,none
+12465780,register_adds_someone,declared_only,10.0,10.0,1,Direct participation,0,under 25%
+12474312,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+12481521,register_adds_someone,declared_only,10.1133,0.0,0,Direct participation,0,under 25%
+12484523,register_adds_someone,declared_only,0.0,0.0,0,Other means of control or influence,0,none
+12489822,register_adds_someone,declared_only,0.0,0.0,1,Direct participation,0,none
+12495875,register_misses_someone,calculated_only,33.01,33.01,1,,0,over 25%
+12497276,register_adds_someone,declared_only,24.99,24.99,1,Direct participation,0,under 25%
+12512751,register_adds_someone,declared_only,24.0,24.0,0,Direct participation,1,under 25%
+12512751,register_adds_someone,declared_only,24.0,24.0,0,Direct participation,1,under 25%
+12512751,register_adds_someone,declared_only,24.0,24.0,0,Direct participation,1,under 25%
+12512751,register_adds_someone,declared_only,24.0,24.0,1,Direct participation,1,under 25%
+12512751,register_adds_someone,declared_only,4.0,4.0,1,Direct participation,1,under 25%
+12515672,register_adds_someone,declared_only,0.0,0.0,1,Direct participation,0,none
+12517292,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,0,exactly 25%
+12517671,register_adds_someone,declared_only,0.0,0.0,1,Direct participation,0,none
+12519747,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,0,exactly 25%
+12528692,both_ways,calculated_only,100.0,100.0,1,,0,over 25%
+12528692,both_ways,declared_only,0.0,0.0,0,(control type not stated),0,none
+12530223,both_ways,calculated_only,100.0,100.0,0,,0,over 25%
+12530223,both_ways,declared_only,0.0,0.0,1,Direct participation,0,none
+12531010,register_adds_someone,declared_only,0.0,0.0,1,Direct participation,0,none
+12543148,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+12545644,register_adds_someone,declared_only,25.0,25.0,1,(control type not stated),1,exactly 25%
+12549889,register_adds_someone,declared_only,0.0,0.0,1,Direct participation,0,none
+12552319,register_adds_someone,declared_only,0.0,0.0,1,Indirect participation,0,none
+12558919,register_adds_someone,declared_only,17.1146,0.0,0,(control type not stated),1,under 25%
+12560218,register_misses_someone,calculated_only,50.0,50.0,1,,0,over 25%
+12560721,register_adds_someone,declared_only,25.0,25.0,0,Direct participation,0,exactly 25%
+12566403,register_adds_someone,declared_only,20.0,20.0,1,Direct participation,0,under 25%
+12568295,register_adds_someone,declared_only,10.0,10.0,1,(control type not stated),0,under 25%
+12576219,register_adds_someone,declared_only,0.0,0.0,1,Direct participation,0,none
+12582562,register_adds_someone,declared_only,0.0,0.0,0,(control type not stated),0,none
+12586790,register_adds_someone,declared_only,20.0,20.0,1,Direct participation,0,under 25%
+12589216,register_adds_someone,declared_only,12.5,0.0,0,Indirect participation,0,under 25%
+12593063,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+12594476,register_adds_someone,declared_only,0.0,0.0,0,Direct participation,0,none
+12595932,register_adds_someone,declared_only,20.0,20.0,0,Direct participation,0,under 25%
+12600231,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,0,exactly 25%
+12618745,both_ways,calculated_only,33.33,33.33,0,,0,over 25%
+12618745,both_ways,calculated_only,33.33,33.33,0,,0,over 25%
+12618745,both_ways,declared_only,16.67,16.67,1,Direct participation,0,under 25%
+12618745,both_ways,declared_only,16.67,16.67,1,Direct participation,0,under 25%
+12620506,register_misses_someone,calculated_only,50.0,0.0,1,,0,over 25%
+12621285,register_adds_someone,declared_only,17.1146,0.0,0,(control type not stated),1,under 25%
+12621799,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+12628123,register_adds_someone,declared_only,0.0,0.0,1,Direct participation,0,none
+12631295,register_adds_someone,declared_only,25.0,25.0,0,Direct participation,0,exactly 25%
+12631295,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,0,exactly 25%
+12634715,both_ways,calculated_only,100.0,100.0,1,,0,over 25%
+12634715,both_ways,declared_only,0.0,0.0,0,Direct participation,0,none
+12636016,register_adds_someone,declared_only,0.0,0.0,0,Other means of control or influence,0,none
+12646380,register_misses_someone,calculated_only,50.0,50.0,1,,0,over 25%
+12647439,register_adds_someone,declared_only,20.0,20.0,0,Direct participation,0,under 25%
+12658851,both_ways,calculated_only,100.0,100.0,0,,0,over 25%
+12658851,both_ways,declared_only,0.0,0.0,0,Direct participation,0,none
+12659112,both_ways,calculated_only,100.0,100.0,0,,0,over 25%
+12659112,both_ways,declared_only,0.0,0.0,0,(control type not stated),0,none
+12659508,both_ways,calculated_only,50.0,50.0,0,,0,over 25%
+12659508,both_ways,declared_only,0.0,0.0,0,Direct participation,0,none
+12659508,both_ways,declared_only,0.0,0.0,0,Direct participation,0,none
+12663444,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+12667420,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+12668890,register_adds_someone,declared_only,0.0,0.0,1,Direct participation,0,none
+12673715,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+12675565,both_ways,calculated_only,42.8571,30.0,0,,0,over 25%
+12675565,both_ways,declared_only,0.0,0.0,0,Direct participation,0,none
+12678821,register_adds_someone,declared_only,20.0,20.0,1,Direct participation,0,under 25%
+12687203,both_ways,calculated_only,100.0,100.0,0,,0,over 25%
+12687203,both_ways,declared_only,0.0,0.0,1,(control type not stated),0,none
+12688987,register_misses_someone,calculated_only,50.0,50.0,1,,0,over 25%
+12692782,register_adds_someone,declared_only,16.665,0.0,0,Indirect participation,0,under 25%
+12692782,register_adds_someone,declared_only,16.665,0.0,0,Indirect participation,0,under 25%
+12695036,register_misses_someone,calculated_only,50.0,50.0,0,,0,over 25%
+12696587,both_ways,calculated_only,100.0,100.0,0,,0,over 25%
+12696587,both_ways,declared_only,0.0,0.0,1,Direct participation,0,none
+12698939,register_adds_someone,declared_only,0.04,0.04,1,(control type not stated),0,under 25%
+12704195,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+12716235,register_adds_someone,declared_only,0.0,0.0,1,Other means of control or influence,0,none
+12716944,register_adds_someone,declared_only,12.1327,0.0,0,Indirect participation,1,under 25%
+12716944,register_adds_someone,declared_only,12.1327,0.0,0,Indirect participation,1,under 25%
+12716944,register_adds_someone,declared_only,17.4363,0.0,0,Indirect participation,1,under 25%
+12716944,register_adds_someone,declared_only,2.273,0.0,0,Indirect participation,1,under 25%
+12716944,register_adds_someone,declared_only,2.273,0.0,0,Indirect participation,1,under 25%
+12716944,register_adds_someone,declared_only,2.273,0.0,0,Indirect participation,1,under 25%
+12716944,register_adds_someone,declared_only,24.2654,0.0,0,Indirect participation,1,under 25%
+12716944,register_adds_someone,declared_only,24.2654,0.0,0,Indirect participation,1,under 25%
+12721667,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,0,exactly 25%
+12723979,register_adds_someone,declared_only,0.0,0.0,0,(control type not stated),0,none
+12730749,register_misses_someone,calculated_only,50.0,50.0,0,,0,over 25%
+12737059,register_adds_someone,declared_only,10.0,10.0,0,Direct participation,0,under 25%
+12737059,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,0,exactly 25%
+12744832,register_misses_someone,calculated_only,50.0,50.0,0,,0,over 25%
+12745389,register_adds_someone,declared_only,1.0,1.0,0,Direct participation,0,under 25%
+12745389,register_adds_someone,declared_only,16.0,16.0,0,Direct participation,0,under 25%
+12745389,register_adds_someone,declared_only,16.0,16.0,1,Direct participation,0,under 25%
+12745389,register_adds_someone,declared_only,2.0,2.0,0,Direct participation,0,under 25%
+12745389,register_adds_someone,declared_only,2.0,2.0,0,Direct participation,0,under 25%
+12745389,register_adds_someone,declared_only,6.0,6.0,0,Direct participation,0,under 25%
+12749737,register_adds_someone,declared_only,0.0,0.0,0,(control type not stated),0,none
+12756401,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+12761862,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+12762092,register_adds_someone,declared_only,0.0,0.0,0,Other means of control or influence,0,none
+12762502,register_adds_someone,declared_only,25.0,25.0,0,Direct participation,0,exactly 25%
+12762502,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,0,exactly 25%
+12767801,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+12769616,register_adds_someone,declared_only,10.01,10.01,0,Direct participation,0,under 25%
+12769616,register_adds_someone,declared_only,15.0,15.0,1,Direct participation,0,under 25%
+12769616,register_adds_someone,declared_only,20.0,20.0,0,Direct participation,0,under 25%
+12773049,register_misses_someone,calculated_only,50.0,50.0,0,,0,over 25%
+12776777,register_adds_someone,declared_only,11.96,11.96,0,Direct participation,0,under 25%
+12776777,register_adds_someone,declared_only,23.92,23.92,0,Direct participation,0,under 25%
+12781072,register_adds_someone,declared_only,10.0,10.0,1,Direct participation,0,under 25%
+12781965,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,0,exactly 25%
+12781965,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,0,exactly 25%
+12783740,register_adds_someone,declared_only,0.0,0.0,0,Direct participation,0,none
+12783740,register_adds_someone,declared_only,0.0,0.0,0,Direct participation,0,none
+12784685,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+12786810,register_adds_someone,declared_only,0.0,0.0,1,Other means of control or influence,0,none
+12790846,register_adds_someone,declared_only,0.0,0.0,0,Direct participation,0,none
+12790846,register_adds_someone,declared_only,0.0,0.0,1,Direct participation,0,none
+12798730,both_ways,calculated_only,100.0,100.0,1,,0,over 25%
+12798730,both_ways,declared_only,0.0,0.0,0,(control type not stated),0,none
+12800481,register_adds_someone,declared_only,18.0,18.0,0,Direct participation,0,under 25%
+12806441,register_adds_someone,declared_only,0.04,0.04,1,Direct participation,0,under 25%
+12816445,register_adds_someone,declared_only,25.0,25.0,0,Direct participation,0,exactly 25%
+12818177,both_ways,calculated_only,100.0,100.0,0,,0,over 25%
+12818177,both_ways,declared_only,0.0,0.0,0,Direct participation,0,none
+12818444,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,0,exactly 25%
+12819745,register_adds_someone,declared_only,0.0,0.0,0,Indirect participation,1,none
+12819745,register_adds_someone,declared_only,0.0,0.0,0,Indirect participation,1,none
+12819745,register_adds_someone,declared_only,0.0,0.0,1,Indirect participation,1,none
+12819745,register_adds_someone,declared_only,20.0,0.0,1,Indirect participation,1,under 25%
+12819745,register_adds_someone,declared_only,20.0,0.0,1,Indirect participation,1,under 25%
+12821080,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+12828276,register_adds_someone,declared_only,5.0,5.0,1,Direct participation,0,under 25%
+12828980,register_adds_someone,declared_only,0.0,0.0,1,Direct participation,0,none
+12836525,register_adds_someone,declared_only,0.0,0.0,1,Direct participation,0,none
+12841650,register_adds_someone,declared_only,20.0,20.0,1,Direct participation,0,under 25%
+12848344,register_adds_someone,declared_only,12.5,0.0,1,(control type not stated),0,under 25%
+12848617,register_misses_someone,calculated_only,50.0,50.0,0,,0,over 25%
+12849657,register_adds_someone,declared_only,0.0,0.0,1,Other means of control or influence,0,none
+12856226,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,0,exactly 25%
+12890677,register_adds_someone,declared_only,0.0,0.0,0,Indirect participation,0,none
+12891381,register_adds_someone,declared_only,20.0,20.0,1,Direct participation,0,under 25%
+12892937,register_adds_someone,declared_only,25.0,25.0,0,Direct participation,0,exactly 25%
+12899537,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+12900743,register_adds_someone,declared_only,0.0,0.0,1,Other means of control or influence,0,none
+12901435,register_adds_someone,declared_only,1.0,1.0,0,Direct participation,1,under 25%
+12901435,register_adds_someone,declared_only,16.5,16.5,0,Direct participation,1,under 25%
+12901435,register_adds_someone,declared_only,16.5,16.5,0,Direct participation,1,under 25%
+12901435,register_adds_someone,declared_only,16.5,16.5,0,Direct participation,1,under 25%
+12901435,register_adds_someone,declared_only,16.5,16.5,0,Direct participation,1,under 25%
+12901435,register_adds_someone,declared_only,16.5,16.5,1,Direct participation,1,under 25%
+12901435,register_adds_someone,declared_only,16.5,16.5,1,Direct participation,1,under 25%
+12904244,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+12906243,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+12909661,register_misses_someone,calculated_only,50.0,50.0,0,,0,over 25%
+12909997,register_adds_someone,declared_only,5.0,0.0,0,Indirect participation,0,under 25%
+12909997,register_adds_someone,declared_only,5.0,5.0,1,Direct participation,0,under 25%
+12911669,both_ways,calculated_only,100.0,100.0,0,,0,over 25%
+12911669,both_ways,declared_only,0.0,0.0,1,Direct participation,0,none
+12912841,both_ways,calculated_only,100.0,100.0,1,,0,over 25%
+12912841,both_ways,declared_only,0.0,0.0,0,Indirect participation,0,none
+12918157,register_adds_someone,declared_only,0.0,0.0,0,Direct participation,0,none
+12918157,register_adds_someone,declared_only,1.0421,0.0,0,Indirect participation,0,under 25%
+12918157,register_adds_someone,declared_only,15.7566,15.12,0,Direct participation,0,under 25%
+12918157,register_adds_someone,declared_only,4.8353,0.0,0,Direct participation,0,under 25%
+12918157,register_adds_someone,declared_only,7.2947,7.0,1,Direct participation,0,under 25%
+12918619,both_ways,calculated_only,100.0,100.0,1,,0,over 25%
+12918619,both_ways,declared_only,0.0,0.0,0,Direct participation,0,none
+12919671,register_misses_someone,calculated_only,50.0,50.0,1,,0,over 25%
+12931175,register_adds_someone,declared_only,0.0,0.0,1,Indirect participation,0,none
+12932973,both_ways,calculated_only,100.0,100.0,0,,0,over 25%
+12932973,both_ways,declared_only,0.0,0.0,1,(control type not stated),0,none
+12933760,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+12933932,register_adds_someone,declared_only,21.66,0.0,1,(control type not stated),1,under 25%
+12933932,register_adds_someone,declared_only,21.66,0.0,1,(control type not stated),1,under 25%
+12933932,register_adds_someone,declared_only,21.66,0.0,1,(control type not stated),1,under 25%
+12935575,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+12940116,register_adds_someone,declared_only,0.0,0.0,0,Indirect participation,0,none
+12940116,register_adds_someone,declared_only,15.0,0.0,0,Indirect participation,0,under 25%
+12940116,register_adds_someone,declared_only,16.0,0.0,0,Indirect participation,0,under 25%
+12947437,register_adds_someone,declared_only,20.0,20.0,1,Direct participation,0,under 25%
+12951172,register_adds_someone,declared_only,0.0,0.0,0,(control type not stated),1,none
+12951172,register_adds_someone,declared_only,0.0,0.0,0,(control type not stated),1,none
+12951172,register_adds_someone,declared_only,10.0,0.0,1,(control type not stated),1,under 25%
+12951172,register_adds_someone,declared_only,15.0,0.0,1,(control type not stated),1,under 25%
+12951172,register_adds_someone,declared_only,25.0,0.0,1,(control type not stated),1,exactly 25%
+12951172,register_adds_someone,declared_only,25.0,0.0,1,(control type not stated),1,exactly 25%
+12960076,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+12961845,register_adds_someone,declared_only,5.0,5.0,0,Direct participation,0,under 25%
+12961845,register_adds_someone,declared_only,5.0,5.0,1,Direct participation,0,under 25%
+12962046,register_adds_someone,declared_only,0.0,0.0,0,Direct participation,0,none
+12965990,register_adds_someone,declared_only,20.0,20.0,1,Direct participation,0,under 25%
+12969924,register_misses_someone,calculated_only,50.0,50.0,0,,0,over 25%
+12971602,register_adds_someone,declared_only,25.0,25.0,0,(control type not stated),1,exactly 25%
+12971602,register_adds_someone,declared_only,25.0,25.0,0,(control type not stated),1,exactly 25%
+12971602,register_adds_someone,declared_only,25.0,25.0,1,(control type not stated),1,exactly 25%
+12992343,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+12995761,register_adds_someone,declared_only,7.8427,7.7,1,(control type not stated),1,under 25%
+12996009,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,0,exactly 25%
+14000512,register_adds_someone,declared_only,0.0,0.0,1,Direct participation,0,none
+14002787,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+14007431,register_adds_someone,declared_only,16.67,16.67,1,Direct participation,0,under 25%
+14012047,register_adds_someone,declared_only,20.0,20.0,0,Direct participation,0,under 25%
+14013437,register_adds_someone,declared_only,0.0,0.0,0,Indirect participation,1,none
+14013437,register_adds_someone,declared_only,0.0,0.0,0,Indirect participation,1,none
+14013437,register_adds_someone,declared_only,0.0,0.0,0,Indirect participation,1,none
+14013437,register_adds_someone,declared_only,0.0,0.0,1,Indirect participation,1,none
+14013437,register_adds_someone,declared_only,15.52,0.0,1,Indirect participation,1,under 25%
+14013437,register_adds_someone,declared_only,4.84,0.0,0,Indirect participation,1,under 25%
+14013437,register_adds_someone,declared_only,4.84,0.0,1,Indirect participation,1,under 25%
+14021804,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+14022382,register_adds_someone,declared_only,16.99,16.99,1,Direct participation,0,under 25%
+14022382,register_adds_someone,declared_only,16.99,16.99,1,Direct participation,0,under 25%
+14032512,register_adds_someone,declared_only,0.0,0.0,1,Direct participation,0,none
+14033523,register_adds_someone,declared_only,0.0,0.0,1,Direct participation,0,none
+14034623,register_adds_someone,declared_only,17.86,17.86,0,Direct participation,0,under 25%
+14041190,both_ways,calculated_only,100.0,100.0,1,,0,over 25%
+14041190,both_ways,declared_only,0.0,0.0,0,Direct participation,0,none
+14043869,register_adds_someone,declared_only,10.0,10.0,1,Direct participation,0,under 25%
+14053595,register_adds_someone,declared_only,0.0,0.0,1,Direct participation,0,none
+14054703,register_adds_someone,declared_only,0.0,0.0,1,Direct participation,0,none
+14055192,register_adds_someone,declared_only,20.0,20.0,0,Direct participation,0,under 25%
+14056984,register_adds_someone,declared_only,10.0,10.0,0,Direct participation,0,under 25%
+14059830,register_adds_someone,declared_only,0.0,0.0,1,Direct participation,1,none
+14060106,register_adds_someone,declared_only,20.0,20.0,1,Direct participation,0,under 25%
+14073089,register_misses_someone,calculated_only,50.0,50.0,1,,0,over 25%
+14076834,register_adds_someone,declared_only,25.0,0.0,1,Direct participation,1,exactly 25%
+14076834,register_adds_someone,declared_only,25.0,25.0,0,Direct participation,1,exactly 25%
+14076834,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,1,exactly 25%
+14076834,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,1,exactly 25%
+14079548,register_adds_someone,declared_only,0.0,0.0,1,Direct participation,1,none
+14079548,register_adds_someone,declared_only,25.0,0.0,0,Direct participation,1,exactly 25%
+14079548,register_adds_someone,declared_only,25.0,0.0,0,Direct participation,1,exactly 25%
+14079548,register_adds_someone,declared_only,25.0,25.0,0,Direct participation,1,exactly 25%
+14079778,register_adds_someone,declared_only,14.0,14.0,1,Direct participation,0,under 25%
+14084228,register_misses_someone,calculated_only,33.32,33.32,0,,0,over 25%
+14091182,register_adds_someone,declared_only,10.5,0.0,1,(control type not stated),1,under 25%
+14092394,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),1,none
+14092394,register_adds_someone,declared_only,4.23,4.23,1,(control type not stated),1,under 25%
+14093347,register_misses_someone,calculated_only,55.0,55.0,0,,0,over 25%
+14100627,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+14107244,register_misses_someone,calculated_only,50.0,50.0,0,,0,over 25%
+14110413,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+14112033,register_adds_someone,declared_only,0.0,0.0,1,Direct participation,0,none
+14113914,register_adds_someone,declared_only,0.04,0.04,1,Direct participation,0,under 25%
+14114888,register_misses_someone,calculated_only,49.0,49.0,0,,0,over 25%
+14117993,register_misses_someone,calculated_only,50.0,50.0,0,,0,over 25%
+14118171,both_ways,calculated_only,100.0,100.0,0,,0,over 25%
+14118171,both_ways,declared_only,0.0,0.0,1,Direct participation,0,none
+14119503,register_adds_someone,declared_only,0.0,0.0,0,Direct participation,0,none
+14119503,register_adds_someone,declared_only,0.0,0.0,0,Indirect participation,0,none
+14119503,register_adds_someone,declared_only,0.0,0.0,0,Indirect participation,0,none
+14119503,register_adds_someone,declared_only,3.36,3.36,0,Direct participation,0,under 25%
+14120666,both_ways,calculated_only,100.0,100.0,0,,0,over 25%
+14120666,both_ways,declared_only,0.0,0.0,0,Direct participation,0,none
+14121753,register_adds_someone,declared_only,0.0,0.0,1,Direct participation,0,none
+14123717,register_adds_someone,declared_only,0.0,0.0,1,Other means of control or influence,0,none
+14125515,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),1,none
+14125515,register_adds_someone,declared_only,21.7528,0.0,1,(control type not stated),1,under 25%
+14129967,both_ways,calculated_only,100.0,100.0,0,,0,over 25%
+14129967,both_ways,declared_only,0.0,0.0,1,Direct participation,0,none
+14130031,both_ways,calculated_only,100.0,100.0,0,,0,over 25%
+14130031,both_ways,declared_only,0.0,0.0,1,Direct participation,0,none
+14132567,register_adds_someone,declared_only,14.6,14.6,1,Direct participation,0,under 25%
+14138268,register_adds_someone,declared_only,2.5,2.5,1,Direct participation,0,under 25%
+14142241,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+14145452,register_adds_someone,declared_only,0.0,0.0,1,Direct participation,0,none
+14145452,register_adds_someone,declared_only,0.0,0.0,1,Direct participation,0,none
+14156800,register_adds_someone,declared_only,24.0,24.0,1,Direct participation,1,under 25%
+14156800,register_adds_someone,declared_only,4.0,4.0,1,(control type not stated),1,under 25%
+14168418,both_ways,calculated_only,100.0,100.0,1,,0,over 25%
+14168418,both_ways,declared_only,0.0,0.0,1,(control type not stated),0,none
+14173046,register_misses_someone,calculated_only,50.0,50.0,0,,0,over 25%
+14175861,register_misses_someone,calculated_only,41.18,41.18,1,,0,over 25%
+14197271,both_ways,calculated_only,100.0,100.0,1,,0,over 25%
+14197271,both_ways,declared_only,0.0,0.0,0,Direct participation,0,none
+14197510,register_adds_someone,declared_only,19.92,19.92,1,Direct participation,0,under 25%
+14199465,register_adds_someone,declared_only,0.0,0.0,0,(control type not stated),1,none
+14199465,register_adds_someone,declared_only,25.0,25.0,0,(control type not stated),1,exactly 25%
+14199465,register_adds_someone,declared_only,25.0,25.0,0,(control type not stated),1,exactly 25%
+14199465,register_adds_someone,declared_only,25.0,25.0,0,(control type not stated),1,exactly 25%
+14202753,register_adds_someone,declared_only,15.0,15.0,1,Direct participation,0,under 25%
+14208690,both_ways,calculated_only,100.0,100.0,1,,0,over 25%
+14208690,both_ways,declared_only,0.0,0.0,0,Direct participation,0,none
+14208690,both_ways,declared_only,0.0,0.0,0,Direct participation,0,none
+14210362,register_adds_someone,declared_only,20.0,20.0,1,Direct participation,0,under 25%
+14211734,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+14213001,register_adds_someone,declared_only,0.0,0.0,1,Direct participation,0,none
+14218955,register_adds_someone,declared_only,0.0,0.0,0,(control type not stated),0,none
+14225932,register_adds_someone,declared_only,9.43,9.43,1,Direct participation,0,under 25%
+14230235,register_adds_someone,declared_only,16.67,16.67,1,(control type not stated),1,under 25%
+14230235,register_adds_someone,declared_only,16.67,16.67,1,(control type not stated),1,under 25%
+14231559,register_adds_someone,declared_only,0.0,0.0,1,Direct participation,0,none
+14231619,register_adds_someone,declared_only,10.0,10.0,1,(control type not stated),0,under 25%
+14231619,register_adds_someone,declared_only,20.0,20.0,1,Direct participation,0,under 25%
+14237220,register_adds_someone,declared_only,11.36,0.0,1,(control type not stated),1,under 25%
+14239383,both_ways,calculated_only,50.0,50.0,0,,0,over 25%
+14239383,both_ways,calculated_only,50.0,50.0,0,,0,over 25%
+14239383,both_ways,declared_only,0.0,0.0,1,Direct participation,0,none
+14243462,register_adds_someone,declared_only,20.0,20.0,1,(control type not stated),0,under 25%
+14244993,register_adds_someone,declared_only,24.0,24.0,0,Direct participation,1,under 25%
+14244993,register_adds_someone,declared_only,24.0,24.0,0,Direct participation,1,under 25%
+14244993,register_adds_someone,declared_only,24.0,24.0,1,(control type not stated),1,under 25%
+14244993,register_adds_someone,declared_only,24.0,24.0,1,(control type not stated),1,under 25%
+14244993,register_adds_someone,declared_only,4.0,4.0,0,Direct participation,1,under 25%
+14254997,register_adds_someone,declared_only,0.0,0.0,1,Direct participation,0,none
+14257932,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+14259411,both_ways,calculated_only,100.0,100.0,0,,0,over 25%
+14259411,both_ways,declared_only,0.0,0.0,1,(control type not stated),0,none
+14260704,both_ways,calculated_only,100.0,100.0,1,,0,over 25%
+14260704,both_ways,declared_only,0.0,0.0,0,Direct participation,0,none
+14261313,both_ways,calculated_only,100.0,100.0,1,,0,over 25%
+14261313,both_ways,declared_only,0.0,0.0,0,Direct participation,0,none
+14269510,register_adds_someone,declared_only,0.0,0.0,0,Direct participation,0,none
+14278779,register_adds_someone,declared_only,25.0,25.0,0,Direct participation,0,exactly 25%
+14281511,register_misses_someone,calculated_only,30.0,30.0,1,,0,over 25%
+14289352,register_adds_someone,declared_only,0.0,0.0,1,Direct participation,0,none
+14292667,register_adds_someone,declared_only,0.0,0.0,1,Direct participation,0,none
+14294465,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,0,exactly 25%
+14302331,both_ways,calculated_only,100.0,100.0,0,,0,over 25%
+14302331,both_ways,declared_only,0.0,0.0,0,Direct participation,0,none
+14302519,both_ways,calculated_only,100.0,100.0,0,,0,over 25%
+14302519,both_ways,declared_only,0.0,0.0,1,(control type not stated),0,none
+14322138,register_adds_someone,declared_only,0.0,0.0,1,Direct participation,0,none
+14325390,register_misses_someone,calculated_only,50.0,50.0,1,,0,over 25%
+14329198,register_adds_someone,declared_only,0.0,0.0,0,Direct participation,0,none
+14329212,register_adds_someone,declared_only,0.0,0.0,0,(control type not stated),0,none
+14329910,both_ways,calculated_only,100.0,100.0,1,,0,over 25%
+14329910,both_ways,declared_only,0.0,0.0,1,(control type not stated),0,none
+14332094,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+14340171,register_misses_someone,calculated_only,50.0,50.0,1,,0,over 25%
+14345694,register_adds_someone,declared_only,0.0,0.0,0,(control type not stated),0,none
+14347871,register_adds_someone,declared_only,0.0,0.0,1,Direct participation,0,none
+14348008,register_adds_someone,declared_only,15.0,15.0,1,Direct participation,0,under 25%
+14349278,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+14349806,register_adds_someone,declared_only,0.0,0.0,1,Direct participation,0,none
+14356947,register_adds_someone,declared_only,0.0,0.0,0,Indirect participation,1,none
+14356947,register_adds_someone,declared_only,0.0,0.0,0,Indirect participation,1,none
+14356947,register_adds_someone,declared_only,20.0,20.0,0,Direct participation,1,under 25%
+14356947,register_adds_someone,declared_only,20.0,20.0,0,Direct participation,1,under 25%
+14356947,register_adds_someone,declared_only,21.0,21.0,1,Direct participation,1,under 25%
+14357763,register_misses_someone,calculated_only,30.0,30.0,0,,0,over 25%
+14365024,register_misses_someone,calculated_only,70.0,70.0,0,,0,over 25%
+14365426,both_ways,calculated_only,75.0,75.0,1,,0,over 25%
+14365426,both_ways,declared_only,25.0,25.0,0,Direct participation,0,exactly 25%
+14366489,register_adds_someone,declared_only,0.0,0.0,1,Direct participation,0,none
+14374508,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+14375637,register_misses_someone,calculated_only,50.0,50.0,0,,0,over 25%
+14381164,register_adds_someone,declared_only,20.0,20.0,1,Direct participation,0,under 25%
+14390602,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+14392966,both_ways,calculated_only,100.0,100.0,0,,0,over 25%
+14392966,both_ways,declared_only,0.0,0.0,1,(control type not stated),0,none
+14394669,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+14397923,register_adds_someone,declared_only,0.0,0.0,0,Direct participation,0,none
+14398800,register_adds_someone,declared_only,0.0,0.0,0,Direct participation,0,none
+14402630,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,1,exactly 25%
+14402630,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,1,exactly 25%
+14402630,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,1,exactly 25%
+14402630,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,1,exactly 25%
+14412462,both_ways,calculated_only,100.0,0.0,0,,0,over 25%
+14412462,both_ways,declared_only,0.0,0.0,1,Direct participation,0,none
+14416804,register_misses_someone,calculated_only,41.67,41.67,0,,0,over 25%
+14418588,register_adds_someone,declared_only,0.0,0.0,0,(control type not stated),0,none
+14420131,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,0,exactly 25%
+14422704,register_misses_someone,calculated_only,66.91,66.91,1,,0,over 25%
+14424711,register_adds_someone,declared_only,20.0,20.0,0,Direct participation,0,under 25%
+14424711,register_adds_someone,declared_only,20.0,20.0,0,Direct participation,0,under 25%
+14426010,register_adds_someone,declared_only,10.0,10.0,1,(control type not stated),0,under 25%
+14427156,register_misses_someone,calculated_only,50.0,50.0,0,,0,over 25%
+14444284,both_ways,calculated_only,100.0,100.0,1,,0,over 25%
+14444284,both_ways,declared_only,0.0,0.0,1,Direct participation,0,none
+14445579,register_adds_someone,declared_only,0.0,0.0,0,Direct participation,1,none
+14445579,register_adds_someone,declared_only,11.7748,11.71,1,(control type not stated),1,under 25%
+14445579,register_adds_someone,declared_only,15.274,15.19,0,Direct participation,1,under 25%
+14445579,register_adds_someone,declared_only,6.6968,6.66,0,Direct participation,1,under 25%
+14445579,register_adds_someone,declared_only,9.1805,9.13,0,Direct participation,1,under 25%
+14445579,register_adds_someone,declared_only,9.3514,9.3,1,(control type not stated),1,under 25%
+14449407,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+14450847,register_misses_someone,calculated_only,50.0,50.0,0,,0,over 25%
+14463212,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+14466475,register_adds_someone,declared_only,0.0,0.0,0,Direct participation,0,none
+14466498,register_adds_someone,declared_only,0.0,0.0,0,Indirect participation,0,none
+14466498,register_adds_someone,declared_only,0.0,0.0,0,Indirect participation,0,none
+14466498,register_adds_someone,declared_only,0.0,0.0,0,Indirect participation,0,none
+14466498,register_adds_someone,declared_only,5.0,5.0,0,Direct participation,0,under 25%
+14471157,both_ways,calculated_only,100.0,100.0,1,,0,over 25%
+14471157,both_ways,declared_only,0.0,0.0,0,Direct participation,0,none
+14480392,register_adds_someone,declared_only,25.0,25.0,0,Direct participation,1,exactly 25%
+14483309,register_misses_someone,calculated_only,50.0,50.0,0,,0,over 25%
+14483746,register_adds_someone,declared_only,0.0,0.0,1,Direct participation,0,none
+14483769,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+14495146,both_ways,calculated_only,100.0,100.0,1,,0,over 25%
+14495146,both_ways,declared_only,0.0,0.0,0,Direct participation,0,none
+14496766,register_adds_someone,declared_only,10.0,10.0,1,Direct participation,0,under 25%
+14504901,register_adds_someone,declared_only,1.0,1.0,0,Direct participation,0,under 25%
+14508570,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+14511968,register_misses_someone,calculated_only,50.0,50.0,1,,0,over 25%
+14514731,register_adds_someone,declared_only,11.1089,0.0,0,Indirect participation,0,under 25%
+14514731,register_adds_someone,declared_only,11.1089,0.0,0,Indirect participation,0,under 25%
+14518114,register_adds_someone,declared_only,5.0,5.0,0,Direct participation,0,under 25%
+14521027,register_adds_someone,declared_only,24.0,24.0,1,Direct participation,0,under 25%
+14523302,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+14525864,register_adds_someone,declared_only,0.0,0.0,1,Other means of control or influence,0,none
+14535153,register_misses_someone,calculated_only,50.0,50.0,0,,0,over 25%
+14539889,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+14541774,register_adds_someone,declared_only,1.77,1.77,1,(control type not stated),1,under 25%
+14543112,register_misses_someone,calculated_only,50.0,50.0,1,,0,over 25%
+14554328,register_adds_someone,declared_only,0.0,0.0,0,Direct participation,0,none
+14557628,register_adds_someone,declared_only,0.0,0.0,0,(control type not stated),1,none
+14557628,register_adds_someone,declared_only,0.0,0.0,0,(control type not stated),1,none
+14557628,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),1,none
+14567006,both_ways,calculated_only,100.0,100.0,1,,0,over 25%
+14567006,both_ways,declared_only,0.0,0.0,0,(control type not stated),0,none
+14571953,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+14574064,register_adds_someone,declared_only,0.0,0.0,1,Other means of control or influence,0,none
+14582833,register_adds_someone,declared_only,25.0,25.0,0,Direct participation,0,exactly 25%
+14582833,register_adds_someone,declared_only,25.0,25.0,0,Direct participation,0,exactly 25%
+14588770,register_adds_someone,declared_only,20.0,0.0,1,Direct participation,0,under 25%
+14589350,register_adds_someone,declared_only,1.17,1.17,0,Direct participation,0,under 25%
+14589350,register_adds_someone,declared_only,1.74,1.74,0,Direct participation,0,under 25%
+14589350,register_adds_someone,declared_only,1.74,1.74,0,Direct participation,0,under 25%
+14605244,register_adds_someone,declared_only,0.0,0.0,1,Direct participation,0,none
+14610205,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,1,exactly 25%
+14611836,register_adds_someone,declared_only,0.0,0.0,0,Direct participation,0,none
+14620605,register_adds_someone,declared_only,25.0,0.0,1,Indirect participation,1,exactly 25%
+14620605,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,1,exactly 25%
+14620605,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,1,exactly 25%
+14620605,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,1,exactly 25%
+14622343,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+14624483,register_adds_someone,declared_only,17.0,17.0,1,Direct participation,0,under 25%
+14624483,register_adds_someone,declared_only,17.0,17.0,1,Direct participation,0,under 25%
+14626462,register_adds_someone,declared_only,20.0,20.0,1,Direct participation,0,under 25%
+14631572,register_adds_someone,declared_only,0.0,0.0,0,Direct participation,0,none
+14633097,register_adds_someone,declared_only,0.0,0.0,1,Indirect participation,0,none
+14633128,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+14633341,both_ways,calculated_only,100.0,100.0,1,,0,over 25%
+14633341,both_ways,declared_only,0.0,0.0,0,Other means of control or influence,0,none
+14636262,register_adds_someone,declared_only,0.0,0.0,0,(control type not stated),0,none
+14645031,register_adds_someone,declared_only,21.0,21.0,0,Direct participation,0,under 25%
+14646556,register_adds_someone,declared_only,0.0,0.0,0,(control type not stated),0,none
+14650871,register_misses_someone,calculated_only,29.41,29.41,1,,0,over 25%
+14655118,register_adds_someone,declared_only,0.0,0.0,0,(control type not stated),1,none
+14660355,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,1,exactly 25%
+14660355,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,1,exactly 25%
+14660355,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,1,exactly 25%
+14660355,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,1,exactly 25%
+14664011,register_adds_someone,declared_only,10.0,10.0,1,Direct participation,0,under 25%
+14664962,register_misses_someone,calculated_only,50.0,0.0,0,,0,over 25%
+14679024,register_misses_someone,calculated_only,50.0,50.0,1,,0,over 25%
+14682374,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),1,none
+14689229,both_ways,calculated_only,50.0,50.0,0,,0,over 25%
+14689229,both_ways,calculated_only,50.0,50.0,1,,0,over 25%
+14689229,both_ways,declared_only,0.0,0.0,0,Other means of control or influence,0,none
+14689525,register_adds_someone,declared_only,20.0,20.0,1,Direct participation,0,under 25%
+14691829,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+14693900,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,0,exactly 25%
+14696657,register_misses_someone,calculated_only,50.0,50.0,1,,0,over 25%
+14706287,register_adds_someone,declared_only,24.9,24.9,1,Direct participation,1,under 25%
+14709334,both_ways,calculated_only,100.0,100.0,1,,0,over 25%
+14709334,both_ways,declared_only,0.0,0.0,1,Direct participation,0,none
+14722576,register_misses_someone,calculated_only,50.0,50.0,0,,0,over 25%
+14730245,register_adds_someone,declared_only,0.0,0.0,1,Direct participation,0,none
+14730558,register_adds_someone,declared_only,10.0,10.0,1,Direct participation,0,under 25%
+14734987,both_ways,calculated_only,50.0,50.0,0,,0,over 25%
+14734987,both_ways,calculated_only,50.0,50.0,0,,0,over 25%
+14734987,both_ways,declared_only,0.0,0.0,1,(control type not stated),0,none
+14738092,register_misses_someone,calculated_only,50.0,50.0,1,,0,over 25%
+14746565,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),1,none
+14749173,register_misses_someone,calculated_only,32.3,0.0,0,,0,over 25%
+14759208,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,1,exactly 25%
+14759208,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,1,exactly 25%
+14759728,register_misses_someone,calculated_only,50.0,50.0,1,,0,over 25%
+14764391,both_ways,calculated_only,100.0,100.0,1,,0,over 25%
+14764391,both_ways,declared_only,0.0,0.0,0,Direct participation,0,none
+14772462,register_misses_someone,calculated_only,50.0,50.0,1,,0,over 25%
+14773361,register_adds_someone,declared_only,0.0,0.0,0,Other means of control or influence,0,none
+14773361,register_adds_someone,declared_only,0.0,0.0,0,Other means of control or influence,0,none
+14776738,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,1,exactly 25%
+14776738,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,1,exactly 25%
+14776738,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,1,exactly 25%
+14776738,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,1,exactly 25%
+14778915,both_ways,calculated_only,100.0,100.0,1,,0,over 25%
+14778915,both_ways,declared_only,0.0,0.0,1,(control type not stated),0,none
+14781352,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+14783359,both_ways,calculated_only,40.0,0.0,0,,0,over 25%
+14783359,both_ways,declared_only,0.0,0.0,0,Indirect participation,0,none
+14784442,register_misses_someone,calculated_only,50.0,50.0,1,,0,over 25%
+14792878,register_adds_someone,declared_only,11.11,11.11,0,Direct participation,1,under 25%
+14792878,register_adds_someone,declared_only,11.11,11.11,0,Direct participation,1,under 25%
+14792878,register_adds_someone,declared_only,11.11,11.11,0,Direct participation,1,under 25%
+14792878,register_adds_someone,declared_only,11.11,11.11,0,Direct participation,1,under 25%
+14792878,register_adds_someone,declared_only,11.11,11.11,0,Direct participation,1,under 25%
+14792878,register_adds_someone,declared_only,11.11,11.11,0,Direct participation,1,under 25%
+14792878,register_adds_someone,declared_only,11.11,11.11,1,Direct participation,1,under 25%
+14792878,register_adds_someone,declared_only,11.11,11.11,1,Direct participation,1,under 25%
+14792878,register_adds_someone,declared_only,11.11,11.11,1,Direct participation,1,under 25%
+14810435,register_adds_someone,declared_only,0.0,0.0,0,Direct participation,0,none
+14817064,register_misses_someone,calculated_only,50.0,50.0,1,,0,over 25%
+14817495,register_adds_someone,declared_only,0.0,0.0,1,Direct participation,0,none
+14817555,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,0,exactly 25%
+14819270,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,1,exactly 25%
+14819270,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,1,exactly 25%
+14819270,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,1,exactly 25%
+14819270,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,1,exactly 25%
+14820669,both_ways,calculated_only,100.0,100.0,1,,0,over 25%
+14820669,both_ways,declared_only,0.0,0.0,0,(control type not stated),0,none
+14825017,register_misses_someone,calculated_only,50.0,50.0,0,,0,over 25%
+14829469,register_misses_someone,calculated_only,49.0,49.0,1,,0,over 25%
+14832365,both_ways,calculated_only,100.0,100.0,0,,0,over 25%
+14832365,both_ways,declared_only,0.0,0.0,1,(control type not stated),0,none
+14841430,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+14855840,register_adds_someone,declared_only,0.0,0.0,1,Other means of control or influence,0,none
+14858577,register_adds_someone,declared_only,12.0,0.0,1,Indirect participation,0,under 25%
+14861295,register_adds_someone,declared_only,24.0,24.0,1,(control type not stated),0,under 25%
+14861295,register_adds_someone,declared_only,24.0,24.0,1,(control type not stated),0,under 25%
+14865643,both_ways,calculated_only,99.0,99.0,0,,0,over 25%
+14865643,both_ways,declared_only,1.0,1.0,1,Direct participation,0,under 25%
+14870414,register_adds_someone,declared_only,0.0,0.0,0,Other means of control or influence,0,none
+14882529,register_adds_someone,declared_only,12.0,12.0,0,Direct participation,0,under 25%
+14897293,both_ways,calculated_only,50.0,50.0,0,,0,over 25%
+14897293,both_ways,declared_only,0.0,0.0,0,Direct participation,0,none
+14901540,register_adds_someone,declared_only,0.0,0.0,1,Other means of control or influence,0,none
+14903792,both_ways,calculated_only,100.0,100.0,0,,0,over 25%
+14903792,both_ways,declared_only,0.0,0.0,0,Direct participation,0,none
+14906879,register_adds_someone,declared_only,0.0,0.0,0,Indirect participation,0,none
+14906879,register_adds_someone,declared_only,0.0,0.0,1,Indirect participation,0,none
+14907896,register_adds_someone,declared_only,16.67,16.67,0,Direct participation,0,under 25%
+14910177,register_adds_someone,declared_only,20.0,20.0,1,Direct participation,1,under 25%
+14910177,register_adds_someone,declared_only,20.0,20.0,1,Direct participation,1,under 25%
+14910177,register_adds_someone,declared_only,20.0,20.0,1,Direct participation,1,under 25%
+14910177,register_adds_someone,declared_only,20.0,20.0,1,Direct participation,1,under 25%
+14910177,register_adds_someone,declared_only,20.0,20.0,1,Direct participation,1,under 25%
+14911053,both_ways,calculated_only,100.0,100.0,1,,0,over 25%
+14911053,both_ways,declared_only,0.0,0.0,0,(control type not stated),0,none
+14914212,register_adds_someone,declared_only,0.0,0.0,1,Direct participation,0,none
+14918954,both_ways,calculated_only,32.6702,0.0,0,,0,over 25%
+14918954,both_ways,declared_only,17.9143,17.47,1,Direct participation,0,under 25%
+14923240,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+14928326,both_ways,calculated_only,100.0,100.0,1,,0,over 25%
+14928326,both_ways,declared_only,0.0,0.0,0,Direct participation,0,none
+14940907,register_misses_someone,calculated_only,50.0,50.0,1,,0,over 25%
+14941077,register_misses_someone,calculated_only,50.0,50.0,1,,0,over 25%
+14941953,register_misses_someone,calculated_only,49.0,49.0,0,,0,over 25%
+14946525,register_adds_someone,declared_only,13.5,13.5,1,(control type not stated),1,under 25%
+14946525,register_adds_someone,declared_only,13.5,13.5,1,(control type not stated),1,under 25%
+14946525,register_adds_someone,declared_only,13.5,13.5,1,(control type not stated),1,under 25%
+14946525,register_adds_someone,declared_only,13.5,13.5,1,(control type not stated),1,under 25%
+14946525,register_adds_someone,declared_only,14.5,14.5,1,(control type not stated),1,under 25%
+14947944,register_adds_someone,declared_only,10.0,10.0,1,Direct participation,0,under 25%
+14953554,register_misses_someone,calculated_only,50.0,50.0,1,,0,over 25%
+14959739,register_misses_someone,calculated_only,100.0,0.0,0,,0,over 25%
+14963682,register_adds_someone,declared_only,4.0,4.0,1,(control type not stated),0,under 25%
+14964244,register_adds_someone,declared_only,1.0,1.0,0,Direct participation,0,under 25%
+14965066,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,0,exactly 25%
+14975780,register_adds_someone,declared_only,0.0,0.0,0,(control type not stated),0,none
+14976420,register_misses_someone,calculated_only,50.0,50.0,0,,0,over 25%
+14982596,register_adds_someone,declared_only,0.0,0.0,0,Indirect participation,0,none
+14982596,register_adds_someone,declared_only,0.35,0.35,0,Direct participation,0,under 25%
+14982596,register_adds_someone,declared_only,0.4,0.0,0,Indirect participation,0,under 25%
+14982596,register_adds_someone,declared_only,0.4,0.0,0,Indirect participation,0,under 25%
+14982596,register_adds_someone,declared_only,0.47,0.47,0,Direct participation,0,under 25%
+14982596,register_adds_someone,declared_only,0.69,0.69,0,Direct participation,0,under 25%
+14982596,register_adds_someone,declared_only,0.8,0.8,0,Direct participation,0,under 25%
+14982596,register_adds_someone,declared_only,0.98,0.98,0,Direct participation,0,under 25%
+14982596,register_adds_someone,declared_only,1.02,1.02,0,Direct participation,0,under 25%
+14982596,register_adds_someone,declared_only,1.075,0.0,0,Indirect participation,0,under 25%
+14982596,register_adds_someone,declared_only,1.075,0.0,0,Indirect participation,0,under 25%
+14982596,register_adds_someone,declared_only,1.09,0.0,0,Indirect participation,0,under 25%
+14982596,register_adds_someone,declared_only,1.36,0.0,0,Indirect participation,0,under 25%
+14982596,register_adds_someone,declared_only,1.76,0.0,0,Indirect participation,0,under 25%
+14982596,register_adds_someone,declared_only,1.86,0.0,0,Indirect participation,0,under 25%
+14982596,register_adds_someone,declared_only,1.88,0.0,0,Indirect participation,0,under 25%
+14982596,register_adds_someone,declared_only,2.23,0.0,0,Indirect participation,0,under 25%
+14982596,register_adds_someone,declared_only,21.27,0.0,1,Indirect participation,0,under 25%
+14982596,register_adds_someone,declared_only,3.09,0.0,0,Indirect participation,0,under 25%
+14982596,register_adds_someone,declared_only,5.69,0.0,0,Indirect participation,0,under 25%
+14982596,register_adds_someone,declared_only,6.38,0.0,0,Indirect participation,0,under 25%
+14982596,register_adds_someone,declared_only,7.65,0.0,1,Indirect participation,0,under 25%
+14987004,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,1,exactly 25%
+14987004,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,1,exactly 25%
+14987004,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,1,exactly 25%
+14987004,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,1,exactly 25%
+14988742,register_misses_someone,calculated_only,50.0,50.0,0,,0,over 25%
+14994518,register_misses_someone,calculated_only,30.0,30.0,1,,0,over 25%
+14996345,register_adds_someone,declared_only,14.12,0.0,1,(control type not stated),1,under 25%
+14998166,register_misses_someone,calculated_only,50.0,50.0,0,,0,over 25%
+16003621,register_adds_someone,declared_only,0.0,0.0,0,Direct participation,0,none
+16007435,register_adds_someone,declared_only,7.52,7.52,0,Direct participation,0,under 25%
+16007435,register_adds_someone,declared_only,7.52,7.52,1,Direct participation,0,under 25%
+16010609,register_adds_someone,declared_only,0.0,0.0,1,Direct participation,0,none
+16017178,both_ways,calculated_only,100.0,100.0,1,,0,over 25%
+16017178,both_ways,declared_only,0.0,0.0,0,Direct participation,0,none
+16023138,register_adds_someone,declared_only,19.686,0.0,0,Indirect participation,1,under 25%
+16023138,register_adds_someone,declared_only,20.0,0.0,1,Indirect participation,1,under 25%
+16024882,register_adds_someone,declared_only,0.0,0.0,1,Indirect participation,0,none
+16024882,register_adds_someone,declared_only,25.0,25.0,0,Direct participation,0,exactly 25%
+16027722,register_adds_someone,declared_only,20.0,20.0,1,Direct participation,0,under 25%
+16027834,register_adds_someone,declared_only,0.0,0.0,0,Other means of control or influence,0,none
+16028584,both_ways,calculated_only,100.0,100.0,1,,0,over 25%
+16028584,both_ways,declared_only,0.0,0.0,1,(control type not stated),0,none
+16030210,register_adds_someone,declared_only,20.0,20.0,1,Direct participation,0,under 25%
+16036454,register_adds_someone,declared_only,25.0,25.0,0,Direct participation,1,exactly 25%
+16036454,register_adds_someone,declared_only,25.0,25.0,0,Direct participation,1,exactly 25%
+16036454,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,1,exactly 25%
+16036454,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,1,exactly 25%
+16044258,register_misses_someone,calculated_only,50.0,50.0,0,,0,over 25%
+16044838,register_adds_someone,declared_only,4.75,4.75,0,Direct participation,0,under 25%
+16044838,register_adds_someone,declared_only,4.75,4.75,0,Direct participation,0,under 25%
+16055836,register_adds_someone,declared_only,0.0,0.0,1,Indirect participation,1,none
+16055836,register_adds_someone,declared_only,0.0,0.0,1,Indirect participation,1,none
+16056706,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,0,exactly 25%
+16056706,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,0,exactly 25%
+16068804,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+16072220,both_ways,calculated_only,100.0,100.0,0,,0,over 25%
+16072220,both_ways,declared_only,0.0,0.0,1,Direct participation,0,none
+16077364,register_misses_someone,calculated_only,50.0,50.0,0,,0,over 25%
+16081756,both_ways,calculated_only,50.0,50.0,1,,0,over 25%
+16081756,both_ways,declared_only,0.0,0.0,0,Direct participation,0,none
+16094859,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+16110624,register_adds_someone,declared_only,20.0,20.0,1,Direct participation,0,under 25%
+16115780,both_ways,calculated_only,100.0,100.0,0,,0,over 25%
+16115780,both_ways,declared_only,0.0,0.0,1,Direct participation,0,none
+16115975,register_adds_someone,declared_only,12.26,12.26,0,Direct participation,0,under 25%
+16115975,register_adds_someone,declared_only,12.26,12.26,0,Direct participation,0,under 25%
+16115975,register_adds_someone,declared_only,12.26,12.26,0,Direct participation,0,under 25%
+16115975,register_adds_someone,declared_only,12.26,12.26,1,Direct participation,0,under 25%
+16115975,register_adds_someone,declared_only,5.0929,0.0,0,Indirect participation,0,under 25%
+16138137,register_misses_someone,calculated_only,40.0,40.0,0,,0,over 25%
+16154024,register_adds_someone,declared_only,10.0157,0.0,1,Indirect participation,0,under 25%
+16154024,register_adds_someone,declared_only,11.6588,0.0,0,(control type not stated),0,under 25%
+16154024,register_adds_someone,declared_only,11.6588,0.0,0,(control type not stated),0,under 25%
+16158312,register_adds_someone,declared_only,0.0,0.0,0,Direct participation,0,none
+16162472,register_misses_someone,calculated_only,50.0,50.0,0,,0,over 25%
+16169238,register_adds_someone,declared_only,20.0,20.0,1,(control type not stated),0,under 25%
+16169965,register_adds_someone,declared_only,25.0,0.0,0,Direct participation,1,exactly 25%
+16169965,register_adds_someone,declared_only,25.0,25.0,0,Direct participation,1,exactly 25%
+16169965,register_adds_someone,declared_only,25.0,25.0,1,(control type not stated),1,exactly 25%
+16169965,register_adds_someone,declared_only,25.0,25.0,1,(control type not stated),1,exactly 25%
+16182888,register_adds_someone,declared_only,0.0,0.0,0,Direct participation,0,none
+16182888,register_adds_someone,declared_only,0.0,0.0,1,Direct participation,0,none
+16187532,register_misses_someone,calculated_only,50.0,0.0,0,,0,over 25%
+16196293,register_adds_someone,declared_only,5.0,5.0,0,Direct participation,0,under 25%
+16196293,register_adds_someone,declared_only,7.0,7.0,1,Direct participation,0,under 25%
+16196755,register_adds_someone,declared_only,17.0,0.0,0,Indirect participation,0,under 25%
+16196755,register_adds_someone,declared_only,17.0,0.0,0,Indirect participation,0,under 25%
+16201166,register_adds_someone,declared_only,25.0,25.0,0,Direct participation,1,exactly 25%
+16201166,register_adds_someone,declared_only,25.0,25.0,0,Direct participation,1,exactly 25%
+16201166,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,1,exactly 25%
+16201166,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,1,exactly 25%
+16204325,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+16209682,register_adds_someone,declared_only,0.0,0.0,1,Direct participation,0,none
+16211118,register_adds_someone,declared_only,10.0,10.0,1,(control type not stated),0,under 25%
+16211408,register_adds_someone,declared_only,0.0,0.0,0,(control type not stated),0,none
+16218787,register_adds_someone,declared_only,20.0,0.0,1,(control type not stated),0,under 25%
+16220465,register_misses_someone,calculated_only,50.0,50.0,1,,0,over 25%
+16220554,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+16228969,register_misses_someone,calculated_only,49.97,49.97,1,,0,over 25%
+16233806,both_ways,calculated_only,80.0,80.0,0,,0,over 25%
+16233806,both_ways,declared_only,20.0,20.0,1,Direct participation,0,under 25%
+16236348,register_adds_someone,declared_only,0.0,0.0,0,(control type not stated),0,none
+16236868,register_adds_someone,declared_only,0.0,0.0,1,Indirect participation,0,none
+16238940,register_misses_someone,calculated_only,50.0,50.0,0,,0,over 25%
+16239973,register_adds_someone,declared_only,3.0,3.0,0,Direct participation,0,under 25%
+16242745,register_adds_someone,declared_only,20.0,20.0,0,Direct participation,0,under 25%
+16248191,register_misses_someone,calculated_only,39.4347,35.44,1,,0,over 25%
+16252365,register_adds_someone,declared_only,0.99,0.99,0,Direct participation,0,under 25%
+16257586,register_adds_someone,declared_only,0.0,0.0,0,Indirect participation,0,none
+16259958,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,0,exactly 25%
+16259958,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,0,exactly 25%
+16280094,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+16285884,both_ways,calculated_only,100.0,100.0,0,,0,over 25%
+16285884,both_ways,declared_only,0.0,0.0,1,(control type not stated),0,none
+16285944,both_ways,calculated_only,50.0,50.0,1,,0,over 25%
+16285944,both_ways,calculated_only,50.0,50.0,1,,0,over 25%
+16285944,both_ways,declared_only,0.0,0.0,0,Other means of control or influence,0,none
+16286139,both_ways,calculated_only,50.0,50.0,1,,0,over 25%
+16286139,both_ways,calculated_only,50.0,50.0,1,,0,over 25%
+16286139,both_ways,declared_only,0.0,0.0,0,Other means of control or influence,0,none
+16287788,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+16291821,register_adds_someone,declared_only,0.0,0.0,0,Direct participation,0,none
+16292217,register_adds_someone,declared_only,24.5,24.5,1,Direct participation,0,under 25%
+16292217,register_adds_someone,declared_only,24.5,24.5,1,Direct participation,0,under 25%
+16293033,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),1,none
+16293033,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),1,none
+16293033,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),1,none
+16293033,register_adds_someone,declared_only,25.0,0.0,1,(control type not stated),1,exactly 25%
+16295188,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+16301198,register_misses_someone,calculated_only,32.5,32.5,0,,0,over 25%
+16301198,register_misses_someone,calculated_only,35.0,0.0,0,,0,over 25%
+16305523,register_adds_someone,declared_only,20.0,20.0,1,Direct participation,0,under 25%
+16306190,register_misses_someone,calculated_only,50.0,50.0,1,,0,over 25%
+16307982,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,0,exactly 25%
+16312428,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+16319092,register_adds_someone,declared_only,24.0,24.0,0,Direct participation,0,under 25%
+16319092,register_adds_someone,declared_only,24.0,24.0,1,Direct participation,0,under 25%
+16320557,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+16328493,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+16334720,register_adds_someone,declared_only,20.0,20.0,0,(control type not stated),0,under 25%
+16338043,register_adds_someone,declared_only,0.0,0.0,1,Direct participation,0,none
+16340502,register_adds_someone,declared_only,0.0,0.0,1,Direct participation,0,none
+16342903,register_misses_someone,calculated_only,50.0,50.0,1,,0,over 25%
+16343104,both_ways,calculated_only,100.0,100.0,1,,0,over 25%
+16343104,both_ways,declared_only,0.0,0.0,0,Direct participation,0,none
+16343423,both_ways,calculated_only,75.0,75.0,1,,0,over 25%
+16343423,both_ways,declared_only,0.0,0.0,0,Direct participation,0,none
+16352793,register_misses_someone,calculated_only,50.0,50.0,1,,0,over 25%
+16359849,register_adds_someone,declared_only,1.0,1.0,0,Direct participation,0,under 25%
+16362449,register_adds_someone,declared_only,0.0,0.0,0,Indirect participation,0,none
+16363928,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,1,exactly 25%
+16363928,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,1,exactly 25%
+16363928,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,1,exactly 25%
+16363928,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,1,exactly 25%
+16365175,register_adds_someone,declared_only,25.0,25.0,1,(control type not stated),1,exactly 25%
+16365175,register_adds_someone,declared_only,25.0,25.0,1,(control type not stated),1,exactly 25%
+16365175,register_adds_someone,declared_only,25.0,25.0,1,(control type not stated),1,exactly 25%
+16365175,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,1,exactly 25%
+16371951,register_adds_someone,declared_only,20.0,20.0,1,(control type not stated),0,under 25%
+16378634,both_ways,calculated_only,100.0,100.0,1,,0,over 25%
+16378634,both_ways,declared_only,0.0,0.0,1,Other means of control or influence,0,none
+16381398,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+16390925,register_adds_someone,declared_only,24.07,24.07,0,Direct participation,0,under 25%
+16390925,register_adds_someone,declared_only,24.07,24.07,0,Direct participation,0,under 25%
+16400546,register_misses_someone,calculated_only,50.0,50.0,1,,0,over 25%
+16402219,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+16402640,both_ways,calculated_only,40.0,0.0,0,,0,over 25%
+16402640,both_ways,declared_only,0.0,0.0,0,Indirect participation,0,none
+16404627,register_adds_someone,declared_only,1.0101,1.0,1,(control type not stated),0,under 25%
+16405153,both_ways,calculated_only,100.0,100.0,1,,0,over 25%
+16405153,both_ways,declared_only,0.0,0.0,0,Other means of control or influence,0,none
+16406193,register_adds_someone,declared_only,0.0,0.0,1,Direct participation,0,none
+16409027,register_adds_someone,declared_only,0.0,0.0,0,Direct participation,0,none
+16419385,register_adds_someone,declared_only,0.0,0.0,0,Other means of control or influence,0,none
+16422358,register_adds_someone,declared_only,16.0,16.0,0,Direct participation,0,under 25%
+16427893,register_adds_someone,declared_only,25.0,0.0,0,Indirect participation,0,exactly 25%
+16427893,register_adds_someone,declared_only,25.0,0.0,1,Indirect participation,0,exactly 25%
+16430286,register_adds_someone,declared_only,0.0,0.0,0,Direct participation,0,none
+16430702,register_adds_someone,declared_only,20.0,20.0,1,(control type not stated),0,under 25%
+16430702,register_adds_someone,declared_only,20.0,20.0,1,(control type not stated),0,under 25%
+16441539,register_adds_someone,declared_only,2.78,2.78,1,(control type not stated),0,under 25%
+16454464,register_adds_someone,declared_only,0.0,0.0,0,(control type not stated),0,none
+16455797,register_adds_someone,declared_only,20.0,20.0,1,Direct participation,0,under 25%
+16457173,register_adds_someone,declared_only,20.0,20.0,0,Direct participation,1,under 25%
+16457173,register_adds_someone,declared_only,20.0,20.0,0,Direct participation,1,under 25%
+16457173,register_adds_someone,declared_only,20.0,20.0,0,Direct participation,1,under 25%
+16457173,register_adds_someone,declared_only,20.0,20.0,1,(control type not stated),1,under 25%
+16457173,register_adds_someone,declared_only,20.0,20.0,1,(control type not stated),1,under 25%
+16458221,register_adds_someone,declared_only,0.0,0.0,0,(control type not stated),1,none
+16462041,register_adds_someone,declared_only,22.6,0.0,1,(control type not stated),1,under 25%
+16462041,register_adds_someone,declared_only,22.6,0.0,1,(control type not stated),1,under 25%
+16465215,register_adds_someone,declared_only,0.0,0.0,0,Direct participation,0,none
+16472861,register_adds_someone,declared_only,25.0,25.0,0,Direct participation,1,exactly 25%
+16472861,register_adds_someone,declared_only,25.0,25.0,0,Direct participation,1,exactly 25%
+16472861,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,1,exactly 25%
+16472861,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,1,exactly 25%
+16477951,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,0,exactly 25%
+16477951,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,0,exactly 25%
+16492714,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+16496925,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,1,exactly 25%
+16496925,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,1,exactly 25%
+16496925,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,1,exactly 25%
+16496925,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,1,exactly 25%
+16506368,register_misses_someone,calculated_only,50.02,49.98,1,,0,over 25%
+16520500,both_ways,calculated_only,100.0,100.0,1,,0,over 25%
+16520500,both_ways,declared_only,0.0,0.0,0,Direct participation,0,none
+16547568,register_adds_someone,declared_only,5.38,5.38,0,Direct participation,0,under 25%
+16556656,register_adds_someone,declared_only,15.0,15.0,1,Direct participation,0,under 25%
+16557495,register_misses_someone,calculated_only,50.0,50.0,0,,0,over 25%
+16561172,register_adds_someone,declared_only,0.0,0.0,0,(control type not stated),0,none
+16562817,register_adds_someone,declared_only,5.0,5.0,0,Direct participation,0,under 25%
+16562817,register_adds_someone,declared_only,5.0,5.0,0,Direct participation,0,under 25%
+16566718,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+16566962,register_adds_someone,declared_only,0.0,0.0,0,Other means of control or influence,0,none
+16567140,register_adds_someone,declared_only,0.0,0.0,0,(control type not stated),0,none
+16577109,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,0,exactly 25%
+16581861,register_adds_someone,declared_only,0.0,0.0,0,Indirect participation,0,none
+16595544,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+16597218,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+16600665,register_adds_someone,declared_only,19.1,19.1,1,(control type not stated),0,under 25%
+16612076,register_adds_someone,declared_only,0.0,0.0,0,(control type not stated),0,none
+16616341,both_ways,calculated_only,100.0,100.0,1,,0,over 25%
+16616341,both_ways,declared_only,0.0,0.0,0,Direct participation,0,none
+16619598,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+16623878,register_adds_someone,declared_only,25.0,25.0,0,Direct participation,1,exactly 25%
+16623878,register_adds_someone,declared_only,25.0,25.0,0,Direct participation,1,exactly 25%
+16623878,register_adds_someone,declared_only,25.0,25.0,0,Direct participation,1,exactly 25%
+16623878,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,1,exactly 25%
+16629326,register_adds_someone,declared_only,20.0,20.0,1,(control type not stated),0,under 25%
+16629591,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+16637840,register_adds_someone,declared_only,25.0,0.0,1,Indirect participation,1,exactly 25%
+16642120,register_misses_someone,calculated_only,50.0,50.0,0,,0,over 25%
+16648128,register_adds_someone,declared_only,0.0,0.0,0,Direct participation,0,none
+16648246,register_adds_someone,declared_only,16.0,0.0,1,Indirect participation,0,under 25%
+16658019,register_misses_someone,calculated_only,50.0,50.0,0,,0,over 25%
+16661011,register_adds_someone,declared_only,24.0,24.0,0,Direct participation,0,under 25%
+16671015,both_ways,calculated_only,45.0,45.0,0,,0,over 25%
+16671015,both_ways,calculated_only,45.0,45.0,0,,0,over 25%
+16671015,both_ways,declared_only,10.0,10.0,1,Direct participation,0,under 25%
+16674806,both_ways,calculated_only,100.0,100.0,0,,0,over 25%
+16674806,both_ways,declared_only,0.0,0.0,1,(control type not stated),0,none
+16674806,both_ways,declared_only,0.0,0.0,1,(control type not stated),0,none
+16675875,register_adds_someone,declared_only,0.0,0.0,0,Direct participation,0,none
+16680340,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,1,exactly 25%
+16680340,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,1,exactly 25%
+16680340,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,1,exactly 25%
+16680340,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,1,exactly 25%
+16704625,register_adds_someone,declared_only,0.0,0.0,1,Direct participation,0,none
+16707612,register_misses_someone,calculated_only,50.0,50.0,0,,0,over 25%
+16717898,register_adds_someone,declared_only,0.0,0.0,1,Other means of control or influence,0,none
+16733213,register_adds_someone,declared_only,5.0,5.0,0,Direct participation,0,under 25%
+16740325,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),0,none
+16757277,register_adds_someone,declared_only,20.0,20.0,0,Direct participation,0,under 25%
+16760256,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,0,exactly 25%
+16769990,register_adds_someone,declared_only,20.0,20.0,1,Direct participation,0,under 25%
+16780388,both_ways,calculated_only,100.0,100.0,1,,0,over 25%
+16780388,both_ways,declared_only,0.0,0.0,0,(control type not stated),0,none
+16797450,both_ways,calculated_only,100.0,100.0,0,,0,over 25%
+16797450,both_ways,declared_only,0.0,0.0,1,(control type not stated),0,none
+16807041,register_misses_someone,calculated_only,49.59,49.59,0,,0,over 25%
+16817818,register_adds_someone,declared_only,0.0,0.0,1,Indirect participation,1,none
+16817818,register_adds_someone,declared_only,22.06,0.0,0,Indirect participation,1,under 25%
+16817818,register_adds_someone,declared_only,22.06,0.0,0,Indirect participation,1,under 25%
+16818866,register_adds_someone,declared_only,20.0,20.0,1,Direct participation,0,under 25%
+16844496,register_adds_someone,declared_only,22.22,22.22,1,(control type not stated),0,under 25%
+16846791,register_adds_someone,declared_only,0.0,0.0,1,(control type not stated),1,none
+16846791,register_adds_someone,declared_only,20.0,0.0,1,(control type not stated),1,under 25%
+16846791,register_adds_someone,declared_only,20.0,0.0,1,(control type not stated),1,under 25%
+16846791,register_adds_someone,declared_only,20.0,0.0,1,(control type not stated),1,under 25%
+16846791,register_adds_someone,declared_only,20.0,0.0,1,(control type not stated),1,under 25%
+16856594,register_adds_someone,declared_only,20.0,20.0,1,(control type not stated),1,under 25%
+16874927,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,1,exactly 25%
+16874927,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,1,exactly 25%
+16874927,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,1,exactly 25%
+16874927,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,1,exactly 25%
+16878354,register_adds_someone,declared_only,25.0,25.0,0,Direct participation,1,exactly 25%
+16878354,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,1,exactly 25%
+16878354,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,1,exactly 25%
+16878354,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,1,exactly 25%
+16894293,register_adds_someone,declared_only,25.0,25.0,0,Direct participation,1,exactly 25%
+16894293,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,1,exactly 25%
+16894293,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,1,exactly 25%
+16894293,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,1,exactly 25%
+16902911,both_ways,calculated_only,100.0,100.0,0,,0,over 25%
+16902911,both_ways,declared_only,0.0,0.0,1,(control type not stated),0,none
+16904471,both_ways,calculated_only,100.0,100.0,0,,0,over 25%
+16904471,both_ways,declared_only,0.0,0.0,1,(control type not stated),0,none
+16905200,register_misses_someone,calculated_only,50.0,50.0,1,,0,over 25%
+16909758,register_adds_someone,declared_only,0.0,0.0,1,Indirect participation,0,none
+16915492,register_adds_someone,declared_only,3.33,3.33,1,(control type not stated),0,under 25%
+16922345,register_adds_someone,declared_only,20.0,20.0,1,Direct participation,0,under 25%
+17011284,register_adds_someone,declared_only,25.0,25.0,1,Direct participation,0,exactly 25%
+17018062,both_ways,calculated_only,100.0,100.0,0,,0,over 25%
+17018062,both_ways,declared_only,0.0,0.0,1,(control type not stated),0,none
+17022247,register_adds_someone,declared_only,20.0,20.0,1,(control type not stated),0,under 25%
+17116273,register_adds_someone,declared_only,0.0,0.0,0,Direct participation,0,none
