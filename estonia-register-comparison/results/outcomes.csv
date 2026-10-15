@@ -1,0 +1,21 @@
+rule,class,label,companies,pct_of_comparable
+"integrated, more than 25%",same_people,Same people,19166,95.1
+"integrated, more than 25%",register_adds_someone,Register names someone the shares do not,732,3.6
+"integrated, more than 25%",register_misses_someone,Shares show someone the register does not name,125,0.6
+"integrated, more than 25%",both_ways,Differences both ways,132,0.7
+"integrated, more than 25%",comparable,Comparable companies,20155,100.0
+"integrated, 25% or more (AMLR)",same_people,Same people,19263,95.6
+"integrated, 25% or more (AMLR)",register_adds_someone,Register names someone the shares do not,596,3.0
+"integrated, 25% or more (AMLR)",register_misses_someone,Shares show someone the register does not name,152,0.8
+"integrated, 25% or more (AMLR)",both_ways,Differences both ways,130,0.6
+"integrated, 25% or more (AMLR)",comparable,Comparable companies,20141,100.0
+"majority control, more than 25%",same_people,Same people,19115,94.8
+"majority control, more than 25%",register_adds_someone,Register names someone the shares do not,792,3.9
+"majority control, more than 25%",register_misses_someone,Shares show someone the register does not name,122,0.6
+"majority control, more than 25%",both_ways,Differences both ways,129,0.6
+"majority control, more than 25%",comparable,Comparable companies,20158,100.0
+"integrated, more than 25%, hash only",same_people,Same people,18822,93.4
+"integrated, more than 25%, hash only",register_adds_someone,Register names someone the shares do not,723,3.6
+"integrated, more than 25%, hash only",register_misses_someone,Shares show someone the register does not name,121,0.6
+"integrated, more than 25%, hash only",both_ways,Differences both ways,489,2.4
+"integrated, more than 25%, hash only",comparable,Comparable companies,20155,100.0
